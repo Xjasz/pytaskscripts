@@ -1,6 +1,6 @@
 # Main Files
 video/*
-data/over*
+projects/stake/data/over*
 logs/*
 found.txt
 processed.txt
