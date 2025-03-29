@@ -19,7 +19,7 @@ StakeTracker is an automation tool designed to scrape and analyze historical gam
 
 This is an actual log snapshot of `crashpoint` analysis for values above 49999:
 
-![example output](projects/stake/images/example_output.jpg)
+![example output](images/example_output.jpg)
 
 ---
 
