@@ -1,0 +1,3002 @@
+[
+    {
+        "crashpoint": 14070.54,
+        "startTime": "2025-03-23T20:07:30",
+        "records_since_previous": 67,
+        "time_since_previous": "0:37:09"
+    },
+    {
+        "crashpoint": 264.51,
+        "startTime": "2025-03-23T19:30:21",
+        "records_since_previous": 386,
+        "time_since_previous": "3:00:08"
+    },
+    {
+        "crashpoint": 896.1,
+        "startTime": "2025-03-23T16:30:13",
+        "records_since_previous": 181,
+        "time_since_previous": "1:22:46"
+    },
+    {
+        "crashpoint": 338.1,
+        "startTime": "2025-03-23T15:07:27",
+        "records_since_previous": 135,
+        "time_since_previous": "1:02:09"
+    },
+    {
+        "crashpoint": 559.96,
+        "startTime": "2025-03-23T14:05:18",
+        "records_since_previous": 37,
+        "time_since_previous": "0:17:52"
+    },
+    {
+        "crashpoint": 228.29,
+        "startTime": "2025-03-23T13:47:26",
+        "records_since_previous": 13,
+        "time_since_previous": "0:07:42"
+    },
+    {
+        "crashpoint": 375.02,
+        "startTime": "2025-03-23T13:39:44",
+        "records_since_previous": 13,
+        "time_since_previous": "0:08:05"
+    },
+    {
+        "crashpoint": 694.69,
+        "startTime": "2025-03-23T13:31:39",
+        "records_since_previous": 49,
+        "time_since_previous": "0:24:04"
+    },
+    {
+        "crashpoint": 409.7,
+        "startTime": "2025-03-23T13:07:35",
+        "records_since_previous": 15,
+        "time_since_previous": "0:07:40"
+    },
+    {
+        "crashpoint": 317.97,
+        "startTime": "2025-03-23T12:59:55",
+        "records_since_previous": 455,
+        "time_since_previous": "3:34:47"
+    },
+    {
+        "crashpoint": 220.51,
+        "startTime": "2025-03-23T09:25:08",
+        "records_since_previous": 231,
+        "time_since_previous": "1:47:50"
+    },
+    {
+        "crashpoint": 308.98,
+        "startTime": "2025-03-23T07:37:18",
+        "records_since_previous": 10,
+        "time_since_previous": "0:05:48"
+    },
+    {
+        "crashpoint": 1338.67,
+        "startTime": "2025-03-23T07:31:30",
+        "records_since_previous": 19,
+        "time_since_previous": "0:11:10"
+    },
+    {
+        "crashpoint": 2107.28,
+        "startTime": "2025-03-23T07:20:20",
+        "records_since_previous": 185,
+        "time_since_previous": "1:26:42"
+    },
+    {
+        "crashpoint": 486.4,
+        "startTime": "2025-03-23T05:53:38",
+        "records_since_previous": 20,
+        "time_since_previous": "0:11:43"
+    },
+    {
+        "crashpoint": 1496.63,
+        "startTime": "2025-03-23T05:41:55",
+        "records_since_previous": 3,
+        "time_since_previous": "0:02:49"
+    },
+    {
+        "crashpoint": 286.46,
+        "startTime": "2025-03-23T05:39:06",
+        "records_since_previous": 216,
+        "time_since_previous": "1:40:03"
+    },
+    {
+        "crashpoint": 445.22,
+        "startTime": "2025-03-23T03:59:03",
+        "records_since_previous": 88,
+        "time_since_previous": "0:43:27"
+    },
+    {
+        "crashpoint": 246.11,
+        "startTime": "2025-03-23T03:15:36",
+        "records_since_previous": 138,
+        "time_since_previous": "1:00:52"
+    },
+    {
+        "crashpoint": 239.45,
+        "startTime": "2025-03-23T02:14:44",
+        "records_since_previous": 180,
+        "time_since_previous": "1:23:03"
+    },
+    {
+        "crashpoint": 316.05,
+        "startTime": "2025-03-23T00:51:41",
+        "records_since_previous": 8,
+        "time_since_previous": "0:06:12"
+    },
+    {
+        "crashpoint": 3411.47,
+        "startTime": "2025-03-23T00:45:29",
+        "records_since_previous": 71,
+        "time_since_previous": "0:36:53"
+    },
+    {
+        "crashpoint": 362.32,
+        "startTime": "2025-03-23T00:08:36",
+        "records_since_previous": 730,
+        "time_since_previous": "5:33:31"
+    },
+    {
+        "crashpoint": 884.41,
+        "startTime": "2025-03-22T18:35:05",
+        "records_since_previous": 377,
+        "time_since_previous": "3:04:23"
+    },
+    {
+        "crashpoint": 5534.93,
+        "startTime": "2025-03-22T15:30:42",
+        "records_since_previous": 83,
+        "time_since_previous": "0:37:57"
+    },
+    {
+        "crashpoint": 205.7,
+        "startTime": "2025-03-22T14:52:45",
+        "records_since_previous": 271,
+        "time_since_previous": "2:05:52"
+    },
+    {
+        "crashpoint": 1330.76,
+        "startTime": "2025-03-22T12:46:53",
+        "records_since_previous": 37,
+        "time_since_previous": "0:20:34"
+    },
+    {
+        "crashpoint": 411.69,
+        "startTime": "2025-03-22T12:26:19",
+        "records_since_previous": 97,
+        "time_since_previous": "0:49:05"
+    },
+    {
+        "crashpoint": 489.17,
+        "startTime": "2025-03-22T11:37:14",
+        "records_since_previous": 228,
+        "time_since_previous": "1:48:13"
+    },
+    {
+        "crashpoint": 424.25,
+        "startTime": "2025-03-22T09:49:01",
+        "records_since_previous": 257,
+        "time_since_previous": "1:58:01"
+    },
+    {
+        "crashpoint": 2101.29,
+        "startTime": "2025-03-22T07:51:00",
+        "records_since_previous": 173,
+        "time_since_previous": "1:24:27"
+    },
+    {
+        "crashpoint": 221.97,
+        "startTime": "2025-03-22T06:26:33",
+        "records_since_previous": 162,
+        "time_since_previous": "1:16:14"
+    },
+    {
+        "crashpoint": 272.33,
+        "startTime": "2025-03-22T05:10:19",
+        "records_since_previous": 68,
+        "time_since_previous": "0:31:46"
+    },
+    {
+        "crashpoint": 365.44,
+        "startTime": "2025-03-22T04:38:33",
+        "records_since_previous": 722,
+        "time_since_previous": "5:34:31"
+    },
+    {
+        "crashpoint": 635.35,
+        "startTime": "2025-03-21T23:04:02",
+        "records_since_previous": 57,
+        "time_since_previous": "0:26:44"
+    },
+    {
+        "crashpoint": 216.57,
+        "startTime": "2025-03-21T22:37:18",
+        "records_since_previous": 245,
+        "time_since_previous": "1:53:36"
+    },
+    {
+        "crashpoint": 364.33,
+        "startTime": "2025-03-21T20:43:42",
+        "records_since_previous": 201,
+        "time_since_previous": "1:39:27"
+    },
+    {
+        "crashpoint": 220.03,
+        "startTime": "2025-03-21T19:04:15",
+        "records_since_previous": 38,
+        "time_since_previous": "0:18:13"
+    },
+    {
+        "crashpoint": 2654.88,
+        "startTime": "2025-03-21T18:46:02",
+        "records_since_previous": 212,
+        "time_since_previous": "1:37:36"
+    },
+    {
+        "crashpoint": 250.98,
+        "startTime": "2025-03-21T17:08:26",
+        "records_since_previous": 109,
+        "time_since_previous": "0:53:19"
+    },
+    {
+        "crashpoint": 1140.83,
+        "startTime": "2025-03-21T16:15:07",
+        "records_since_previous": 431,
+        "time_since_previous": "3:10:02"
+    },
+    {
+        "crashpoint": 2529.07,
+        "startTime": "2025-03-21T13:05:05",
+        "records_since_previous": 208,
+        "time_since_previous": "1:33:04"
+    },
+    {
+        "crashpoint": 22247.9,
+        "startTime": "2025-03-21T11:32:01",
+        "records_since_previous": 200,
+        "time_since_previous": "1:36:00"
+    },
+    {
+        "crashpoint": 1617.61,
+        "startTime": "2025-03-21T09:56:01",
+        "records_since_previous": 42,
+        "time_since_previous": "0:21:36"
+    },
+    {
+        "crashpoint": 324.16,
+        "startTime": "2025-03-21T09:34:25",
+        "records_since_previous": 105,
+        "time_since_previous": "0:50:44"
+    },
+    {
+        "crashpoint": 1273.01,
+        "startTime": "2025-03-21T08:43:41",
+        "records_since_previous": 237,
+        "time_since_previous": "1:48:27"
+    },
+    {
+        "crashpoint": 313.9,
+        "startTime": "2025-03-21T06:55:14",
+        "records_since_previous": 175,
+        "time_since_previous": "1:19:30"
+    },
+    {
+        "crashpoint": 218.87,
+        "startTime": "2025-03-21T05:35:44",
+        "records_since_previous": 573,
+        "time_since_previous": "4:23:45"
+    },
+    {
+        "crashpoint": 226.93,
+        "startTime": "2025-03-21T01:11:59",
+        "records_since_previous": 22,
+        "time_since_previous": "0:10:16"
+    },
+    {
+        "crashpoint": 397.37,
+        "startTime": "2025-03-21T01:01:43",
+        "records_since_previous": 21,
+        "time_since_previous": "0:09:57"
+    },
+    {
+        "crashpoint": 360.47,
+        "startTime": "2025-03-21T00:51:46",
+        "records_since_previous": 178,
+        "time_since_previous": "1:19:20"
+    },
+    {
+        "crashpoint": 270.52,
+        "startTime": "2025-03-20T23:32:26",
+        "records_since_previous": 499,
+        "time_since_previous": "3:44:55"
+    },
+    {
+        "crashpoint": 3898.13,
+        "startTime": "2025-03-20T19:47:31",
+        "records_since_previous": 116,
+        "time_since_previous": "0:59:14"
+    },
+    {
+        "crashpoint": 1655.84,
+        "startTime": "2025-03-20T18:48:17",
+        "records_since_previous": 153,
+        "time_since_previous": "1:11:47"
+    },
+    {
+        "crashpoint": 231.82,
+        "startTime": "2025-03-20T17:36:30",
+        "records_since_previous": 620,
+        "time_since_previous": "4:57:16"
+    },
+    {
+        "crashpoint": 1188.06,
+        "startTime": "2025-03-20T12:39:14",
+        "records_since_previous": 1381,
+        "time_since_previous": "10:37:38"
+    },
+    {
+        "crashpoint": 357.95,
+        "startTime": "2025-03-20T02:01:36",
+        "records_since_previous": 175,
+        "time_since_previous": "1:27:22"
+    },
+    {
+        "crashpoint": 307.03,
+        "startTime": "2025-03-20T00:34:14",
+        "records_since_previous": 134,
+        "time_since_previous": "1:05:57"
+    },
+    {
+        "crashpoint": 222.41,
+        "startTime": "2025-03-19T23:28:17",
+        "records_since_previous": 38,
+        "time_since_previous": "0:18:36"
+    },
+    {
+        "crashpoint": 294.3,
+        "startTime": "2025-03-19T23:09:41",
+        "records_since_previous": 107,
+        "time_since_previous": "0:52:27"
+    },
+    {
+        "crashpoint": 259.2,
+        "startTime": "2025-03-19T22:17:14",
+        "records_since_previous": 309,
+        "time_since_previous": "2:24:53"
+    },
+    {
+        "crashpoint": 591.41,
+        "startTime": "2025-03-19T19:52:21",
+        "records_since_previous": 161,
+        "time_since_previous": "1:17:41"
+    },
+    {
+        "crashpoint": 3576.36,
+        "startTime": "2025-03-19T18:34:40",
+        "records_since_previous": 198,
+        "time_since_previous": "1:34:35"
+    },
+    {
+        "crashpoint": 722.99,
+        "startTime": "2025-03-19T17:00:05",
+        "records_since_previous": 245,
+        "time_since_previous": "2:04:43"
+    },
+    {
+        "crashpoint": 476.8,
+        "startTime": "2025-03-19T14:55:22",
+        "records_since_previous": 89,
+        "time_since_previous": "0:42:17"
+    },
+    {
+        "crashpoint": 257.25,
+        "startTime": "2025-03-19T14:13:05",
+        "records_since_previous": 98,
+        "time_since_previous": "0:47:29"
+    },
+    {
+        "crashpoint": 389.02,
+        "startTime": "2025-03-19T13:25:36",
+        "records_since_previous": 277,
+        "time_since_previous": "2:09:36"
+    },
+    {
+        "crashpoint": 708.87,
+        "startTime": "2025-03-19T11:16:00",
+        "records_since_previous": 411,
+        "time_since_previous": "3:13:10"
+    },
+    {
+        "crashpoint": 443.51,
+        "startTime": "2025-03-19T08:02:50",
+        "records_since_previous": 79,
+        "time_since_previous": "0:39:36"
+    },
+    {
+        "crashpoint": 2270.23,
+        "startTime": "2025-03-19T07:23:14",
+        "records_since_previous": 190,
+        "time_since_previous": "1:28:41"
+    },
+    {
+        "crashpoint": 270.88,
+        "startTime": "2025-03-19T05:54:33",
+        "records_since_previous": 398,
+        "time_since_previous": "3:09:33"
+    },
+    {
+        "crashpoint": 431.02,
+        "startTime": "2025-03-19T02:45:00",
+        "records_since_previous": 19,
+        "time_since_previous": "0:08:59"
+    },
+    {
+        "crashpoint": 330.67,
+        "startTime": "2025-03-19T02:36:01",
+        "records_since_previous": 1,
+        "time_since_previous": "0:02:23"
+    },
+    {
+        "crashpoint": 2663.07,
+        "startTime": "2025-03-19T02:33:38",
+        "records_since_previous": 12,
+        "time_since_previous": "0:06:20"
+    },
+    {
+        "crashpoint": 1312.96,
+        "startTime": "2025-03-19T02:27:18",
+        "records_since_previous": 175,
+        "time_since_previous": "1:19:34"
+    },
+    {
+        "crashpoint": 519.36,
+        "startTime": "2025-03-19T01:07:44",
+        "records_since_previous": 25,
+        "time_since_previous": "0:14:47"
+    },
+    {
+        "crashpoint": 203.93,
+        "startTime": "2025-03-19T00:52:57",
+        "records_since_previous": 75,
+        "time_since_previous": "0:36:27"
+    },
+    {
+        "crashpoint": 892.34,
+        "startTime": "2025-03-19T00:16:30",
+        "records_since_previous": 286,
+        "time_since_previous": "2:19:30"
+    },
+    {
+        "crashpoint": 397.63,
+        "startTime": "2025-03-18T21:57:00",
+        "records_since_previous": 7,
+        "time_since_previous": "0:04:42"
+    },
+    {
+        "crashpoint": 329.53,
+        "startTime": "2025-03-18T21:52:18",
+        "records_since_previous": 180,
+        "time_since_previous": "1:27:10"
+    },
+    {
+        "crashpoint": 818.23,
+        "startTime": "2025-03-18T20:25:08",
+        "records_since_previous": 26,
+        "time_since_previous": "0:12:42"
+    },
+    {
+        "crashpoint": 199.11,
+        "startTime": "2025-03-18T20:12:26",
+        "records_since_previous": 440,
+        "time_since_previous": "3:25:45"
+    },
+    {
+        "crashpoint": 425.21,
+        "startTime": "2025-03-18T16:46:41",
+        "records_since_previous": 39,
+        "time_since_previous": "0:21:37"
+    },
+    {
+        "crashpoint": 258.93,
+        "startTime": "2025-03-18T16:25:04",
+        "records_since_previous": 306,
+        "time_since_previous": "2:16:51"
+    },
+    {
+        "crashpoint": 208.04,
+        "startTime": "2025-03-18T14:08:13",
+        "records_since_previous": 34,
+        "time_since_previous": "0:16:41"
+    },
+    {
+        "crashpoint": 675.24,
+        "startTime": "2025-03-18T13:51:32",
+        "records_since_previous": 454,
+        "time_since_previous": "3:30:30"
+    },
+    {
+        "crashpoint": 2688.15,
+        "startTime": "2025-03-18T10:21:02",
+        "records_since_previous": 320,
+        "time_since_previous": "2:24:09"
+    },
+    {
+        "crashpoint": 234.45,
+        "startTime": "2025-03-18T07:56:53",
+        "records_since_previous": 325,
+        "time_since_previous": "2:31:24"
+    },
+    {
+        "crashpoint": 553.82,
+        "startTime": "2025-03-18T05:25:29",
+        "records_since_previous": 62,
+        "time_since_previous": "0:30:23"
+    },
+    {
+        "crashpoint": 377.74,
+        "startTime": "2025-03-18T04:55:06",
+        "records_since_previous": 38,
+        "time_since_previous": "0:18:44"
+    },
+    {
+        "crashpoint": 541.51,
+        "startTime": "2025-03-18T04:36:22",
+        "records_since_previous": 91,
+        "time_since_previous": "0:44:11"
+    },
+    {
+        "crashpoint": 354.2,
+        "startTime": "2025-03-18T03:52:11",
+        "records_since_previous": 121,
+        "time_since_previous": "0:55:42"
+    },
+    {
+        "crashpoint": 208.13,
+        "startTime": "2025-03-18T02:56:29",
+        "records_since_previous": 27,
+        "time_since_previous": "0:13:32"
+    },
+    {
+        "crashpoint": 211.29,
+        "startTime": "2025-03-18T02:42:57",
+        "records_since_previous": 148,
+        "time_since_previous": "1:05:17"
+    },
+    {
+        "crashpoint": 303.06,
+        "startTime": "2025-03-18T01:37:40",
+        "records_since_previous": 32,
+        "time_since_previous": "0:16:36"
+    },
+    {
+        "crashpoint": 2140.07,
+        "startTime": "2025-03-18T01:21:04",
+        "records_since_previous": 60,
+        "time_since_previous": "0:26:24"
+    },
+    {
+        "crashpoint": 205.45,
+        "startTime": "2025-03-18T00:54:40",
+        "records_since_previous": 75,
+        "time_since_previous": "0:37:46"
+    },
+    {
+        "crashpoint": 232.6,
+        "startTime": "2025-03-18T00:16:54",
+        "records_since_previous": 308,
+        "time_since_previous": "2:29:12"
+    },
+    {
+        "crashpoint": 484.05,
+        "startTime": "2025-03-17T21:47:42",
+        "records_since_previous": 309,
+        "time_since_previous": "2:23:34"
+    },
+    {
+        "crashpoint": 377.93,
+        "startTime": "2025-03-17T19:24:08",
+        "records_since_previous": 460,
+        "time_since_previous": "3:28:50"
+    },
+    {
+        "crashpoint": 814.52,
+        "startTime": "2025-03-17T15:55:18",
+        "records_since_previous": 64,
+        "time_since_previous": "0:29:17"
+    },
+    {
+        "crashpoint": 727.68,
+        "startTime": "2025-03-17T15:26:01",
+        "records_since_previous": 236,
+        "time_since_previous": "1:51:58"
+    },
+    {
+        "crashpoint": 920.1,
+        "startTime": "2025-03-17T13:34:03",
+        "records_since_previous": 411,
+        "time_since_previous": "3:03:17"
+    },
+    {
+        "crashpoint": 1165.04,
+        "startTime": "2025-03-17T10:30:46",
+        "records_since_previous": 44,
+        "time_since_previous": "0:20:57"
+    },
+    {
+        "crashpoint": 241.8,
+        "startTime": "2025-03-17T10:09:49",
+        "records_since_previous": 138,
+        "time_since_previous": "1:04:00"
+    },
+    {
+        "crashpoint": 207.22,
+        "startTime": "2025-03-17T09:05:49",
+        "records_since_previous": 150,
+        "time_since_previous": "1:10:34"
+    },
+    {
+        "crashpoint": 389.05,
+        "startTime": "2025-03-17T07:55:15",
+        "records_since_previous": 160,
+        "time_since_previous": "1:17:15"
+    },
+    {
+        "crashpoint": 4395.77,
+        "startTime": "2025-03-17T06:38:00",
+        "records_since_previous": 182,
+        "time_since_previous": "1:30:03"
+    },
+    {
+        "crashpoint": 286.94,
+        "startTime": "2025-03-17T05:07:57",
+        "records_since_previous": 194,
+        "time_since_previous": "1:25:40"
+    },
+    {
+        "crashpoint": 294.67,
+        "startTime": "2025-03-17T03:42:17",
+        "records_since_previous": 406,
+        "time_since_previous": "3:09:48"
+    },
+    {
+        "crashpoint": 632.17,
+        "startTime": "2025-03-17T00:32:29",
+        "records_since_previous": 301,
+        "time_since_previous": "2:14:53"
+    },
+    {
+        "crashpoint": 1195.2,
+        "startTime": "2025-03-16T22:17:36",
+        "records_since_previous": 24,
+        "time_since_previous": "0:11:38"
+    },
+    {
+        "crashpoint": 226.47,
+        "startTime": "2025-03-16T22:05:58",
+        "records_since_previous": 573,
+        "time_since_previous": "4:22:57"
+    },
+    {
+        "crashpoint": 1552.3,
+        "startTime": "2025-03-16T17:43:01",
+        "records_since_previous": 25,
+        "time_since_previous": "0:13:06"
+    },
+    {
+        "crashpoint": 11361.16,
+        "startTime": "2025-03-16T17:29:55",
+        "records_since_previous": 165,
+        "time_since_previous": "1:18:50"
+    },
+    {
+        "crashpoint": 272.59,
+        "startTime": "2025-03-16T16:11:05",
+        "records_since_previous": 150,
+        "time_since_previous": "1:12:21"
+    },
+    {
+        "crashpoint": 346.17,
+        "startTime": "2025-03-16T14:58:44",
+        "records_since_previous": 449,
+        "time_since_previous": "3:34:18"
+    },
+    {
+        "crashpoint": 199.39,
+        "startTime": "2025-03-16T11:24:26",
+        "records_since_previous": 59,
+        "time_since_previous": "0:29:42"
+    },
+    {
+        "crashpoint": 542.56,
+        "startTime": "2025-03-16T10:54:44",
+        "records_since_previous": 161,
+        "time_since_previous": "1:13:05"
+    },
+    {
+        "crashpoint": 1421.45,
+        "startTime": "2025-03-16T09:41:39",
+        "records_since_previous": 125,
+        "time_since_previous": "0:53:18"
+    },
+    {
+        "crashpoint": 264.24,
+        "startTime": "2025-03-16T08:48:21",
+        "records_since_previous": 114,
+        "time_since_previous": "0:53:57"
+    },
+    {
+        "crashpoint": 397.05,
+        "startTime": "2025-03-16T07:54:24",
+        "records_since_previous": 246,
+        "time_since_previous": "1:51:33"
+    },
+    {
+        "crashpoint": 328.78,
+        "startTime": "2025-03-16T06:02:51",
+        "records_since_previous": 60,
+        "time_since_previous": "0:29:12"
+    },
+    {
+        "crashpoint": 1020.66,
+        "startTime": "2025-03-16T05:33:39",
+        "records_since_previous": 89,
+        "time_since_previous": "0:44:46"
+    },
+    {
+        "crashpoint": 387.2,
+        "startTime": "2025-03-16T04:48:53",
+        "records_since_previous": 13,
+        "time_since_previous": "0:07:40"
+    },
+    {
+        "crashpoint": 201.38,
+        "startTime": "2025-03-16T04:41:13",
+        "records_since_previous": 288,
+        "time_since_previous": "2:08:43"
+    },
+    {
+        "crashpoint": 729.83,
+        "startTime": "2025-03-16T02:32:30",
+        "records_since_previous": 262,
+        "time_since_previous": "2:03:01"
+    },
+    {
+        "crashpoint": 214.3,
+        "startTime": "2025-03-16T00:29:29",
+        "records_since_previous": 286,
+        "time_since_previous": "2:11:53"
+    },
+    {
+        "crashpoint": 348.23,
+        "startTime": "2025-03-15T22:17:36",
+        "records_since_previous": 9,
+        "time_since_previous": "0:05:05"
+    },
+    {
+        "crashpoint": 1265.69,
+        "startTime": "2025-03-15T22:12:31",
+        "records_since_previous": 34,
+        "time_since_previous": "0:19:24"
+    },
+    {
+        "crashpoint": 228.8,
+        "startTime": "2025-03-15T21:53:07",
+        "records_since_previous": 122,
+        "time_since_previous": "0:53:49"
+    },
+    {
+        "crashpoint": 370.98,
+        "startTime": "2025-03-15T20:59:18",
+        "records_since_previous": 194,
+        "time_since_previous": "1:25:28"
+    },
+    {
+        "crashpoint": 200.52,
+        "startTime": "2025-03-15T19:33:50",
+        "records_since_previous": 6,
+        "time_since_previous": "0:04:52"
+    },
+    {
+        "crashpoint": 457.06,
+        "startTime": "2025-03-15T19:28:58",
+        "records_since_previous": 107,
+        "time_since_previous": "0:47:09"
+    },
+    {
+        "crashpoint": 471.08,
+        "startTime": "2025-03-15T18:41:49",
+        "records_since_previous": 122,
+        "time_since_previous": "0:56:16"
+    },
+    {
+        "crashpoint": 296.91,
+        "startTime": "2025-03-15T17:45:33",
+        "records_since_previous": 161,
+        "time_since_previous": "1:16:56"
+    },
+    {
+        "crashpoint": 255.16,
+        "startTime": "2025-03-15T16:28:37",
+        "records_since_previous": 519,
+        "time_since_previous": "4:14:38"
+    },
+    {
+        "crashpoint": 883.41,
+        "startTime": "2025-03-15T12:13:59",
+        "records_since_previous": 67,
+        "time_since_previous": "0:36:53"
+    },
+    {
+        "crashpoint": 237.31,
+        "startTime": "2025-03-15T11:37:06",
+        "records_since_previous": 233,
+        "time_since_previous": "1:47:35"
+    },
+    {
+        "crashpoint": 224.45,
+        "startTime": "2025-03-15T09:49:31",
+        "records_since_previous": 165,
+        "time_since_previous": "1:17:49"
+    },
+    {
+        "crashpoint": 242.34,
+        "startTime": "2025-03-15T08:31:42",
+        "records_since_previous": 79,
+        "time_since_previous": "0:40:09"
+    },
+    {
+        "crashpoint": 210.42,
+        "startTime": "2025-03-15T07:51:33",
+        "records_since_previous": 221,
+        "time_since_previous": "1:40:18"
+    },
+    {
+        "crashpoint": 651.47,
+        "startTime": "2025-03-15T06:11:15",
+        "records_since_previous": 7,
+        "time_since_previous": "0:05:15"
+    },
+    {
+        "crashpoint": 1768.08,
+        "startTime": "2025-03-15T06:06:00",
+        "records_since_previous": 351,
+        "time_since_previous": "2:42:45"
+    },
+    {
+        "crashpoint": 405.62,
+        "startTime": "2025-03-15T03:23:15",
+        "records_since_previous": 117,
+        "time_since_previous": "0:51:46"
+    },
+    {
+        "crashpoint": 834.94,
+        "startTime": "2025-03-15T02:31:29",
+        "records_since_previous": 98,
+        "time_since_previous": "0:48:09"
+    },
+    {
+        "crashpoint": 230.21,
+        "startTime": "2025-03-15T01:43:20",
+        "records_since_previous": 40,
+        "time_since_previous": "0:19:23"
+    },
+    {
+        "crashpoint": 215.55,
+        "startTime": "2025-03-15T01:23:57",
+        "records_since_previous": 60,
+        "time_since_previous": "0:33:40"
+    },
+    {
+        "crashpoint": 413.79,
+        "startTime": "2025-03-15T00:50:17",
+        "records_since_previous": 100,
+        "time_since_previous": "0:51:28"
+    },
+    {
+        "crashpoint": 365.16,
+        "startTime": "2025-03-14T23:58:49",
+        "records_since_previous": 112,
+        "time_since_previous": "0:52:37"
+    },
+    {
+        "crashpoint": 8370.69,
+        "startTime": "2025-03-14T23:06:12",
+        "records_since_previous": 382,
+        "time_since_previous": "3:01:52"
+    },
+    {
+        "crashpoint": 267.81,
+        "startTime": "2025-03-14T20:04:20",
+        "records_since_previous": 134,
+        "time_since_previous": "1:00:01"
+    },
+    {
+        "crashpoint": 461.35,
+        "startTime": "2025-03-14T19:04:19",
+        "records_since_previous": 791,
+        "time_since_previous": "6:12:03"
+    },
+    {
+        "crashpoint": 446.19,
+        "startTime": "2025-03-14T12:52:16",
+        "records_since_previous": 120,
+        "time_since_previous": "0:57:21"
+    },
+    {
+        "crashpoint": 245.64,
+        "startTime": "2025-03-14T11:54:55",
+        "records_since_previous": 26,
+        "time_since_previous": "0:13:10"
+    },
+    {
+        "crashpoint": 503.6,
+        "startTime": "2025-03-14T11:41:45",
+        "records_since_previous": 153,
+        "time_since_previous": "1:10:31"
+    },
+    {
+        "crashpoint": 201.15,
+        "startTime": "2025-03-14T10:31:14",
+        "records_since_previous": 3,
+        "time_since_previous": "0:03:28"
+    },
+    {
+        "crashpoint": 10901.74,
+        "startTime": "2025-03-14T10:27:46",
+        "records_since_previous": 45,
+        "time_since_previous": "0:21:41"
+    },
+    {
+        "crashpoint": 228.67,
+        "startTime": "2025-03-14T10:06:05",
+        "records_since_previous": 225,
+        "time_since_previous": "1:42:49"
+    },
+    {
+        "crashpoint": 277.63,
+        "startTime": "2025-03-14T08:23:16",
+        "records_since_previous": 686,
+        "time_since_previous": "5:22:27"
+    },
+    {
+        "crashpoint": 498.87,
+        "startTime": "2025-03-14T03:00:49",
+        "records_since_previous": 59,
+        "time_since_previous": "0:29:36"
+    },
+    {
+        "crashpoint": 467.26,
+        "startTime": "2025-03-14T02:31:13",
+        "records_since_previous": 687,
+        "time_since_previous": "5:21:50"
+    },
+    {
+        "crashpoint": 2192.81,
+        "startTime": "2025-03-13T21:09:23",
+        "records_since_previous": 311,
+        "time_since_previous": "2:21:49"
+    },
+    {
+        "crashpoint": 386.21,
+        "startTime": "2025-03-13T18:47:34",
+        "records_since_previous": 147,
+        "time_since_previous": "1:15:06"
+    },
+    {
+        "crashpoint": 6308.87,
+        "startTime": "2025-03-13T17:32:28",
+        "records_since_previous": 181,
+        "time_since_previous": "1:30:35"
+    },
+    {
+        "crashpoint": 1710.5,
+        "startTime": "2025-03-13T16:01:53",
+        "records_since_previous": 183,
+        "time_since_previous": "1:24:50"
+    },
+    {
+        "crashpoint": 21300.67,
+        "startTime": "2025-03-13T14:37:03",
+        "records_since_previous": 31,
+        "time_since_previous": "0:15:55"
+    },
+    {
+        "crashpoint": 1282.0,
+        "startTime": "2025-03-13T14:21:08",
+        "records_since_previous": 572,
+        "time_since_previous": "4:25:33"
+    },
+    {
+        "crashpoint": 534.12,
+        "startTime": "2025-03-13T09:55:35",
+        "records_since_previous": 113,
+        "time_since_previous": "0:52:12"
+    },
+    {
+        "crashpoint": 710.43,
+        "startTime": "2025-03-13T09:03:23",
+        "records_since_previous": 53,
+        "time_since_previous": "0:29:52"
+    },
+    {
+        "crashpoint": 201.23,
+        "startTime": "2025-03-13T08:33:31",
+        "records_since_previous": 269,
+        "time_since_previous": "2:04:46"
+    },
+    {
+        "crashpoint": 241.87,
+        "startTime": "2025-03-13T06:28:45",
+        "records_since_previous": 459,
+        "time_since_previous": "3:35:28"
+    },
+    {
+        "crashpoint": 204.63,
+        "startTime": "2025-03-13T02:53:17",
+        "records_since_previous": 810,
+        "time_since_previous": "6:24:59"
+    },
+    {
+        "crashpoint": 1398.64,
+        "startTime": "2025-03-12T20:28:18",
+        "records_since_previous": 24,
+        "time_since_previous": "0:11:40"
+    },
+    {
+        "crashpoint": 478.68,
+        "startTime": "2025-03-12T20:16:38",
+        "records_since_previous": 255,
+        "time_since_previous": "1:54:05"
+    },
+    {
+        "crashpoint": 321.0,
+        "startTime": "2025-03-12T18:22:33",
+        "records_since_previous": 67,
+        "time_since_previous": "0:31:01"
+    },
+    {
+        "crashpoint": 209.91,
+        "startTime": "2025-03-12T17:51:32",
+        "records_since_previous": 194,
+        "time_since_previous": "1:39:19"
+    },
+    {
+        "crashpoint": 351.36,
+        "startTime": "2025-03-12T16:12:13",
+        "records_since_previous": 187,
+        "time_since_previous": "1:26:07"
+    },
+    {
+        "crashpoint": 361.61,
+        "startTime": "2025-03-12T14:46:06",
+        "records_since_previous": 6,
+        "time_since_previous": "0:04:17"
+    },
+    {
+        "crashpoint": 280.01,
+        "startTime": "2025-03-12T14:41:49",
+        "records_since_previous": 88,
+        "time_since_previous": "0:38:04"
+    },
+    {
+        "crashpoint": 296.04,
+        "startTime": "2025-03-12T14:03:45",
+        "records_since_previous": 149,
+        "time_since_previous": "1:14:21"
+    },
+    {
+        "crashpoint": 207.25,
+        "startTime": "2025-03-12T12:49:24",
+        "records_since_previous": 320,
+        "time_since_previous": "2:23:05"
+    },
+    {
+        "crashpoint": 455.07,
+        "startTime": "2025-03-12T10:26:19",
+        "records_since_previous": 458,
+        "time_since_previous": "3:30:42"
+    },
+    {
+        "crashpoint": 319.19,
+        "startTime": "2025-03-12T06:55:37",
+        "records_since_previous": 312,
+        "time_since_previous": "2:21:13"
+    },
+    {
+        "crashpoint": 218.47,
+        "startTime": "2025-03-12T04:34:24",
+        "records_since_previous": 33,
+        "time_since_previous": "0:15:47"
+    },
+    {
+        "crashpoint": 227.7,
+        "startTime": "2025-03-12T04:18:37",
+        "records_since_previous": 34,
+        "time_since_previous": "0:16:51"
+    },
+    {
+        "crashpoint": 407.73,
+        "startTime": "2025-03-12T04:01:46",
+        "records_since_previous": 5,
+        "time_since_previous": "0:03:22"
+    },
+    {
+        "crashpoint": 697.28,
+        "startTime": "2025-03-12T03:58:24",
+        "records_since_previous": 57,
+        "time_since_previous": "0:27:54"
+    },
+    {
+        "crashpoint": 744.48,
+        "startTime": "2025-03-12T03:30:30",
+        "records_since_previous": 446,
+        "time_since_previous": "3:26:16"
+    },
+    {
+        "crashpoint": 271.25,
+        "startTime": "2025-03-12T00:04:14",
+        "records_since_previous": 111,
+        "time_since_previous": "0:53:07"
+    },
+    {
+        "crashpoint": 1748.67,
+        "startTime": "2025-03-11T23:11:07",
+        "records_since_previous": 192,
+        "time_since_previous": "1:32:08"
+    },
+    {
+        "crashpoint": 427.71,
+        "startTime": "2025-03-11T21:38:59",
+        "records_since_previous": 97,
+        "time_since_previous": "0:48:39"
+    },
+    {
+        "crashpoint": 422.04,
+        "startTime": "2025-03-11T20:50:20",
+        "records_since_previous": 3,
+        "time_since_previous": "0:02:58"
+    },
+    {
+        "crashpoint": 1894.81,
+        "startTime": "2025-03-11T20:47:22",
+        "records_since_previous": 31,
+        "time_since_previous": "0:15:23"
+    },
+    {
+        "crashpoint": 612.8,
+        "startTime": "2025-03-11T20:31:59",
+        "records_since_previous": 372,
+        "time_since_previous": "2:56:28"
+    },
+    {
+        "crashpoint": 421.61,
+        "startTime": "2025-03-11T17:35:31",
+        "records_since_previous": 27,
+        "time_since_previous": "0:13:09"
+    },
+    {
+        "crashpoint": 527.09,
+        "startTime": "2025-03-11T17:22:22",
+        "records_since_previous": 71,
+        "time_since_previous": "0:34:04"
+    },
+    {
+        "crashpoint": 671.11,
+        "startTime": "2025-03-11T16:48:18",
+        "records_since_previous": 231,
+        "time_since_previous": "1:44:19"
+    },
+    {
+        "crashpoint": 223.78,
+        "startTime": "2025-03-11T15:03:59",
+        "records_since_previous": 79,
+        "time_since_previous": "0:35:58"
+    },
+    {
+        "crashpoint": 491.26,
+        "startTime": "2025-03-11T14:28:01",
+        "records_since_previous": 58,
+        "time_since_previous": "0:29:22"
+    },
+    {
+        "crashpoint": 8394.84,
+        "startTime": "2025-03-11T13:58:39",
+        "records_since_previous": 716,
+        "time_since_previous": "5:33:29"
+    },
+    {
+        "crashpoint": 2710.35,
+        "startTime": "2025-03-11T08:25:10",
+        "records_since_previous": 95,
+        "time_since_previous": "0:45:41"
+    },
+    {
+        "crashpoint": 398.53,
+        "startTime": "2025-03-11T07:39:29",
+        "records_since_previous": 848,
+        "time_since_previous": "6:27:36"
+    },
+    {
+        "crashpoint": 285.54,
+        "startTime": "2025-03-11T01:11:53",
+        "records_since_previous": 156,
+        "time_since_previous": "1:16:53"
+    },
+    {
+        "crashpoint": 340.73,
+        "startTime": "2025-03-10T23:55:00",
+        "records_since_previous": 69,
+        "time_since_previous": "0:34:36"
+    },
+    {
+        "crashpoint": 272.67,
+        "startTime": "2025-03-10T23:20:24",
+        "records_since_previous": 131,
+        "time_since_previous": "1:03:43"
+    },
+    {
+        "crashpoint": 307.92,
+        "startTime": "2025-03-10T22:16:41",
+        "records_since_previous": 145,
+        "time_since_previous": "1:05:50"
+    },
+    {
+        "crashpoint": 6155.5,
+        "startTime": "2025-03-10T21:10:51",
+        "records_since_previous": 382,
+        "time_since_previous": "3:00:39"
+    },
+    {
+        "crashpoint": 247.64,
+        "startTime": "2025-03-10T18:10:12",
+        "records_since_previous": 31,
+        "time_since_previous": "0:13:39"
+    },
+    {
+        "crashpoint": 216.66,
+        "startTime": "2025-03-10T17:56:33",
+        "records_since_previous": 99,
+        "time_since_previous": "0:46:50"
+    },
+    {
+        "crashpoint": 1138.43,
+        "startTime": "2025-03-10T17:09:43",
+        "records_since_previous": 245,
+        "time_since_previous": "1:49:44"
+    },
+    {
+        "crashpoint": 369.7,
+        "startTime": "2025-03-10T15:19:59",
+        "records_since_previous": 179,
+        "time_since_previous": "1:24:45"
+    },
+    {
+        "crashpoint": 620.16,
+        "startTime": "2025-03-10T13:55:14",
+        "records_since_previous": 218,
+        "time_since_previous": "1:39:53"
+    },
+    {
+        "crashpoint": 490.36,
+        "startTime": "2025-03-10T12:15:21",
+        "records_since_previous": 165,
+        "time_since_previous": "1:19:08"
+    },
+    {
+        "crashpoint": 516.96,
+        "startTime": "2025-03-10T10:56:13",
+        "records_since_previous": 86,
+        "time_since_previous": "0:41:39"
+    },
+    {
+        "crashpoint": 200.27,
+        "startTime": "2025-03-10T10:14:34",
+        "records_since_previous": 276,
+        "time_since_previous": "2:10:42"
+    },
+    {
+        "crashpoint": 346.75,
+        "startTime": "2025-03-10T08:03:52",
+        "records_since_previous": 349,
+        "time_since_previous": "2:43:50"
+    },
+    {
+        "crashpoint": 355.01,
+        "startTime": "2025-03-10T05:20:02",
+        "records_since_previous": 463,
+        "time_since_previous": "3:40:18"
+    },
+    {
+        "crashpoint": 216.82,
+        "startTime": "2025-03-10T01:39:44",
+        "records_since_previous": 268,
+        "time_since_previous": "2:08:23"
+    },
+    {
+        "crashpoint": 333.13,
+        "startTime": "2025-03-09T23:31:21",
+        "records_since_previous": 282,
+        "time_since_previous": "2:12:18"
+    },
+    {
+        "crashpoint": 253.75,
+        "startTime": "2025-03-09T21:19:03",
+        "records_since_previous": 80,
+        "time_since_previous": "0:40:53"
+    },
+    {
+        "crashpoint": 408.45,
+        "startTime": "2025-03-09T20:38:10",
+        "records_since_previous": 241,
+        "time_since_previous": "1:58:47"
+    },
+    {
+        "crashpoint": 1064.09,
+        "startTime": "2025-03-09T18:39:23",
+        "records_since_previous": 288,
+        "time_since_previous": "2:17:04"
+    },
+    {
+        "crashpoint": 199.4,
+        "startTime": "2025-03-09T16:22:19",
+        "records_since_previous": 1,
+        "time_since_previous": "0:02:10"
+    },
+    {
+        "crashpoint": 1173.94,
+        "startTime": "2025-03-09T16:20:09",
+        "records_since_previous": 576,
+        "time_since_previous": "4:30:39"
+    },
+    {
+        "crashpoint": 870.0,
+        "startTime": "2025-03-09T11:49:30",
+        "records_since_previous": 426,
+        "time_since_previous": "3:28:39"
+    },
+    {
+        "crashpoint": 2005.83,
+        "startTime": "2025-03-09T08:20:51",
+        "records_since_previous": 11,
+        "time_since_previous": "0:05:46"
+    },
+    {
+        "crashpoint": 6728.59,
+        "startTime": "2025-03-09T08:15:05",
+        "records_since_previous": 222,
+        "time_since_previous": "1:46:53"
+    },
+    {
+        "crashpoint": 307.99,
+        "startTime": "2025-03-09T06:28:12",
+        "records_since_previous": 582,
+        "time_since_previous": "4:34:30"
+    },
+    {
+        "crashpoint": 1018.94,
+        "startTime": "2025-03-09T01:53:42",
+        "records_since_previous": 78,
+        "time_since_previous": "0:35:07"
+    },
+    {
+        "crashpoint": 303.4,
+        "startTime": "2025-03-09T01:18:35",
+        "records_since_previous": 217,
+        "time_since_previous": "1:38:32"
+    },
+    {
+        "crashpoint": 304.17,
+        "startTime": "2025-03-08T23:40:03",
+        "records_since_previous": 157,
+        "time_since_previous": "1:11:59"
+    },
+    {
+        "crashpoint": 302.34,
+        "startTime": "2025-03-08T22:28:04",
+        "records_since_previous": 173,
+        "time_since_previous": "2:20:06"
+    },
+    {
+        "crashpoint": 495.39,
+        "startTime": "2025-03-08T20:07:58",
+        "records_since_previous": 147,
+        "time_since_previous": "1:08:16"
+    },
+    {
+        "crashpoint": 268.18,
+        "startTime": "2025-03-08T18:59:42",
+        "records_since_previous": 418,
+        "time_since_previous": "3:14:08"
+    },
+    {
+        "crashpoint": 226.8,
+        "startTime": "2025-03-08T15:45:34",
+        "records_since_previous": 43,
+        "time_since_previous": "0:21:41"
+    },
+    {
+        "crashpoint": 612.54,
+        "startTime": "2025-03-08T15:23:53",
+        "records_since_previous": 109,
+        "time_since_previous": "0:57:32"
+    },
+    {
+        "crashpoint": 652.66,
+        "startTime": "2025-03-08T14:26:21",
+        "records_since_previous": 820,
+        "time_since_previous": "6:16:59"
+    },
+    {
+        "crashpoint": 386.53,
+        "startTime": "2025-03-08T08:09:22",
+        "records_since_previous": 584,
+        "time_since_previous": "4:23:48"
+    },
+    {
+        "crashpoint": 291.8,
+        "startTime": "2025-03-08T03:45:34",
+        "records_since_previous": 209,
+        "time_since_previous": "1:36:21"
+    },
+    {
+        "crashpoint": 325.39,
+        "startTime": "2025-03-08T02:09:13",
+        "records_since_previous": 548,
+        "time_since_previous": "4:13:57"
+    },
+    {
+        "crashpoint": 549.25,
+        "startTime": "2025-03-07T21:55:16",
+        "records_since_previous": 156,
+        "time_since_previous": "1:15:46"
+    },
+    {
+        "crashpoint": 253.05,
+        "startTime": "2025-03-07T20:39:30",
+        "records_since_previous": 203,
+        "time_since_previous": "1:34:14"
+    },
+    {
+        "crashpoint": 253.41,
+        "startTime": "2025-03-07T19:05:16",
+        "records_since_previous": 170,
+        "time_since_previous": "1:18:01"
+    },
+    {
+        "crashpoint": 240.34,
+        "startTime": "2025-03-07T17:47:15",
+        "records_since_previous": 48,
+        "time_since_previous": "0:23:03"
+    },
+    {
+        "crashpoint": 1214.38,
+        "startTime": "2025-03-07T17:24:12",
+        "records_since_previous": 15,
+        "time_since_previous": "0:05:52"
+    },
+    {
+        "crashpoint": 211.9,
+        "startTime": "2025-03-07T17:18:20",
+        "records_since_previous": 240,
+        "time_since_previous": "1:52:21"
+    },
+    {
+        "crashpoint": 331.86,
+        "startTime": "2025-03-07T15:25:59",
+        "records_since_previous": 19,
+        "time_since_previous": "0:10:54"
+    },
+    {
+        "crashpoint": 613.7,
+        "startTime": "2025-03-07T15:15:05",
+        "records_since_previous": 357,
+        "time_since_previous": "2:46:20"
+    },
+    {
+        "crashpoint": 1800.61,
+        "startTime": "2025-03-07T12:28:45",
+        "records_since_previous": 204,
+        "time_since_previous": "1:29:59"
+    },
+    {
+        "crashpoint": 224.31,
+        "startTime": "2025-03-07T10:58:46",
+        "records_since_previous": 56,
+        "time_since_previous": "0:26:16"
+    },
+    {
+        "crashpoint": 288.23,
+        "startTime": "2025-03-07T10:32:30",
+        "records_since_previous": 36,
+        "time_since_previous": "0:20:05"
+    },
+    {
+        "crashpoint": 813.26,
+        "startTime": "2025-03-07T10:12:25",
+        "records_since_previous": 193,
+        "time_since_previous": "1:28:18"
+    },
+    {
+        "crashpoint": 354.57,
+        "startTime": "2025-03-07T08:44:07",
+        "records_since_previous": 100,
+        "time_since_previous": "0:48:44"
+    },
+    {
+        "crashpoint": 352.96,
+        "startTime": "2025-03-07T07:55:23",
+        "records_since_previous": 170,
+        "time_since_previous": "1:16:03"
+    },
+    {
+        "crashpoint": 266.55,
+        "startTime": "2025-03-07T06:39:20",
+        "records_since_previous": 476,
+        "time_since_previous": "3:41:54"
+    },
+    {
+        "crashpoint": 346.06,
+        "startTime": "2025-03-07T02:57:26",
+        "records_since_previous": 127,
+        "time_since_previous": "1:06:33"
+    },
+    {
+        "crashpoint": 3226.14,
+        "startTime": "2025-03-07T01:50:53",
+        "records_since_previous": 101,
+        "time_since_previous": "0:45:56"
+    },
+    {
+        "crashpoint": 440.38,
+        "startTime": "2025-03-07T01:04:57",
+        "records_since_previous": 259,
+        "time_since_previous": "2:05:35"
+    },
+    {
+        "crashpoint": 285.46,
+        "startTime": "2025-03-06T22:59:22",
+        "records_since_previous": 676,
+        "time_since_previous": "5:08:10"
+    },
+    {
+        "crashpoint": 222.84,
+        "startTime": "2025-03-06T17:51:12",
+        "records_since_previous": 49,
+        "time_since_previous": "0:22:27"
+    },
+    {
+        "crashpoint": 609.61,
+        "startTime": "2025-03-06T17:28:45",
+        "records_since_previous": 64,
+        "time_since_previous": "0:31:03"
+    },
+    {
+        "crashpoint": 277.1,
+        "startTime": "2025-03-06T16:57:42",
+        "records_since_previous": 192,
+        "time_since_previous": "1:31:38"
+    },
+    {
+        "crashpoint": 1959.93,
+        "startTime": "2025-03-06T15:26:04",
+        "records_since_previous": 332,
+        "time_since_previous": "2:26:26"
+    },
+    {
+        "crashpoint": 250.55,
+        "startTime": "2025-03-06T12:59:38",
+        "records_since_previous": 51,
+        "time_since_previous": "0:23:08"
+    },
+    {
+        "crashpoint": 227.94,
+        "startTime": "2025-03-06T12:36:30",
+        "records_since_previous": 57,
+        "time_since_previous": "0:27:43"
+    },
+    {
+        "crashpoint": 225.37,
+        "startTime": "2025-03-06T12:08:47",
+        "records_since_previous": 123,
+        "time_since_previous": "1:02:11"
+    },
+    {
+        "crashpoint": 321.27,
+        "startTime": "2025-03-06T11:06:36",
+        "records_since_previous": 10,
+        "time_since_previous": "0:05:33"
+    },
+    {
+        "crashpoint": 262.21,
+        "startTime": "2025-03-06T11:01:03",
+        "records_since_previous": 224,
+        "time_since_previous": "1:44:14"
+    },
+    {
+        "crashpoint": 351.33,
+        "startTime": "2025-03-06T09:16:49",
+        "records_since_previous": 132,
+        "time_since_previous": "1:06:33"
+    },
+    {
+        "crashpoint": 464.7,
+        "startTime": "2025-03-06T08:10:16",
+        "records_since_previous": 49,
+        "time_since_previous": "0:23:07"
+    },
+    {
+        "crashpoint": 209.06,
+        "startTime": "2025-03-06T07:47:09",
+        "records_since_previous": 219,
+        "time_since_previous": "1:44:34"
+    },
+    {
+        "crashpoint": 549.03,
+        "startTime": "2025-03-06T06:02:35",
+        "records_since_previous": 288,
+        "time_since_previous": "2:16:56"
+    },
+    {
+        "crashpoint": 355.46,
+        "startTime": "2025-03-06T03:45:39",
+        "records_since_previous": 19,
+        "time_since_previous": "0:09:32"
+    },
+    {
+        "crashpoint": 214.53,
+        "startTime": "2025-03-06T03:36:07",
+        "records_since_previous": 224,
+        "time_since_previous": "1:43:51"
+    },
+    {
+        "crashpoint": 245.45,
+        "startTime": "2025-03-06T01:52:16",
+        "records_since_previous": 116,
+        "time_since_previous": "0:50:45"
+    },
+    {
+        "crashpoint": 428.09,
+        "startTime": "2025-03-06T01:01:31",
+        "records_since_previous": 37,
+        "time_since_previous": "0:17:57"
+    },
+    {
+        "crashpoint": 1347.05,
+        "startTime": "2025-03-06T00:43:34",
+        "records_since_previous": 82,
+        "time_since_previous": "0:38:50"
+    },
+    {
+        "crashpoint": 15643.69,
+        "startTime": "2025-03-06T00:04:44",
+        "records_since_previous": 218,
+        "time_since_previous": "1:37:41"
+    },
+    {
+        "crashpoint": 246.8,
+        "startTime": "2025-03-05T22:27:03",
+        "records_since_previous": 6,
+        "time_since_previous": "0:05:39"
+    },
+    {
+        "crashpoint": 872.93,
+        "startTime": "2025-03-05T22:21:24",
+        "records_since_previous": 118,
+        "time_since_previous": "0:59:29"
+    },
+    {
+        "crashpoint": 223.07,
+        "startTime": "2025-03-05T21:21:55",
+        "records_since_previous": 271,
+        "time_since_previous": "2:11:06"
+    },
+    {
+        "crashpoint": 305.17,
+        "startTime": "2025-03-05T19:10:49",
+        "records_since_previous": 18,
+        "time_since_previous": "0:10:22"
+    },
+    {
+        "crashpoint": 512.62,
+        "startTime": "2025-03-05T19:00:27",
+        "records_since_previous": 258,
+        "time_since_previous": "2:03:28"
+    },
+    {
+        "crashpoint": 231.17,
+        "startTime": "2025-03-05T16:56:59",
+        "records_since_previous": 45,
+        "time_since_previous": "0:23:31"
+    },
+    {
+        "crashpoint": 821.72,
+        "startTime": "2025-03-05T16:33:28",
+        "records_since_previous": 289,
+        "time_since_previous": "2:14:16"
+    },
+    {
+        "crashpoint": 284.9,
+        "startTime": "2025-03-05T14:19:12",
+        "records_since_previous": 470,
+        "time_since_previous": "3:35:56"
+    },
+    {
+        "crashpoint": 489.51,
+        "startTime": "2025-03-05T10:43:16",
+        "records_since_previous": 173,
+        "time_since_previous": "1:19:01"
+    },
+    {
+        "crashpoint": 1448.97,
+        "startTime": "2025-03-05T09:24:15",
+        "records_since_previous": 128,
+        "time_since_previous": "0:58:30"
+    },
+    {
+        "crashpoint": 2007.54,
+        "startTime": "2025-03-05T08:25:45",
+        "records_since_previous": 27,
+        "time_since_previous": "0:14:27"
+    },
+    {
+        "crashpoint": 1353.77,
+        "startTime": "2025-03-05T08:11:18",
+        "records_since_previous": 399,
+        "time_since_previous": "3:08:14"
+    },
+    {
+        "crashpoint": 330.06,
+        "startTime": "2025-03-05T05:03:04",
+        "records_since_previous": 40,
+        "time_since_previous": "0:20:12"
+    },
+    {
+        "crashpoint": 519.57,
+        "startTime": "2025-03-05T04:42:52",
+        "records_since_previous": 281,
+        "time_since_previous": "2:04:15"
+    },
+    {
+        "crashpoint": 2598.5,
+        "startTime": "2025-03-05T02:38:37",
+        "records_since_previous": 292,
+        "time_since_previous": "2:12:17"
+    },
+    {
+        "crashpoint": 465.8,
+        "startTime": "2025-03-05T00:26:20",
+        "records_since_previous": 550,
+        "time_since_previous": "4:12:18"
+    },
+    {
+        "crashpoint": 292.9,
+        "startTime": "2025-03-04T20:14:02",
+        "records_since_previous": 417,
+        "time_since_previous": "3:22:26"
+    },
+    {
+        "crashpoint": 4649.8,
+        "startTime": "2025-03-04T16:51:36",
+        "records_since_previous": 101,
+        "time_since_previous": "0:47:51"
+    },
+    {
+        "crashpoint": 304.39,
+        "startTime": "2025-03-04T16:03:45",
+        "records_since_previous": 83,
+        "time_since_previous": "0:40:07"
+    },
+    {
+        "crashpoint": 551.86,
+        "startTime": "2025-03-04T15:23:38",
+        "records_since_previous": 135,
+        "time_since_previous": "1:00:18"
+    },
+    {
+        "crashpoint": 218.06,
+        "startTime": "2025-03-04T14:23:20",
+        "records_since_previous": 11,
+        "time_since_previous": "0:07:22"
+    },
+    {
+        "crashpoint": 203.56,
+        "startTime": "2025-03-04T14:15:58",
+        "records_since_previous": 210,
+        "time_since_previous": "1:33:50"
+    },
+    {
+        "crashpoint": 443.13,
+        "startTime": "2025-03-04T12:42:08",
+        "records_since_previous": 392,
+        "time_since_previous": "3:03:59"
+    },
+    {
+        "crashpoint": 533.35,
+        "startTime": "2025-03-04T09:38:09",
+        "records_since_previous": 51,
+        "time_since_previous": "0:27:31"
+    },
+    {
+        "crashpoint": 404.44,
+        "startTime": "2025-03-04T09:10:38",
+        "records_since_previous": 533,
+        "time_since_previous": "4:00:31"
+    },
+    {
+        "crashpoint": 233.38,
+        "startTime": "2025-03-04T05:10:07",
+        "records_since_previous": 483,
+        "time_since_previous": "3:42:22"
+    },
+    {
+        "crashpoint": 633.02,
+        "startTime": "2025-03-04T01:27:45",
+        "records_since_previous": 674,
+        "time_since_previous": "5:02:25"
+    },
+    {
+        "crashpoint": 278.22,
+        "startTime": "2025-03-03T20:25:20",
+        "records_since_previous": 239,
+        "time_since_previous": "1:53:26"
+    },
+    {
+        "crashpoint": 960.86,
+        "startTime": "2025-03-03T18:31:54",
+        "records_since_previous": 70,
+        "time_since_previous": "0:32:13"
+    },
+    {
+        "crashpoint": 231.41,
+        "startTime": "2025-03-03T17:59:41",
+        "records_since_previous": 280,
+        "time_since_previous": "2:15:49"
+    },
+    {
+        "crashpoint": 267.65,
+        "startTime": "2025-03-03T15:43:52",
+        "records_since_previous": 163,
+        "time_since_previous": "1:17:05"
+    },
+    {
+        "crashpoint": 2979.23,
+        "startTime": "2025-03-03T14:26:47",
+        "records_since_previous": 44,
+        "time_since_previous": "0:21:42"
+    },
+    {
+        "crashpoint": 428.94,
+        "startTime": "2025-03-03T14:05:05",
+        "records_since_previous": 160,
+        "time_since_previous": "1:14:43"
+    },
+    {
+        "crashpoint": 474.38,
+        "startTime": "2025-03-03T12:50:22",
+        "records_since_previous": 388,
+        "time_since_previous": "3:02:13"
+    },
+    {
+        "crashpoint": 1104.79,
+        "startTime": "2025-03-03T09:48:09",
+        "records_since_previous": 62,
+        "time_since_previous": "0:28:18"
+    },
+    {
+        "crashpoint": 453.11,
+        "startTime": "2025-03-03T09:19:51",
+        "records_since_previous": 4,
+        "time_since_previous": "0:03:53"
+    },
+    {
+        "crashpoint": 545.18,
+        "startTime": "2025-03-03T09:15:58",
+        "records_since_previous": 46,
+        "time_since_previous": "0:22:59"
+    },
+    {
+        "crashpoint": 583.1,
+        "startTime": "2025-03-03T08:52:59",
+        "records_since_previous": 32,
+        "time_since_previous": "0:18:17"
+    },
+    {
+        "crashpoint": 259.48,
+        "startTime": "2025-03-03T08:34:42",
+        "records_since_previous": 53,
+        "time_since_previous": "0:23:15"
+    },
+    {
+        "crashpoint": 296.04,
+        "startTime": "2025-03-03T08:11:27",
+        "records_since_previous": 623,
+        "time_since_previous": "4:44:24"
+    },
+    {
+        "crashpoint": 629.27,
+        "startTime": "2025-03-03T03:27:03",
+        "records_since_previous": 504,
+        "time_since_previous": "3:58:24"
+    },
+    {
+        "crashpoint": 3832.96,
+        "startTime": "2025-03-02T23:28:39",
+        "records_since_previous": 428,
+        "time_since_previous": "3:08:28"
+    },
+    {
+        "crashpoint": 215.36,
+        "startTime": "2025-03-02T20:20:11",
+        "records_since_previous": 41,
+        "time_since_previous": "0:21:14"
+    },
+    {
+        "crashpoint": 454.28,
+        "startTime": "2025-03-02T19:58:57",
+        "records_since_previous": 89,
+        "time_since_previous": "0:47:00"
+    },
+    {
+        "crashpoint": 578.41,
+        "startTime": "2025-03-02T19:11:57",
+        "records_since_previous": 10,
+        "time_since_previous": "0:05:31"
+    },
+    {
+        "crashpoint": 486.76,
+        "startTime": "2025-03-02T19:06:26",
+        "records_since_previous": 178,
+        "time_since_previous": "1:25:41"
+    },
+    {
+        "crashpoint": 1351.17,
+        "startTime": "2025-03-02T17:40:45",
+        "records_since_previous": 85,
+        "time_since_previous": "0:45:48"
+    },
+    {
+        "crashpoint": 619.23,
+        "startTime": "2025-03-02T16:54:57",
+        "records_since_previous": 61,
+        "time_since_previous": "0:28:16"
+    },
+    {
+        "crashpoint": 1818.34,
+        "startTime": "2025-03-02T16:26:41",
+        "records_since_previous": 228,
+        "time_since_previous": "1:46:43"
+    },
+    {
+        "crashpoint": 403.22,
+        "startTime": "2025-03-02T14:39:58",
+        "records_since_previous": 20,
+        "time_since_previous": "0:11:14"
+    },
+    {
+        "crashpoint": 614.15,
+        "startTime": "2025-03-02T14:28:44",
+        "records_since_previous": 41,
+        "time_since_previous": "0:19:10"
+    },
+    {
+        "crashpoint": 572.57,
+        "startTime": "2025-03-02T14:09:34",
+        "records_since_previous": 85,
+        "time_since_previous": "0:39:55"
+    },
+    {
+        "crashpoint": 3899.78,
+        "startTime": "2025-03-02T13:29:39",
+        "records_since_previous": 86,
+        "time_since_previous": "0:41:19"
+    },
+    {
+        "crashpoint": 277.18,
+        "startTime": "2025-03-02T12:48:20",
+        "records_since_previous": 77,
+        "time_since_previous": "0:33:11"
+    },
+    {
+        "crashpoint": 237.22,
+        "startTime": "2025-03-02T12:15:09",
+        "records_since_previous": 496,
+        "time_since_previous": "3:42:31"
+    },
+    {
+        "crashpoint": 751.34,
+        "startTime": "2025-03-02T08:32:38",
+        "records_since_previous": 360,
+        "time_since_previous": "2:41:06"
+    },
+    {
+        "crashpoint": 237.99,
+        "startTime": "2025-03-02T05:51:32",
+        "records_since_previous": 113,
+        "time_since_previous": "0:53:02"
+    },
+    {
+        "crashpoint": 200.05,
+        "startTime": "2025-03-02T04:58:30",
+        "records_since_previous": 342,
+        "time_since_previous": "2:33:17"
+    },
+    {
+        "crashpoint": 404.61,
+        "startTime": "2025-03-02T02:25:13",
+        "records_since_previous": 67,
+        "time_since_previous": "0:30:14"
+    },
+    {
+        "crashpoint": 331.54,
+        "startTime": "2025-03-02T01:54:59",
+        "records_since_previous": 308,
+        "time_since_previous": "2:26:36"
+    },
+    {
+        "crashpoint": 297.62,
+        "startTime": "2025-03-01T23:28:23",
+        "records_since_previous": 251,
+        "time_since_previous": "2:03:59"
+    },
+    {
+        "crashpoint": 386.24,
+        "startTime": "2025-03-01T21:24:24",
+        "records_since_previous": 21,
+        "time_since_previous": "0:13:16"
+    },
+    {
+        "crashpoint": 300.19,
+        "startTime": "2025-03-01T21:11:08",
+        "records_since_previous": 28,
+        "time_since_previous": "0:14:25"
+    },
+    {
+        "crashpoint": 1430.61,
+        "startTime": "2025-03-01T20:56:43",
+        "records_since_previous": 18,
+        "time_since_previous": "0:08:03"
+    },
+    {
+        "crashpoint": 6763.56,
+        "startTime": "2025-03-01T20:48:40",
+        "records_since_previous": 220,
+        "time_since_previous": "1:44:11"
+    },
+    {
+        "crashpoint": 278.92,
+        "startTime": "2025-03-01T19:04:29",
+        "records_since_previous": 26,
+        "time_since_previous": "0:13:46"
+    },
+    {
+        "crashpoint": 1623.76,
+        "startTime": "2025-03-01T18:50:43",
+        "records_since_previous": 268,
+        "time_since_previous": "2:05:26"
+    },
+    {
+        "crashpoint": 250.96,
+        "startTime": "2025-03-01T16:45:17",
+        "records_since_previous": 70,
+        "time_since_previous": "0:36:21"
+    },
+    {
+        "crashpoint": 1139.75,
+        "startTime": "2025-03-01T16:08:56",
+        "records_since_previous": 114,
+        "time_since_previous": "0:52:54"
+    },
+    {
+        "crashpoint": 219.3,
+        "startTime": "2025-03-01T15:16:02",
+        "records_since_previous": 341,
+        "time_since_previous": "2:36:38"
+    },
+    {
+        "crashpoint": 306.55,
+        "startTime": "2025-03-01T12:39:24",
+        "records_since_previous": 156,
+        "time_since_previous": "1:10:13"
+    },
+    {
+        "crashpoint": 237.99,
+        "startTime": "2025-03-01T11:29:11",
+        "records_since_previous": 130,
+        "time_since_previous": "0:59:43"
+    },
+    {
+        "crashpoint": 437.51,
+        "startTime": "2025-03-01T10:29:28",
+        "records_since_previous": 27,
+        "time_since_previous": "0:16:15"
+    },
+    {
+        "crashpoint": 929.76,
+        "startTime": "2025-03-01T10:13:13",
+        "records_since_previous": 782,
+        "time_since_previous": "6:12:15"
+    },
+    {
+        "crashpoint": 242.71,
+        "startTime": "2025-03-01T04:00:58",
+        "records_since_previous": 329,
+        "time_since_previous": "2:29:19"
+    },
+    {
+        "crashpoint": 569.24,
+        "startTime": "2025-03-01T01:31:39",
+        "records_since_previous": 81,
+        "time_since_previous": "0:40:57"
+    },
+    {
+        "crashpoint": 564.37,
+        "startTime": "2025-03-01T00:50:42",
+        "records_since_previous": 568,
+        "time_since_previous": "4:26:36"
+    },
+    {
+        "crashpoint": 292.85,
+        "startTime": "2025-02-28T20:24:06",
+        "records_since_previous": 17,
+        "time_since_previous": "0:07:27"
+    },
+    {
+        "crashpoint": 250.23,
+        "startTime": "2025-02-28T20:16:39",
+        "records_since_previous": 27,
+        "time_since_previous": "0:13:22"
+    },
+    {
+        "crashpoint": 330.65,
+        "startTime": "2025-02-28T20:03:17",
+        "records_since_previous": 258,
+        "time_since_previous": "2:02:05"
+    },
+    {
+        "crashpoint": 330.75,
+        "startTime": "2025-02-28T18:01:12",
+        "records_since_previous": 187,
+        "time_since_previous": "1:24:12"
+    },
+    {
+        "crashpoint": 5267.16,
+        "startTime": "2025-02-28T16:37:00",
+        "records_since_previous": 632,
+        "time_since_previous": "4:52:27"
+    },
+    {
+        "crashpoint": 280.12,
+        "startTime": "2025-02-28T11:44:33",
+        "records_since_previous": 116,
+        "time_since_previous": "0:53:55"
+    },
+    {
+        "crashpoint": 509.58,
+        "startTime": "2025-02-28T10:50:38",
+        "records_since_previous": 270,
+        "time_since_previous": "1:56:25"
+    },
+    {
+        "crashpoint": 389.47,
+        "startTime": "2025-02-28T08:54:13",
+        "records_since_previous": 64,
+        "time_since_previous": "0:28:46"
+    },
+    {
+        "crashpoint": 255.34,
+        "startTime": "2025-02-28T08:25:27",
+        "records_since_previous": 437,
+        "time_since_previous": "3:19:08"
+    },
+    {
+        "crashpoint": 1263.82,
+        "startTime": "2025-02-28T05:06:19",
+        "records_since_previous": 79,
+        "time_since_previous": "0:40:57"
+    },
+    {
+        "crashpoint": 856.05,
+        "startTime": "2025-02-28T04:25:22",
+        "records_since_previous": 3,
+        "time_since_previous": "0:02:36"
+    },
+    {
+        "crashpoint": 315.61,
+        "startTime": "2025-02-28T04:22:46",
+        "records_since_previous": 712,
+        "time_since_previous": "5:33:40"
+    },
+    {
+        "crashpoint": 362.67,
+        "startTime": "2025-02-27T22:49:06",
+        "records_since_previous": 35,
+        "time_since_previous": "0:16:49"
+    },
+    {
+        "crashpoint": 346.78,
+        "startTime": "2025-02-27T22:32:17",
+        "records_since_previous": 152,
+        "time_since_previous": "1:11:05"
+    },
+    {
+        "crashpoint": 2064.04,
+        "startTime": "2025-02-27T21:21:12",
+        "records_since_previous": 204,
+        "time_since_previous": "1:36:49"
+    },
+    {
+        "crashpoint": 241.04,
+        "startTime": "2025-02-27T19:44:23",
+        "records_since_previous": 138,
+        "time_since_previous": "1:08:34"
+    },
+    {
+        "crashpoint": 305.31,
+        "startTime": "2025-02-27T18:35:49",
+        "records_since_previous": 324,
+        "time_since_previous": "2:28:54"
+    },
+    {
+        "crashpoint": 988.27,
+        "startTime": "2025-02-27T16:06:55",
+        "records_since_previous": 178,
+        "time_since_previous": "1:21:53"
+    },
+    {
+        "crashpoint": 299.78,
+        "startTime": "2025-02-27T14:45:02",
+        "records_since_previous": 144,
+        "time_since_previous": "1:07:27"
+    },
+    {
+        "crashpoint": 558.1,
+        "startTime": "2025-02-27T13:37:35",
+        "records_since_previous": 4,
+        "time_since_previous": "0:03:02"
+    },
+    {
+        "crashpoint": 475.81,
+        "startTime": "2025-02-27T13:34:33",
+        "records_since_previous": 20,
+        "time_since_previous": "0:11:52"
+    },
+    {
+        "crashpoint": 30569.82,
+        "startTime": "2025-02-27T13:22:41",
+        "records_since_previous": 116,
+        "time_since_previous": "0:54:02"
+    },
+    {
+        "crashpoint": 399.37,
+        "startTime": "2025-02-27T12:28:39",
+        "records_since_previous": 317,
+        "time_since_previous": "2:26:20"
+    },
+    {
+        "crashpoint": 1272.23,
+        "startTime": "2025-02-27T10:02:19",
+        "records_since_previous": 47,
+        "time_since_previous": "0:22:58"
+    },
+    {
+        "crashpoint": 463.33,
+        "startTime": "2025-02-27T09:39:21",
+        "records_since_previous": 44,
+        "time_since_previous": "0:22:45"
+    },
+    {
+        "crashpoint": 203.07,
+        "startTime": "2025-02-27T09:16:36",
+        "records_since_previous": 222,
+        "time_since_previous": "1:47:50"
+    },
+    {
+        "crashpoint": 212.58,
+        "startTime": "2025-02-27T07:28:46",
+        "records_since_previous": 59,
+        "time_since_previous": "0:27:28"
+    },
+    {
+        "crashpoint": 10009.81,
+        "startTime": "2025-02-27T07:01:18",
+        "records_since_previous": 45,
+        "time_since_previous": "0:23:00"
+    },
+    {
+        "crashpoint": 390.94,
+        "startTime": "2025-02-27T06:38:18",
+        "records_since_previous": 323,
+        "time_since_previous": "2:27:51"
+    },
+    {
+        "crashpoint": 618.85,
+        "startTime": "2025-02-27T04:10:27",
+        "records_since_previous": 19,
+        "time_since_previous": "0:10:45"
+    },
+    {
+        "crashpoint": 846.41,
+        "startTime": "2025-02-27T03:59:42",
+        "records_since_previous": 253,
+        "time_since_previous": "2:02:13"
+    },
+    {
+        "crashpoint": 226.75,
+        "startTime": "2025-02-27T01:57:29",
+        "records_since_previous": 7,
+        "time_since_previous": "0:04:58"
+    },
+    {
+        "crashpoint": 509.82,
+        "startTime": "2025-02-27T01:52:31",
+        "records_since_previous": 352,
+        "time_since_previous": "2:38:50"
+    },
+    {
+        "crashpoint": 887.11,
+        "startTime": "2025-02-26T23:13:41",
+        "records_since_previous": 233,
+        "time_since_previous": "1:47:05"
+    },
+    {
+        "crashpoint": 236.42,
+        "startTime": "2025-02-26T21:26:36",
+        "records_since_previous": 285,
+        "time_since_previous": "2:08:26"
+    },
+    {
+        "crashpoint": 436.53,
+        "startTime": "2025-02-26T19:18:10",
+        "records_since_previous": 88,
+        "time_since_previous": "0:42:44"
+    },
+    {
+        "crashpoint": 199.65,
+        "startTime": "2025-02-26T18:35:26",
+        "records_since_previous": 164,
+        "time_since_previous": "1:24:57"
+    },
+    {
+        "crashpoint": 263.96,
+        "startTime": "2025-02-26T17:10:29",
+        "records_since_previous": 59,
+        "time_since_previous": "0:26:26"
+    },
+    {
+        "crashpoint": 281.48,
+        "startTime": "2025-02-26T16:44:03",
+        "records_since_previous": 158,
+        "time_since_previous": "1:13:06"
+    },
+    {
+        "crashpoint": 260.03,
+        "startTime": "2025-02-26T15:30:57",
+        "records_since_previous": 25,
+        "time_since_previous": "0:14:23"
+    },
+    {
+        "crashpoint": 310.52,
+        "startTime": "2025-02-26T15:16:34",
+        "records_since_previous": 241,
+        "time_since_previous": "1:53:49"
+    },
+    {
+        "crashpoint": 425.36,
+        "startTime": "2025-02-26T13:22:45",
+        "records_since_previous": 321,
+        "time_since_previous": "2:26:20"
+    },
+    {
+        "crashpoint": 429.08,
+        "startTime": "2025-02-26T10:56:25",
+        "records_since_previous": 2,
+        "time_since_previous": "0:02:14"
+    },
+    {
+        "crashpoint": 364.31,
+        "startTime": "2025-02-26T10:54:11",
+        "records_since_previous": 871,
+        "time_since_previous": "6:40:00"
+    },
+    {
+        "crashpoint": 361.69,
+        "startTime": "2025-02-26T04:14:11",
+        "records_since_previous": 278,
+        "time_since_previous": "2:14:04"
+    },
+    {
+        "crashpoint": 375.91,
+        "startTime": "2025-02-26T02:00:07",
+        "records_since_previous": 84,
+        "time_since_previous": "0:38:35"
+    },
+    {
+        "crashpoint": 1616.01,
+        "startTime": "2025-02-26T01:21:32",
+        "records_since_previous": 209,
+        "time_since_previous": "1:45:20"
+    },
+    {
+        "crashpoint": 639.72,
+        "startTime": "2025-02-25T23:36:12",
+        "records_since_previous": 300,
+        "time_since_previous": "2:22:15"
+    },
+    {
+        "crashpoint": 360.37,
+        "startTime": "2025-02-25T21:13:57",
+        "records_since_previous": 15,
+        "time_since_previous": "0:08:12"
+    },
+    {
+        "crashpoint": 367.13,
+        "startTime": "2025-02-25T21:05:45",
+        "records_since_previous": 418,
+        "time_since_previous": "3:15:33"
+    },
+    {
+        "crashpoint": 200.93,
+        "startTime": "2025-02-25T17:50:12",
+        "records_since_previous": 249,
+        "time_since_previous": "1:56:15"
+    },
+    {
+        "crashpoint": 500.03,
+        "startTime": "2025-02-25T15:53:57",
+        "records_since_previous": 15,
+        "time_since_previous": "0:08:34"
+    },
+    {
+        "crashpoint": 598.03,
+        "startTime": "2025-02-25T15:45:23",
+        "records_since_previous": 166,
+        "time_since_previous": "1:18:32"
+    },
+    {
+        "crashpoint": 270.26,
+        "startTime": "2025-02-25T14:26:51",
+        "records_since_previous": 119,
+        "time_since_previous": "0:58:49"
+    },
+    {
+        "crashpoint": 208.25,
+        "startTime": "2025-02-25T13:28:02",
+        "records_since_previous": 184,
+        "time_since_previous": "1:27:16"
+    },
+    {
+        "crashpoint": 1929.7,
+        "startTime": "2025-02-25T12:00:46",
+        "records_since_previous": 194,
+        "time_since_previous": "1:32:44"
+    },
+    {
+        "crashpoint": 3377.62,
+        "startTime": "2025-02-25T10:28:02",
+        "records_since_previous": 93,
+        "time_since_previous": "0:43:27"
+    },
+    {
+        "crashpoint": 453.23,
+        "startTime": "2025-02-25T09:44:35",
+        "records_since_previous": 113,
+        "time_since_previous": "0:57:07"
+    },
+    {
+        "crashpoint": 381.75,
+        "startTime": "2025-02-25T08:47:28",
+        "records_since_previous": 204,
+        "time_since_previous": "1:32:11"
+    },
+    {
+        "crashpoint": 703.94,
+        "startTime": "2025-02-25T07:15:17",
+        "records_since_previous": 43,
+        "time_since_previous": "0:20:33"
+    },
+    {
+        "crashpoint": 529.9,
+        "startTime": "2025-02-25T06:54:44",
+        "records_since_previous": 226,
+        "time_since_previous": "1:44:41"
+    },
+    {
+        "crashpoint": 518.47,
+        "startTime": "2025-02-25T05:10:03",
+        "records_since_previous": 443,
+        "time_since_previous": "3:30:41"
+    },
+    {
+        "crashpoint": 354.79,
+        "startTime": "2025-02-25T01:39:22",
+        "records_since_previous": 749,
+        "time_since_previous": "5:58:25"
+    },
+    {
+        "crashpoint": 499.24,
+        "startTime": "2025-02-24T19:40:57",
+        "records_since_previous": 163,
+        "time_since_previous": "1:14:38"
+    },
+    {
+        "crashpoint": 593.56,
+        "startTime": "2025-02-24T18:26:19",
+        "records_since_previous": 282,
+        "time_since_previous": "2:08:19"
+    },
+    {
+        "crashpoint": 304.69,
+        "startTime": "2025-02-24T16:18:00",
+        "records_since_previous": 364,
+        "time_since_previous": "2:47:40"
+    },
+    {
+        "crashpoint": 238.76,
+        "startTime": "2025-02-24T13:30:20",
+        "records_since_previous": 24,
+        "time_since_previous": "0:16:54"
+    },
+    {
+        "crashpoint": 440.48,
+        "startTime": "2025-02-24T13:13:26",
+        "records_since_previous": 25,
+        "time_since_previous": "0:12:39"
+    },
+    {
+        "crashpoint": 242.18,
+        "startTime": "2025-02-24T13:00:47",
+        "records_since_previous": 63,
+        "time_since_previous": "0:32:35"
+    },
+    {
+        "crashpoint": 331.64,
+        "startTime": "2025-02-24T12:28:12",
+        "records_since_previous": 7,
+        "time_since_previous": "0:03:46"
+    },
+    {
+        "crashpoint": 457.73,
+        "startTime": "2025-02-24T12:24:26",
+        "records_since_previous": 93,
+        "time_since_previous": "0:48:07"
+    },
+    {
+        "crashpoint": 533.45,
+        "startTime": "2025-02-24T11:36:19",
+        "records_since_previous": 144,
+        "time_since_previous": "1:06:55"
+    },
+    {
+        "crashpoint": 401.97,
+        "startTime": "2025-02-24T10:29:24",
+        "records_since_previous": 160,
+        "time_since_previous": "1:11:05"
+    },
+    {
+        "crashpoint": 546.59,
+        "startTime": "2025-02-24T09:18:19",
+        "records_since_previous": 306,
+        "time_since_previous": "2:25:54"
+    },
+    {
+        "crashpoint": 326.73,
+        "startTime": "2025-02-24T06:52:25",
+        "records_since_previous": 120,
+        "time_since_previous": "1:00:09"
+    },
+    {
+        "crashpoint": 883.83,
+        "startTime": "2025-02-24T05:52:16",
+        "records_since_previous": 73,
+        "time_since_previous": "0:35:07"
+    },
+    {
+        "crashpoint": 956.93,
+        "startTime": "2025-02-24T05:17:09",
+        "records_since_previous": 198,
+        "time_since_previous": "1:28:10"
+    },
+    {
+        "crashpoint": 820.0,
+        "startTime": "2025-02-24T03:48:59",
+        "records_since_previous": 60,
+        "time_since_previous": "0:29:46"
+    },
+    {
+        "crashpoint": 256.45,
+        "startTime": "2025-02-24T03:19:13",
+        "records_since_previous": 36,
+        "time_since_previous": "0:16:22"
+    },
+    {
+        "crashpoint": 296.34,
+        "startTime": "2025-02-24T03:02:51",
+        "records_since_previous": 44,
+        "time_since_previous": "0:24:12"
+    },
+    {
+        "crashpoint": 328.3,
+        "startTime": "2025-02-24T02:38:39",
+        "records_since_previous": 19,
+        "time_since_previous": "0:11:53"
+    },
+    {
+        "crashpoint": 1464.99,
+        "startTime": "2025-02-24T02:26:46",
+        "records_since_previous": 875,
+        "time_since_previous": "6:42:46"
+    },
+    {
+        "crashpoint": 264.68,
+        "startTime": "2025-02-23T19:44:00",
+        "records_since_previous": 296,
+        "time_since_previous": "2:12:06"
+    },
+    {
+        "crashpoint": 229.25,
+        "startTime": "2025-02-23T17:31:54",
+        "records_since_previous": 28,
+        "time_since_previous": "0:13:36"
+    },
+    {
+        "crashpoint": 248.23,
+        "startTime": "2025-02-23T17:18:18",
+        "records_since_previous": 199,
+        "time_since_previous": "1:33:06"
+    },
+    {
+        "crashpoint": 9490.75,
+        "startTime": "2025-02-23T15:45:12",
+        "records_since_previous": 295,
+        "time_since_previous": "2:18:42"
+    },
+    {
+        "crashpoint": 617.72,
+        "startTime": "2025-02-23T13:26:30",
+        "records_since_previous": 283,
+        "time_since_previous": "2:11:11"
+    },
+    {
+        "crashpoint": 252.83,
+        "startTime": "2025-02-23T11:15:19",
+        "records_since_previous": 1067,
+        "time_since_previous": "8:08:24"
+    },
+    {
+        "crashpoint": 212.27,
+        "startTime": "2025-02-23T03:06:55",
+        "records_since_previous": 202,
+        "time_since_previous": "1:33:59"
+    },
+    {
+        "crashpoint": 249.52,
+        "startTime": "2025-02-23T01:32:56",
+        "records_since_previous": 221,
+        "time_since_previous": "1:41:08"
+    },
+    {
+        "crashpoint": 5289.41,
+        "startTime": "2025-02-22T23:51:48",
+        "records_since_previous": 57,
+        "time_since_previous": "0:26:10"
+    },
+    {
+        "crashpoint": 267.71,
+        "startTime": "2025-02-22T23:25:38",
+        "records_since_previous": 13,
+        "time_since_previous": "0:06:55"
+    },
+    {
+        "crashpoint": 401.46,
+        "startTime": "2025-02-22T23:18:43",
+        "records_since_previous": 70,
+        "time_since_previous": "0:34:23"
+    },
+    {
+        "crashpoint": 228.02,
+        "startTime": "2025-02-22T22:44:20",
+        "records_since_previous": 96,
+        "time_since_previous": "0:51:27"
+    },
+    {
+        "crashpoint": 709.47,
+        "startTime": "2025-02-22T21:52:53",
+        "records_since_previous": 89,
+        "time_since_previous": "0:45:43"
+    },
+    {
+        "crashpoint": 1216.42,
+        "startTime": "2025-02-22T21:07:10",
+        "records_since_previous": 10,
+        "time_since_previous": "0:06:23"
+    },
+    {
+        "crashpoint": 351.79,
+        "startTime": "2025-02-22T21:00:47",
+        "records_since_previous": 178,
+        "time_since_previous": "1:24:47"
+    },
+    {
+        "crashpoint": 8708.23,
+        "startTime": "2025-02-22T19:36:00",
+        "records_since_previous": 938,
+        "time_since_previous": "7:10:56"
+    },
+    {
+        "crashpoint": 991.73,
+        "startTime": "2025-02-22T12:25:04",
+        "records_since_previous": 175,
+        "time_since_previous": "1:20:32"
+    },
+    {
+        "crashpoint": 224.35,
+        "startTime": "2025-02-22T11:04:32",
+        "records_since_previous": 85,
+        "time_since_previous": "0:43:14"
+    },
+    {
+        "crashpoint": 450.36,
+        "startTime": "2025-02-22T10:21:18",
+        "records_since_previous": 645,
+        "time_since_previous": "5:06:03"
+    },
+    {
+        "crashpoint": 767.61,
+        "startTime": "2025-02-22T05:15:15",
+        "records_since_previous": 55,
+        "time_since_previous": "0:27:10"
+    },
+    {
+        "crashpoint": 766.98,
+        "startTime": "2025-02-22T04:48:05",
+        "records_since_previous": 36,
+        "time_since_previous": "0:18:07"
+    },
+    {
+        "crashpoint": 1168.78,
+        "startTime": "2025-02-22T04:29:58",
+        "records_since_previous": 170,
+        "time_since_previous": "1:22:36"
+    },
+    {
+        "crashpoint": 708.2,
+        "startTime": "2025-02-22T03:07:22",
+        "records_since_previous": 126,
+        "time_since_previous": "0:58:57"
+    },
+    {
+        "crashpoint": 2479.29,
+        "startTime": "2025-02-22T02:08:25",
+        "records_since_previous": 49,
+        "time_since_previous": "0:26:03"
+    },
+    {
+        "crashpoint": 546.69,
+        "startTime": "2025-02-22T01:42:22",
+        "records_since_previous": 115,
+        "time_since_previous": "0:53:47"
+    },
+    {
+        "crashpoint": 915.02,
+        "startTime": "2025-02-22T00:48:35",
+        "records_since_previous": 136,
+        "time_since_previous": "1:07:03"
+    },
+    {
+        "crashpoint": 1753.09,
+        "startTime": "2025-02-21T23:41:32",
+        "records_since_previous": 48,
+        "time_since_previous": "0:21:52"
+    },
+    {
+        "crashpoint": 934.9,
+        "startTime": "2025-02-21T23:19:40",
+        "records_since_previous": 47,
+        "time_since_previous": "0:26:00"
+    },
+    {
+        "crashpoint": 613.46,
+        "startTime": "2025-02-21T22:53:40",
+        "records_since_previous": 2,
+        "time_since_previous": "0:03:30"
+    },
+    {
+        "crashpoint": 31936.2,
+        "startTime": "2025-02-21T22:50:10",
+        "records_since_previous": 580,
+        "time_since_previous": "4:30:39"
+    },
+    {
+        "crashpoint": 203.77,
+        "startTime": "2025-02-21T18:19:31",
+        "records_since_previous": 397,
+        "time_since_previous": "3:02:42"
+    },
+    {
+        "crashpoint": 1169.23,
+        "startTime": "2025-02-21T15:16:49",
+        "records_since_previous": 170,
+        "time_since_previous": "1:19:27"
+    },
+    {
+        "crashpoint": 272.06,
+        "startTime": "2025-02-21T13:57:22",
+        "records_since_previous": 70,
+        "time_since_previous": "0:33:45"
+    },
+    {
+        "crashpoint": 239.0,
+        "startTime": "2025-02-21T13:23:37",
+        "records_since_previous": 1,
+        "time_since_previous": "0:02:05"
+    },
+    {
+        "crashpoint": 862.76,
+        "startTime": "2025-02-21T13:21:32",
+        "records_since_previous": 167,
+        "time_since_previous": "1:17:54"
+    },
+    {
+        "crashpoint": 208.12,
+        "startTime": "2025-02-21T12:03:38",
+        "records_since_previous": 24,
+        "time_since_previous": "0:13:27"
+    },
+    {
+        "crashpoint": 1037.19,
+        "startTime": "2025-02-21T11:50:11",
+        "records_since_previous": 50,
+        "time_since_previous": "0:26:20"
+    },
+    {
+        "crashpoint": 402.33,
+        "startTime": "2025-02-21T11:23:51",
+        "records_since_previous": 72,
+        "time_since_previous": "0:34:07"
+    },
+    {
+        "crashpoint": 371.5,
+        "startTime": "2025-02-21T10:49:44",
+        "records_since_previous": 360,
+        "time_since_previous": "2:47:59"
+    },
+    {
+        "crashpoint": 1408.94,
+        "startTime": "2025-02-21T08:01:45",
+        "records_since_previous": 13,
+        "time_since_previous": "0:08:46"
+    },
+    {
+        "crashpoint": 971.66,
+        "startTime": "2025-02-21T07:52:59",
+        "records_since_previous": 289,
+        "time_since_previous": "2:13:47"
+    },
+    {
+        "crashpoint": 603.28,
+        "startTime": "2025-02-21T05:39:12",
+        "records_since_previous": 20,
+        "time_since_previous": "0:09:18"
+    },
+    {
+        "crashpoint": 868.02,
+        "startTime": "2025-02-21T05:29:54",
+        "records_since_previous": 203,
+        "time_since_previous": "1:32:41"
+    },
+    {
+        "crashpoint": 3202.6,
+        "startTime": "2025-02-21T03:57:13",
+        "records_since_previous": 398,
+        "time_since_previous": "3:02:16"
+    },
+    {
+        "crashpoint": 32729.23,
+        "startTime": "2025-02-21T00:54:57",
+        "records_since_previous": 75,
+        "time_since_previous": "0:35:12"
+    },
+    {
+        "crashpoint": 426.97,
+        "startTime": "2025-02-21T00:19:45",
+        "records_since_previous": 70,
+        "time_since_previous": "0:37:07"
+    },
+    {
+        "crashpoint": 15432.59,
+        "startTime": "2025-02-20T23:42:38",
+        "records_since_previous": 825,
+        "time_since_previous": "6:23:54"
+    },
+    {
+        "crashpoint": 322.03,
+        "startTime": "2025-02-20T17:18:44",
+        "records_since_previous": 2,
+        "time_since_previous": "0:02:01"
+    },
+    {
+        "crashpoint": 255.86,
+        "startTime": "2025-02-20T17:16:43",
+        "records_since_previous": 199,
+        "time_since_previous": "1:32:33"
+    },
+    {
+        "crashpoint": 317.98,
+        "startTime": "2025-02-20T15:44:10",
+        "records_since_previous": 125,
+        "time_since_previous": "1:01:18"
+    },
+    {
+        "crashpoint": 646.96,
+        "startTime": "2025-02-20T14:42:52",
+        "records_since_previous": 46,
+        "time_since_previous": "0:22:47"
+    },
+    {
+        "crashpoint": 224.23,
+        "startTime": "2025-02-20T14:20:05",
+        "records_since_previous": 85,
+        "time_since_previous": "0:39:23"
+    },
+    {
+        "crashpoint": 488.88,
+        "startTime": "2025-02-20T13:40:42",
+        "records_since_previous": 184,
+        "time_since_previous": "1:24:19"
+    },
+    {
+        "crashpoint": 710.6,
+        "startTime": "2025-02-20T12:16:23",
+        "records_since_previous": 172,
+        "time_since_previous": "1:19:10"
+    },
+    {
+        "crashpoint": 217.42,
+        "startTime": "2025-02-20T10:57:13",
+        "records_since_previous": 100,
+        "time_since_previous": "0:45:19"
+    },
+    {
+        "crashpoint": 239.87,
+        "startTime": "2025-02-20T10:11:54",
+        "records_since_previous": 184,
+        "time_since_previous": "1:23:53"
+    },
+    {
+        "crashpoint": 948.67,
+        "startTime": "2025-02-20T08:48:01",
+        "records_since_previous": 139,
+        "time_since_previous": "1:07:39"
+    },
+    {
+        "crashpoint": 373.5,
+        "startTime": "2025-02-20T07:40:22",
+        "records_since_previous": 126,
+        "time_since_previous": "1:05:24"
+    },
+    {
+        "crashpoint": 710.29,
+        "startTime": "2025-02-20T06:34:58",
+        "records_since_previous": 267,
+        "time_since_previous": "1:59:51"
+    },
+    {
+        "crashpoint": 213.25,
+        "startTime": "2025-02-20T04:35:07",
+        "records_since_previous": 329,
+        "time_since_previous": "2:37:43"
+    },
+    {
+        "crashpoint": 2162.6,
+        "startTime": "2025-02-20T01:57:24",
+        "records_since_previous": 20,
+        "time_since_previous": "0:13:46"
+    },
+    {
+        "crashpoint": 242.89,
+        "startTime": "2025-02-20T01:43:38",
+        "records_since_previous": 344,
+        "time_since_previous": "2:31:32"
+    }
+]

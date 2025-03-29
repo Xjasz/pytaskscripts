@@ -1,0 +1,14 @@
+[
+    {
+        "crashpoint": 164138.88,
+        "startTime": "2025-01-23T21:08:37",
+        "records_since_previous": 228016,
+        "time_since_previous": "74 days, 18:09:25"
+    },
+    {
+        "crashpoint": 154996.45,
+        "startTime": "2024-11-10T02:59:12",
+        "records_since_previous": 0,
+        "time_since_previous": "74 days, 18:09:25"
+    }
+]

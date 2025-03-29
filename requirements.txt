@@ -1,0 +1,8 @@
+selenium==4.10.0
+beautifulsoup4==4.12.2
+pandas==2.0.3
+mysql-connector-python==9.1.0
+ecdsa
+base58
+datetime
+pytz==2023.3 

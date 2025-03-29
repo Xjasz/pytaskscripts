@@ -1,0 +1,3002 @@
+[
+    {
+        "slidepoint": 2200.36,
+        "startTime": "2025-03-23T17:29:39",
+        "records_since_previous": 298,
+        "time_since_previous": "3:00:35"
+    },
+    {
+        "slidepoint": 636.77,
+        "startTime": "2025-03-23T14:29:04",
+        "records_since_previous": 1,
+        "time_since_previous": "0:00:36"
+    },
+    {
+        "slidepoint": 394.79,
+        "startTime": "2025-03-23T14:28:28",
+        "records_since_previous": 134,
+        "time_since_previous": "1:21:14"
+    },
+    {
+        "slidepoint": 371.0,
+        "startTime": "2025-03-23T13:07:14",
+        "records_since_previous": 927,
+        "time_since_previous": "9:21:07"
+    },
+    {
+        "slidepoint": 530.9,
+        "startTime": "2025-03-23T03:46:07",
+        "records_since_previous": 78,
+        "time_since_previous": "0:47:14"
+    },
+    {
+        "slidepoint": 1715.52,
+        "startTime": "2025-03-23T02:58:53",
+        "records_since_previous": 125,
+        "time_since_previous": "1:15:39"
+    },
+    {
+        "slidepoint": 14477.24,
+        "startTime": "2025-03-23T01:43:14",
+        "records_since_previous": 396,
+        "time_since_previous": "3:59:58"
+    },
+    {
+        "slidepoint": 523.82,
+        "startTime": "2025-03-22T21:43:16",
+        "records_since_previous": 327,
+        "time_since_previous": "3:18:07"
+    },
+    {
+        "slidepoint": 341.35,
+        "startTime": "2025-03-22T18:25:09",
+        "records_since_previous": 503,
+        "time_since_previous": "5:04:36"
+    },
+    {
+        "slidepoint": 2353.38,
+        "startTime": "2025-03-22T13:20:33",
+        "records_since_previous": 246,
+        "time_since_previous": "2:28:58"
+    },
+    {
+        "slidepoint": 1195.49,
+        "startTime": "2025-03-22T10:51:35",
+        "records_since_previous": 240,
+        "time_since_previous": "2:25:21"
+    },
+    {
+        "slidepoint": 498.41,
+        "startTime": "2025-03-22T08:26:14",
+        "records_since_previous": 30,
+        "time_since_previous": "0:18:09"
+    },
+    {
+        "slidepoint": 300.36,
+        "startTime": "2025-03-22T08:08:05",
+        "records_since_previous": 87,
+        "time_since_previous": "0:52:38"
+    },
+    {
+        "slidepoint": 1724.05,
+        "startTime": "2025-03-22T07:15:27",
+        "records_since_previous": 402,
+        "time_since_previous": "4:03:19"
+    },
+    {
+        "slidepoint": 1564.67,
+        "startTime": "2025-03-22T03:12:08",
+        "records_since_previous": 646,
+        "time_since_previous": "6:31:32"
+    },
+    {
+        "slidepoint": 502.23,
+        "startTime": "2025-03-21T20:40:36",
+        "records_since_previous": 206,
+        "time_since_previous": "2:04:51"
+    },
+    {
+        "slidepoint": 421.21,
+        "startTime": "2025-03-21T18:35:45",
+        "records_since_previous": 567,
+        "time_since_previous": "5:43:18"
+    },
+    {
+        "slidepoint": 413.73,
+        "startTime": "2025-03-21T12:52:27",
+        "records_since_previous": 723,
+        "time_since_previous": "7:17:31"
+    },
+    {
+        "slidepoint": 381.74,
+        "startTime": "2025-03-21T05:34:56",
+        "records_since_previous": 916,
+        "time_since_previous": "9:16:01"
+    },
+    {
+        "slidepoint": 1250.0,
+        "startTime": "2025-03-20T20:18:55",
+        "records_since_previous": 100,
+        "time_since_previous": "1:00:41"
+    },
+    {
+        "slidepoint": 953.62,
+        "startTime": "2025-03-20T19:18:14",
+        "records_since_previous": 26,
+        "time_since_previous": "0:15:45"
+    },
+    {
+        "slidepoint": 1449.24,
+        "startTime": "2025-03-20T19:02:29",
+        "records_since_previous": 68,
+        "time_since_previous": "0:41:16"
+    },
+    {
+        "slidepoint": 624.67,
+        "startTime": "2025-03-20T18:21:13",
+        "records_since_previous": 110,
+        "time_since_previous": "1:06:39"
+    },
+    {
+        "slidepoint": 325.94,
+        "startTime": "2025-03-20T17:14:34",
+        "records_since_previous": 208,
+        "time_since_previous": "2:06:11"
+    },
+    {
+        "slidepoint": 303.23,
+        "startTime": "2025-03-20T15:08:23",
+        "records_since_previous": 11,
+        "time_since_previous": "0:06:42"
+    },
+    {
+        "slidepoint": 345.82,
+        "startTime": "2025-03-20T15:01:41",
+        "records_since_previous": 680,
+        "time_since_previous": "6:52:13"
+    },
+    {
+        "slidepoint": 1098.3,
+        "startTime": "2025-03-20T08:09:28",
+        "records_since_previous": 404,
+        "time_since_previous": "4:05:03"
+    },
+    {
+        "slidepoint": 398.23,
+        "startTime": "2025-03-20T04:04:25",
+        "records_since_previous": 706,
+        "time_since_previous": "7:09:33"
+    },
+    {
+        "slidepoint": 5506.38,
+        "startTime": "2025-03-19T20:54:52",
+        "records_since_previous": 38,
+        "time_since_previous": "0:23:03"
+    },
+    {
+        "slidepoint": 6869.38,
+        "startTime": "2025-03-19T20:31:49",
+        "records_since_previous": 669,
+        "time_since_previous": "6:45:44"
+    },
+    {
+        "slidepoint": 8638.66,
+        "startTime": "2025-03-19T13:46:05",
+        "records_since_previous": 395,
+        "time_since_previous": "3:59:09"
+    },
+    {
+        "slidepoint": 586.4,
+        "startTime": "2025-03-19T09:46:56",
+        "records_since_previous": 570,
+        "time_since_previous": "5:45:13"
+    },
+    {
+        "slidepoint": 12111.9,
+        "startTime": "2025-03-19T04:01:43",
+        "records_since_previous": 615,
+        "time_since_previous": "6:13:37"
+    },
+    {
+        "slidepoint": 494.39,
+        "startTime": "2025-03-18T21:48:06",
+        "records_since_previous": 388,
+        "time_since_previous": "3:55:16"
+    },
+    {
+        "slidepoint": 494.71,
+        "startTime": "2025-03-18T17:52:50",
+        "records_since_previous": 405,
+        "time_since_previous": "4:05:12"
+    },
+    {
+        "slidepoint": 436.75,
+        "startTime": "2025-03-18T13:47:38",
+        "records_since_previous": 30,
+        "time_since_previous": "0:18:11"
+    },
+    {
+        "slidepoint": 722.91,
+        "startTime": "2025-03-18T13:29:27",
+        "records_since_previous": 1369,
+        "time_since_previous": "13:48:07"
+    },
+    {
+        "slidepoint": 330.51,
+        "startTime": "2025-03-17T23:41:20",
+        "records_since_previous": 14,
+        "time_since_previous": "0:08:29"
+    },
+    {
+        "slidepoint": 463.79,
+        "startTime": "2025-03-17T23:32:51",
+        "records_since_previous": 81,
+        "time_since_previous": "0:49:06"
+    },
+    {
+        "slidepoint": 353.78,
+        "startTime": "2025-03-17T22:43:45",
+        "records_since_previous": 256,
+        "time_since_previous": "2:34:58"
+    },
+    {
+        "slidepoint": 2091.7,
+        "startTime": "2025-03-17T20:08:47",
+        "records_since_previous": 303,
+        "time_since_previous": "3:03:40"
+    },
+    {
+        "slidepoint": 1369.16,
+        "startTime": "2025-03-17T17:05:07",
+        "records_since_previous": 13,
+        "time_since_previous": "0:07:51"
+    },
+    {
+        "slidepoint": 2284.99,
+        "startTime": "2025-03-17T16:57:16",
+        "records_since_previous": 301,
+        "time_since_previous": "3:02:01"
+    },
+    {
+        "slidepoint": 852.75,
+        "startTime": "2025-03-17T13:55:15",
+        "records_since_previous": 287,
+        "time_since_previous": "2:53:37"
+    },
+    {
+        "slidepoint": 2526.75,
+        "startTime": "2025-03-17T11:01:38",
+        "records_since_previous": 111,
+        "time_since_previous": "1:07:05"
+    },
+    {
+        "slidepoint": 318.38,
+        "startTime": "2025-03-17T09:54:33",
+        "records_since_previous": 125,
+        "time_since_previous": "1:15:29"
+    },
+    {
+        "slidepoint": 1641.23,
+        "startTime": "2025-03-17T08:39:04",
+        "records_since_previous": 80,
+        "time_since_previous": "0:48:15"
+    },
+    {
+        "slidepoint": 725.12,
+        "startTime": "2025-03-17T07:50:49",
+        "records_since_previous": 144,
+        "time_since_previous": "1:27:00"
+    },
+    {
+        "slidepoint": 974.04,
+        "startTime": "2025-03-17T06:23:49",
+        "records_since_previous": 295,
+        "time_since_previous": "2:58:12"
+    },
+    {
+        "slidepoint": 3067.85,
+        "startTime": "2025-03-17T03:25:37",
+        "records_since_previous": 109,
+        "time_since_previous": "1:05:56"
+    },
+    {
+        "slidepoint": 462.3,
+        "startTime": "2025-03-17T02:19:41",
+        "records_since_previous": 56,
+        "time_since_previous": "0:34:12"
+    },
+    {
+        "slidepoint": 1574.38,
+        "startTime": "2025-03-17T01:45:29",
+        "records_since_previous": 252,
+        "time_since_previous": "2:33:03"
+    },
+    {
+        "slidepoint": 590.11,
+        "startTime": "2025-03-16T23:12:26",
+        "records_since_previous": 226,
+        "time_since_previous": "2:16:52"
+    },
+    {
+        "slidepoint": 779.01,
+        "startTime": "2025-03-16T20:55:34",
+        "records_since_previous": 732,
+        "time_since_previous": "7:22:55"
+    },
+    {
+        "slidepoint": 1807.21,
+        "startTime": "2025-03-16T13:32:39",
+        "records_since_previous": 551,
+        "time_since_previous": "5:32:51"
+    },
+    {
+        "slidepoint": 3429.76,
+        "startTime": "2025-03-16T07:59:48",
+        "records_since_previous": 76,
+        "time_since_previous": "0:45:56"
+    },
+    {
+        "slidepoint": 6082.93,
+        "startTime": "2025-03-16T07:13:52",
+        "records_since_previous": 259,
+        "time_since_previous": "2:36:21"
+    },
+    {
+        "slidepoint": 755.54,
+        "startTime": "2025-03-16T04:37:31",
+        "records_since_previous": 942,
+        "time_since_previous": "9:30:17"
+    },
+    {
+        "slidepoint": 527.44,
+        "startTime": "2025-03-15T19:07:14",
+        "records_since_previous": 1264,
+        "time_since_previous": "12:44:44"
+    },
+    {
+        "slidepoint": 1075.81,
+        "startTime": "2025-03-15T06:22:30",
+        "records_since_previous": 713,
+        "time_since_previous": "7:11:36"
+    },
+    {
+        "slidepoint": 384.97,
+        "startTime": "2025-03-14T23:10:54",
+        "records_since_previous": 153,
+        "time_since_previous": "1:32:50"
+    },
+    {
+        "slidepoint": 1449.58,
+        "startTime": "2025-03-14T21:38:04",
+        "records_since_previous": 364,
+        "time_since_previous": "3:40:17"
+    },
+    {
+        "slidepoint": 355.01,
+        "startTime": "2025-03-14T17:57:47",
+        "records_since_previous": 418,
+        "time_since_previous": "4:12:47"
+    },
+    {
+        "slidepoint": 404.92,
+        "startTime": "2025-03-14T13:45:00",
+        "records_since_previous": 597,
+        "time_since_previous": "6:00:56"
+    },
+    {
+        "slidepoint": 1093.13,
+        "startTime": "2025-03-14T07:44:04",
+        "records_since_previous": 344,
+        "time_since_previous": "3:27:46"
+    },
+    {
+        "slidepoint": 617.95,
+        "startTime": "2025-03-14T04:16:18",
+        "records_since_previous": 119,
+        "time_since_previous": "1:11:58"
+    },
+    {
+        "slidepoint": 1603.21,
+        "startTime": "2025-03-14T03:04:20",
+        "records_since_previous": 23,
+        "time_since_previous": "0:13:55"
+    },
+    {
+        "slidepoint": 412.31,
+        "startTime": "2025-03-14T02:50:25",
+        "records_since_previous": 23,
+        "time_since_previous": "0:13:55"
+    },
+    {
+        "slidepoint": 477.73,
+        "startTime": "2025-03-14T02:36:30",
+        "records_since_previous": 577,
+        "time_since_previous": "5:49:22"
+    },
+    {
+        "slidepoint": 397.16,
+        "startTime": "2025-03-13T20:47:08",
+        "records_since_previous": 160,
+        "time_since_previous": "1:36:50"
+    },
+    {
+        "slidepoint": 12774.18,
+        "startTime": "2025-03-13T19:10:18",
+        "records_since_previous": 211,
+        "time_since_previous": "2:07:46"
+    },
+    {
+        "slidepoint": 3310.34,
+        "startTime": "2025-03-13T17:02:32",
+        "records_since_previous": 59,
+        "time_since_previous": "0:35:41"
+    },
+    {
+        "slidepoint": 4177.53,
+        "startTime": "2025-03-13T16:26:51",
+        "records_since_previous": 55,
+        "time_since_previous": "0:33:18"
+    },
+    {
+        "slidepoint": 1163.46,
+        "startTime": "2025-03-13T15:53:33",
+        "records_since_previous": 576,
+        "time_since_previous": "5:48:24"
+    },
+    {
+        "slidepoint": 384.67,
+        "startTime": "2025-03-13T10:05:09",
+        "records_since_previous": 238,
+        "time_since_previous": "2:23:55"
+    },
+    {
+        "slidepoint": 2511.3,
+        "startTime": "2025-03-13T07:41:14",
+        "records_since_previous": 558,
+        "time_since_previous": "5:37:36"
+    },
+    {
+        "slidepoint": 353.61,
+        "startTime": "2025-03-13T02:03:38",
+        "records_since_previous": 182,
+        "time_since_previous": "1:50:45"
+    },
+    {
+        "slidepoint": 995.77,
+        "startTime": "2025-03-13T00:12:53",
+        "records_since_previous": 544,
+        "time_since_previous": "5:29:25"
+    },
+    {
+        "slidepoint": 550.19,
+        "startTime": "2025-03-12T18:43:28",
+        "records_since_previous": 92,
+        "time_since_previous": "0:55:53"
+    },
+    {
+        "slidepoint": 299.43,
+        "startTime": "2025-03-12T17:47:35",
+        "records_since_previous": 88,
+        "time_since_previous": "0:53:13"
+    },
+    {
+        "slidepoint": 325.08,
+        "startTime": "2025-03-12T16:54:22",
+        "records_since_previous": 523,
+        "time_since_previous": "5:15:54"
+    },
+    {
+        "slidepoint": 2186.16,
+        "startTime": "2025-03-12T11:38:28",
+        "records_since_previous": 195,
+        "time_since_previous": "1:57:44"
+    },
+    {
+        "slidepoint": 2191.36,
+        "startTime": "2025-03-12T09:40:44",
+        "records_since_previous": 147,
+        "time_since_previous": "1:28:44"
+    },
+    {
+        "slidepoint": 379.66,
+        "startTime": "2025-03-12T08:12:00",
+        "records_since_previous": 200,
+        "time_since_previous": "2:00:46"
+    },
+    {
+        "slidepoint": 329.86,
+        "startTime": "2025-03-12T06:11:14",
+        "records_since_previous": 342,
+        "time_since_previous": "3:26:47"
+    },
+    {
+        "slidepoint": 364.13,
+        "startTime": "2025-03-12T02:44:27",
+        "records_since_previous": 151,
+        "time_since_previous": "1:31:19"
+    },
+    {
+        "slidepoint": 4401.99,
+        "startTime": "2025-03-12T01:13:08",
+        "records_since_previous": 1281,
+        "time_since_previous": "12:55:04"
+    },
+    {
+        "slidepoint": 401.08,
+        "startTime": "2025-03-11T12:18:04",
+        "records_since_previous": 393,
+        "time_since_previous": "3:57:32"
+    },
+    {
+        "slidepoint": 483.1,
+        "startTime": "2025-03-11T08:20:32",
+        "records_since_previous": 17,
+        "time_since_previous": "0:10:16"
+    },
+    {
+        "slidepoint": 327.11,
+        "startTime": "2025-03-11T08:10:16",
+        "records_since_previous": 358,
+        "time_since_previous": "3:36:18"
+    },
+    {
+        "slidepoint": 306.02,
+        "startTime": "2025-03-11T04:33:58",
+        "records_since_previous": 276,
+        "time_since_previous": "2:47:04"
+    },
+    {
+        "slidepoint": 2245.57,
+        "startTime": "2025-03-11T01:46:54",
+        "records_since_previous": 81,
+        "time_since_previous": "0:48:58"
+    },
+    {
+        "slidepoint": 712.74,
+        "startTime": "2025-03-11T00:57:56",
+        "records_since_previous": 46,
+        "time_since_previous": "0:27:50"
+    },
+    {
+        "slidepoint": 401.28,
+        "startTime": "2025-03-11T00:30:06",
+        "records_since_previous": 177,
+        "time_since_previous": "1:47:11"
+    },
+    {
+        "slidepoint": 3964.67,
+        "startTime": "2025-03-10T22:42:55",
+        "records_since_previous": 84,
+        "time_since_previous": "0:50:54"
+    },
+    {
+        "slidepoint": 368.21,
+        "startTime": "2025-03-10T21:52:01",
+        "records_since_previous": 109,
+        "time_since_previous": "1:05:51"
+    },
+    {
+        "slidepoint": 910.16,
+        "startTime": "2025-03-10T20:46:10",
+        "records_since_previous": 309,
+        "time_since_previous": "3:06:53"
+    },
+    {
+        "slidepoint": 399.19,
+        "startTime": "2025-03-10T17:39:17",
+        "records_since_previous": 633,
+        "time_since_previous": "6:22:59"
+    },
+    {
+        "slidepoint": 1562.54,
+        "startTime": "2025-03-10T11:16:18",
+        "records_since_previous": 614,
+        "time_since_previous": "6:11:13"
+    },
+    {
+        "slidepoint": 939.63,
+        "startTime": "2025-03-10T05:05:05",
+        "records_since_previous": 283,
+        "time_since_previous": "2:51:12"
+    },
+    {
+        "slidepoint": 529.51,
+        "startTime": "2025-03-10T02:13:53",
+        "records_since_previous": 30,
+        "time_since_previous": "0:18:09"
+    },
+    {
+        "slidepoint": 1339.79,
+        "startTime": "2025-03-10T01:55:44",
+        "records_since_previous": 209,
+        "time_since_previous": "2:06:40"
+    },
+    {
+        "slidepoint": 1866.23,
+        "startTime": "2025-03-09T23:49:04",
+        "records_since_previous": 687,
+        "time_since_previous": "6:56:02"
+    },
+    {
+        "slidepoint": 479.88,
+        "startTime": "2025-03-09T16:53:02",
+        "records_since_previous": 362,
+        "time_since_previous": "3:38:55"
+    },
+    {
+        "slidepoint": 25559.85,
+        "startTime": "2025-03-09T13:14:07",
+        "records_since_previous": 355,
+        "time_since_previous": "3:34:32"
+    },
+    {
+        "slidepoint": 4740.58,
+        "startTime": "2025-03-09T09:39:35",
+        "records_since_previous": 64,
+        "time_since_previous": "0:38:36"
+    },
+    {
+        "slidepoint": 388.55,
+        "startTime": "2025-03-09T09:00:59",
+        "records_since_previous": 403,
+        "time_since_previous": "4:03:27"
+    },
+    {
+        "slidepoint": 1498.82,
+        "startTime": "2025-03-09T04:57:32",
+        "records_since_previous": 109,
+        "time_since_previous": "1:05:57"
+    },
+    {
+        "slidepoint": 10120.99,
+        "startTime": "2025-03-09T03:51:35",
+        "records_since_previous": 90,
+        "time_since_previous": "0:54:28"
+    },
+    {
+        "slidepoint": 353.78,
+        "startTime": "2025-03-09T02:57:07",
+        "records_since_previous": 53,
+        "time_since_previous": "0:32:07"
+    },
+    {
+        "slidepoint": 1135.26,
+        "startTime": "2025-03-09T02:25:00",
+        "records_since_previous": 293,
+        "time_since_previous": "2:57:25"
+    },
+    {
+        "slidepoint": 442.68,
+        "startTime": "2025-03-08T23:27:35",
+        "records_since_previous": 289,
+        "time_since_previous": "3:55:03"
+    },
+    {
+        "slidepoint": 543.16,
+        "startTime": "2025-03-08T19:32:32",
+        "records_since_previous": 800,
+        "time_since_previous": "8:04:11"
+    },
+    {
+        "slidepoint": 1534.55,
+        "startTime": "2025-03-08T11:28:21",
+        "records_since_previous": 161,
+        "time_since_previous": "1:37:22"
+    },
+    {
+        "slidepoint": 324.64,
+        "startTime": "2025-03-08T09:50:59",
+        "records_since_previous": 7,
+        "time_since_previous": "0:04:14"
+    },
+    {
+        "slidepoint": 650.85,
+        "startTime": "2025-03-08T09:46:45",
+        "records_since_previous": 349,
+        "time_since_previous": "3:30:48"
+    },
+    {
+        "slidepoint": 320.49,
+        "startTime": "2025-03-08T06:15:57",
+        "records_since_previous": 85,
+        "time_since_previous": "0:51:19"
+    },
+    {
+        "slidepoint": 1955.15,
+        "startTime": "2025-03-08T05:24:38",
+        "records_since_previous": 359,
+        "time_since_previous": "3:37:02"
+    },
+    {
+        "slidepoint": 394.36,
+        "startTime": "2025-03-08T01:47:36",
+        "records_since_previous": 204,
+        "time_since_previous": "2:03:26"
+    },
+    {
+        "slidepoint": 3208.83,
+        "startTime": "2025-03-07T23:44:10",
+        "records_since_previous": 310,
+        "time_since_previous": "3:07:50"
+    },
+    {
+        "slidepoint": 1015.07,
+        "startTime": "2025-03-07T20:36:20",
+        "records_since_previous": 9,
+        "time_since_previous": "0:05:26"
+    },
+    {
+        "slidepoint": 499.54,
+        "startTime": "2025-03-07T20:30:54",
+        "records_since_previous": 839,
+        "time_since_previous": "8:27:26"
+    },
+    {
+        "slidepoint": 813.71,
+        "startTime": "2025-03-07T12:03:28",
+        "records_since_previous": 1480,
+        "time_since_previous": "14:55:07"
+    },
+    {
+        "slidepoint": 374.39,
+        "startTime": "2025-03-06T21:08:21",
+        "records_since_previous": 1132,
+        "time_since_previous": "11:26:06"
+    },
+    {
+        "slidepoint": 337.05,
+        "startTime": "2025-03-06T09:42:15",
+        "records_since_previous": 220,
+        "time_since_previous": "2:12:58"
+    },
+    {
+        "slidepoint": 9166.37,
+        "startTime": "2025-03-06T07:29:17",
+        "records_since_previous": 112,
+        "time_since_previous": "1:07:49"
+    },
+    {
+        "slidepoint": 567.37,
+        "startTime": "2025-03-06T06:21:28",
+        "records_since_previous": 748,
+        "time_since_previous": "7:33:28"
+    },
+    {
+        "slidepoint": 366.66,
+        "startTime": "2025-03-05T22:48:00",
+        "records_since_previous": 23,
+        "time_since_previous": "0:13:56"
+    },
+    {
+        "slidepoint": 3072.15,
+        "startTime": "2025-03-05T22:34:04",
+        "records_since_previous": 336,
+        "time_since_previous": "3:23:38"
+    },
+    {
+        "slidepoint": 411.37,
+        "startTime": "2025-03-05T19:10:26",
+        "records_since_previous": 18,
+        "time_since_previous": "0:10:54"
+    },
+    {
+        "slidepoint": 332.34,
+        "startTime": "2025-03-05T18:59:32",
+        "records_since_previous": 8,
+        "time_since_previous": "0:04:51"
+    },
+    {
+        "slidepoint": 676.38,
+        "startTime": "2025-03-05T18:54:41",
+        "records_since_previous": 336,
+        "time_since_previous": "3:23:34"
+    },
+    {
+        "slidepoint": 11961.18,
+        "startTime": "2025-03-05T15:31:07",
+        "records_since_previous": 446,
+        "time_since_previous": "4:29:59"
+    },
+    {
+        "slidepoint": 315.25,
+        "startTime": "2025-03-05T11:01:08",
+        "records_since_previous": 444,
+        "time_since_previous": "4:28:18"
+    },
+    {
+        "slidepoint": 531.49,
+        "startTime": "2025-03-05T06:32:50",
+        "records_since_previous": 23,
+        "time_since_previous": "0:13:53"
+    },
+    {
+        "slidepoint": 2073.14,
+        "startTime": "2025-03-05T06:18:57",
+        "records_since_previous": 747,
+        "time_since_previous": "7:32:02"
+    },
+    {
+        "slidepoint": 885.51,
+        "startTime": "2025-03-04T22:46:55",
+        "records_since_previous": 93,
+        "time_since_previous": "0:56:24"
+    },
+    {
+        "slidepoint": 1367.15,
+        "startTime": "2025-03-04T21:50:31",
+        "records_since_previous": 61,
+        "time_since_previous": "0:37:13"
+    },
+    {
+        "slidepoint": 1435.76,
+        "startTime": "2025-03-04T21:13:18",
+        "records_since_previous": 48,
+        "time_since_previous": "0:29:03"
+    },
+    {
+        "slidepoint": 315.86,
+        "startTime": "2025-03-04T20:44:15",
+        "records_since_previous": 226,
+        "time_since_previous": "2:19:10"
+    },
+    {
+        "slidepoint": 308.34,
+        "startTime": "2025-03-04T18:25:05",
+        "records_since_previous": 289,
+        "time_since_previous": "2:55:46"
+    },
+    {
+        "slidepoint": 599.68,
+        "startTime": "2025-03-04T15:29:19",
+        "records_since_previous": 8,
+        "time_since_previous": "0:04:51"
+    },
+    {
+        "slidepoint": 185880.05,
+        "startTime": "2025-03-04T15:24:28",
+        "records_since_previous": 158,
+        "time_since_previous": "1:35:37"
+    },
+    {
+        "slidepoint": 3207.54,
+        "startTime": "2025-03-04T13:48:51",
+        "records_since_previous": 694,
+        "time_since_previous": "6:59:22"
+    },
+    {
+        "slidepoint": 473.68,
+        "startTime": "2025-03-04T06:49:29",
+        "records_since_previous": 308,
+        "time_since_previous": "3:06:01"
+    },
+    {
+        "slidepoint": 486.01,
+        "startTime": "2025-03-04T03:43:28",
+        "records_since_previous": 1277,
+        "time_since_previous": "12:52:49"
+    },
+    {
+        "slidepoint": 3337.74,
+        "startTime": "2025-03-03T14:50:39",
+        "records_since_previous": 284,
+        "time_since_previous": "2:51:39"
+    },
+    {
+        "slidepoint": 2094.36,
+        "startTime": "2025-03-03T11:59:00",
+        "records_since_previous": 160,
+        "time_since_previous": "1:36:47"
+    },
+    {
+        "slidepoint": 345.34,
+        "startTime": "2025-03-03T10:22:13",
+        "records_since_previous": 391,
+        "time_since_previous": "3:56:12"
+    },
+    {
+        "slidepoint": 402.45,
+        "startTime": "2025-03-03T06:26:01",
+        "records_since_previous": 1243,
+        "time_since_previous": "12:32:28"
+    },
+    {
+        "slidepoint": 439.7,
+        "startTime": "2025-03-02T17:53:33",
+        "records_since_previous": 114,
+        "time_since_previous": "1:08:58"
+    },
+    {
+        "slidepoint": 1146.92,
+        "startTime": "2025-03-02T16:44:35",
+        "records_since_previous": 65,
+        "time_since_previous": "0:39:19"
+    },
+    {
+        "slidepoint": 2093.47,
+        "startTime": "2025-03-02T16:05:16",
+        "records_since_previous": 152,
+        "time_since_previous": "1:31:58"
+    },
+    {
+        "slidepoint": 487.74,
+        "startTime": "2025-03-02T14:33:18",
+        "records_since_previous": 501,
+        "time_since_previous": "5:02:41"
+    },
+    {
+        "slidepoint": 382.33,
+        "startTime": "2025-03-02T09:30:37",
+        "records_since_previous": 282,
+        "time_since_previous": "2:50:12"
+    },
+    {
+        "slidepoint": 794.09,
+        "startTime": "2025-03-02T06:40:25",
+        "records_since_previous": 35,
+        "time_since_previous": "0:21:08"
+    },
+    {
+        "slidepoint": 440.6,
+        "startTime": "2025-03-02T06:19:17",
+        "records_since_previous": 173,
+        "time_since_previous": "1:44:26"
+    },
+    {
+        "slidepoint": 441.69,
+        "startTime": "2025-03-02T04:34:51",
+        "records_since_previous": 395,
+        "time_since_previous": "3:58:53"
+    },
+    {
+        "slidepoint": 560.94,
+        "startTime": "2025-03-02T00:35:58",
+        "records_since_previous": 559,
+        "time_since_previous": "5:38:25"
+    },
+    {
+        "slidepoint": 439.28,
+        "startTime": "2025-03-01T18:57:33",
+        "records_since_previous": 182,
+        "time_since_previous": "1:50:10"
+    },
+    {
+        "slidepoint": 612.09,
+        "startTime": "2025-03-01T17:07:23",
+        "records_since_previous": 500,
+        "time_since_previous": "5:02:30"
+    },
+    {
+        "slidepoint": 480.43,
+        "startTime": "2025-03-01T12:04:53",
+        "records_since_previous": 346,
+        "time_since_previous": "3:28:58"
+    },
+    {
+        "slidepoint": 300.63,
+        "startTime": "2025-03-01T08:35:55",
+        "records_since_previous": 42,
+        "time_since_previous": "0:25:23"
+    },
+    {
+        "slidepoint": 948.25,
+        "startTime": "2025-03-01T08:10:32",
+        "records_since_previous": 14,
+        "time_since_previous": "0:08:28"
+    },
+    {
+        "slidepoint": 331.45,
+        "startTime": "2025-03-01T08:02:04",
+        "records_since_previous": 45,
+        "time_since_previous": "0:27:13"
+    },
+    {
+        "slidepoint": 581.94,
+        "startTime": "2025-03-01T07:34:51",
+        "records_since_previous": 6,
+        "time_since_previous": "0:03:38"
+    },
+    {
+        "slidepoint": 320.99,
+        "startTime": "2025-03-01T07:31:13",
+        "records_since_previous": 484,
+        "time_since_previous": "4:52:10"
+    },
+    {
+        "slidepoint": 357.82,
+        "startTime": "2025-03-01T02:39:03",
+        "records_since_previous": 23,
+        "time_since_previous": "0:13:54"
+    },
+    {
+        "slidepoint": 1359.23,
+        "startTime": "2025-03-01T02:25:09",
+        "records_since_previous": 51,
+        "time_since_previous": "0:30:50"
+    },
+    {
+        "slidepoint": 557.55,
+        "startTime": "2025-03-01T01:54:19",
+        "records_since_previous": 394,
+        "time_since_previous": "3:58:19"
+    },
+    {
+        "slidepoint": 1282.47,
+        "startTime": "2025-02-28T21:56:00",
+        "records_since_previous": 184,
+        "time_since_previous": "1:51:19"
+    },
+    {
+        "slidepoint": 331.67,
+        "startTime": "2025-02-28T20:04:41",
+        "records_since_previous": 245,
+        "time_since_previous": "2:28:02"
+    },
+    {
+        "slidepoint": 783.18,
+        "startTime": "2025-02-28T17:36:39",
+        "records_since_previous": 107,
+        "time_since_previous": "1:04:44"
+    },
+    {
+        "slidepoint": 420.32,
+        "startTime": "2025-02-28T16:31:55",
+        "records_since_previous": 205,
+        "time_since_previous": "2:03:58"
+    },
+    {
+        "slidepoint": 682.81,
+        "startTime": "2025-02-28T14:27:57",
+        "records_since_previous": 60,
+        "time_since_previous": "0:36:18"
+    },
+    {
+        "slidepoint": 1162.05,
+        "startTime": "2025-02-28T13:51:39",
+        "records_since_previous": 57,
+        "time_since_previous": "0:34:28"
+    },
+    {
+        "slidepoint": 393.08,
+        "startTime": "2025-02-28T13:17:11",
+        "records_since_previous": 25,
+        "time_since_previous": "0:15:06"
+    },
+    {
+        "slidepoint": 876.04,
+        "startTime": "2025-02-28T13:02:05",
+        "records_since_previous": 174,
+        "time_since_previous": "1:45:11"
+    },
+    {
+        "slidepoint": 405.43,
+        "startTime": "2025-02-28T11:16:54",
+        "records_since_previous": 469,
+        "time_since_previous": "4:43:14"
+    },
+    {
+        "slidepoint": 410.16,
+        "startTime": "2025-02-28T06:33:40",
+        "records_since_previous": 10,
+        "time_since_previous": "0:06:03"
+    },
+    {
+        "slidepoint": 331.16,
+        "startTime": "2025-02-28T06:27:37",
+        "records_since_previous": 63,
+        "time_since_previous": "0:38:02"
+    },
+    {
+        "slidepoint": 518.6,
+        "startTime": "2025-02-28T05:49:35",
+        "records_since_previous": 334,
+        "time_since_previous": "3:21:49"
+    },
+    {
+        "slidepoint": 987.32,
+        "startTime": "2025-02-28T02:27:46",
+        "records_since_previous": 1683,
+        "time_since_previous": "16:58:32"
+    },
+    {
+        "slidepoint": 1011.25,
+        "startTime": "2025-02-27T09:29:14",
+        "records_since_previous": 232,
+        "time_since_previous": "2:20:16"
+    },
+    {
+        "slidepoint": 385.13,
+        "startTime": "2025-02-27T07:08:58",
+        "records_since_previous": 227,
+        "time_since_previous": "2:17:31"
+    },
+    {
+        "slidepoint": 509.6,
+        "startTime": "2025-02-27T04:51:27",
+        "records_since_previous": 1048,
+        "time_since_previous": "10:34:57"
+    },
+    {
+        "slidepoint": 1959.84,
+        "startTime": "2025-02-26T18:16:30",
+        "records_since_previous": 314,
+        "time_since_previous": "3:10:11"
+    },
+    {
+        "slidepoint": 302.01,
+        "startTime": "2025-02-26T15:06:19",
+        "records_since_previous": 131,
+        "time_since_previous": "1:19:11"
+    },
+    {
+        "slidepoint": 590.07,
+        "startTime": "2025-02-26T13:47:08",
+        "records_since_previous": 228,
+        "time_since_previous": "2:17:53"
+    },
+    {
+        "slidepoint": 550.01,
+        "startTime": "2025-02-26T11:29:15",
+        "records_since_previous": 263,
+        "time_since_previous": "2:38:59"
+    },
+    {
+        "slidepoint": 329.41,
+        "startTime": "2025-02-26T08:50:16",
+        "records_since_previous": 166,
+        "time_since_previous": "1:40:14"
+    },
+    {
+        "slidepoint": 2934.4,
+        "startTime": "2025-02-26T07:10:02",
+        "records_since_previous": 9,
+        "time_since_previous": "0:05:27"
+    },
+    {
+        "slidepoint": 496.43,
+        "startTime": "2025-02-26T07:04:35",
+        "records_since_previous": 248,
+        "time_since_previous": "2:29:43"
+    },
+    {
+        "slidepoint": 727.73,
+        "startTime": "2025-02-26T04:34:52",
+        "records_since_previous": 10,
+        "time_since_previous": "0:06:02"
+    },
+    {
+        "slidepoint": 419.02,
+        "startTime": "2025-02-26T04:28:50",
+        "records_since_previous": 430,
+        "time_since_previous": "4:20:09"
+    },
+    {
+        "slidepoint": 4727.17,
+        "startTime": "2025-02-26T00:08:41",
+        "records_since_previous": 1033,
+        "time_since_previous": "10:25:46"
+    },
+    {
+        "slidepoint": 1106.54,
+        "startTime": "2025-02-25T13:42:55",
+        "records_since_previous": 181,
+        "time_since_previous": "1:49:29"
+    },
+    {
+        "slidepoint": 502.96,
+        "startTime": "2025-02-25T11:53:26",
+        "records_since_previous": 54,
+        "time_since_previous": "0:32:34"
+    },
+    {
+        "slidepoint": 912.83,
+        "startTime": "2025-02-25T11:20:52",
+        "records_since_previous": 484,
+        "time_since_previous": "4:52:09"
+    },
+    {
+        "slidepoint": 1899.31,
+        "startTime": "2025-02-25T06:28:43",
+        "records_since_previous": 182,
+        "time_since_previous": "1:49:53"
+    },
+    {
+        "slidepoint": 340.76,
+        "startTime": "2025-02-25T04:38:50",
+        "records_since_previous": 125,
+        "time_since_previous": "1:15:28"
+    },
+    {
+        "slidepoint": 394.35,
+        "startTime": "2025-02-25T03:23:22",
+        "records_since_previous": 491,
+        "time_since_previous": "4:57:04"
+    },
+    {
+        "slidepoint": 698.54,
+        "startTime": "2025-02-24T22:26:18",
+        "records_since_previous": 448,
+        "time_since_previous": "4:31:43"
+    },
+    {
+        "slidepoint": 1587.95,
+        "startTime": "2025-02-24T17:54:35",
+        "records_since_previous": 11,
+        "time_since_previous": "0:06:39"
+    },
+    {
+        "slidepoint": 527.51,
+        "startTime": "2025-02-24T17:47:56",
+        "records_since_previous": 31,
+        "time_since_previous": "0:18:45"
+    },
+    {
+        "slidepoint": 28070.18,
+        "startTime": "2025-02-24T17:29:11",
+        "records_since_previous": 2,
+        "time_since_previous": "0:01:12"
+    },
+    {
+        "slidepoint": 1119.22,
+        "startTime": "2025-02-24T17:27:59",
+        "records_since_previous": 1282,
+        "time_since_previous": "12:55:23"
+    },
+    {
+        "slidepoint": 407.84,
+        "startTime": "2025-02-24T04:32:36",
+        "records_since_previous": 855,
+        "time_since_previous": "8:37:48"
+    },
+    {
+        "slidepoint": 1228.69,
+        "startTime": "2025-02-23T19:54:48",
+        "records_since_previous": 59,
+        "time_since_previous": "0:35:41"
+    },
+    {
+        "slidepoint": 321.79,
+        "startTime": "2025-02-23T19:19:07",
+        "records_since_previous": 280,
+        "time_since_previous": "2:49:29"
+    },
+    {
+        "slidepoint": 897.25,
+        "startTime": "2025-02-23T16:29:38",
+        "records_since_previous": 177,
+        "time_since_previous": "1:47:11"
+    },
+    {
+        "slidepoint": 1163.2,
+        "startTime": "2025-02-23T14:42:27",
+        "records_since_previous": 141,
+        "time_since_previous": "1:25:16"
+    },
+    {
+        "slidepoint": 960.24,
+        "startTime": "2025-02-23T13:17:11",
+        "records_since_previous": 607,
+        "time_since_previous": "6:06:52"
+    },
+    {
+        "slidepoint": 323.26,
+        "startTime": "2025-02-23T07:10:19",
+        "records_since_previous": 324,
+        "time_since_previous": "3:15:50"
+    },
+    {
+        "slidepoint": 321.16,
+        "startTime": "2025-02-23T03:54:29",
+        "records_since_previous": 931,
+        "time_since_previous": "9:23:36"
+    },
+    {
+        "slidepoint": 650.93,
+        "startTime": "2025-02-22T18:30:53",
+        "records_since_previous": 335,
+        "time_since_previous": "3:22:37"
+    },
+    {
+        "slidepoint": 353.16,
+        "startTime": "2025-02-22T15:08:16",
+        "records_since_previous": 24,
+        "time_since_previous": "0:14:33"
+    },
+    {
+        "slidepoint": 301.48,
+        "startTime": "2025-02-22T14:53:43",
+        "records_since_previous": 113,
+        "time_since_previous": "1:08:27"
+    },
+    {
+        "slidepoint": 3144.44,
+        "startTime": "2025-02-22T13:45:16",
+        "records_since_previous": 138,
+        "time_since_previous": "1:23:30"
+    },
+    {
+        "slidepoint": 321.3,
+        "startTime": "2025-02-22T12:21:46",
+        "records_since_previous": 286,
+        "time_since_previous": "2:53:00"
+    },
+    {
+        "slidepoint": 396.79,
+        "startTime": "2025-02-22T09:28:46",
+        "records_since_previous": 157,
+        "time_since_previous": "1:35:00"
+    },
+    {
+        "slidepoint": 498.8,
+        "startTime": "2025-02-22T07:53:46",
+        "records_since_previous": 18,
+        "time_since_previous": "0:10:53"
+    },
+    {
+        "slidepoint": 801.84,
+        "startTime": "2025-02-22T07:42:53",
+        "records_since_previous": 88,
+        "time_since_previous": "0:53:14"
+    },
+    {
+        "slidepoint": 1064.6,
+        "startTime": "2025-02-22T06:49:39",
+        "records_since_previous": 557,
+        "time_since_previous": "5:37:11"
+    },
+    {
+        "slidepoint": 324.44,
+        "startTime": "2025-02-22T01:12:28",
+        "records_since_previous": 190,
+        "time_since_previous": "1:55:05"
+    },
+    {
+        "slidepoint": 399.8,
+        "startTime": "2025-02-21T23:17:23",
+        "records_since_previous": 140,
+        "time_since_previous": "1:24:48"
+    },
+    {
+        "slidepoint": 425.11,
+        "startTime": "2025-02-21T21:52:35",
+        "records_since_previous": 47,
+        "time_since_previous": "0:28:25"
+    },
+    {
+        "slidepoint": 546.91,
+        "startTime": "2025-02-21T21:24:10",
+        "records_since_previous": 1144,
+        "time_since_previous": "11:32:26"
+    },
+    {
+        "slidepoint": 418.6,
+        "startTime": "2025-02-21T09:51:44",
+        "records_since_previous": 916,
+        "time_since_previous": "9:13:57"
+    },
+    {
+        "slidepoint": 4802.7,
+        "startTime": "2025-02-21T00:37:47",
+        "records_since_previous": 522,
+        "time_since_previous": "5:16:26"
+    },
+    {
+        "slidepoint": 479.42,
+        "startTime": "2025-02-20T19:21:21",
+        "records_since_previous": 41,
+        "time_since_previous": "0:24:51"
+    },
+    {
+        "slidepoint": 789.56,
+        "startTime": "2025-02-20T18:56:30",
+        "records_since_previous": 85,
+        "time_since_previous": "0:51:24"
+    },
+    {
+        "slidepoint": 4848.24,
+        "startTime": "2025-02-20T18:05:06",
+        "records_since_previous": 449,
+        "time_since_previous": "4:31:37"
+    },
+    {
+        "slidepoint": 470.16,
+        "startTime": "2025-02-20T13:33:29",
+        "records_since_previous": 6,
+        "time_since_previous": "0:03:38"
+    },
+    {
+        "slidepoint": 425.57,
+        "startTime": "2025-02-20T13:29:51",
+        "records_since_previous": 437,
+        "time_since_previous": "4:24:14"
+    },
+    {
+        "slidepoint": 1388.94,
+        "startTime": "2025-02-20T09:05:37",
+        "records_since_previous": 218,
+        "time_since_previous": "2:11:44"
+    },
+    {
+        "slidepoint": 999.65,
+        "startTime": "2025-02-20T06:53:53",
+        "records_since_previous": 641,
+        "time_since_previous": "6:27:17"
+    },
+    {
+        "slidepoint": 399.63,
+        "startTime": "2025-02-20T00:26:36",
+        "records_since_previous": 295,
+        "time_since_previous": "2:58:33"
+    },
+    {
+        "slidepoint": 500.79,
+        "startTime": "2025-02-19T21:28:03",
+        "records_since_previous": 10,
+        "time_since_previous": "0:06:03"
+    },
+    {
+        "slidepoint": 40434.87,
+        "startTime": "2025-02-19T21:22:00",
+        "records_since_previous": 92,
+        "time_since_previous": "0:55:41"
+    },
+    {
+        "slidepoint": 9261.28,
+        "startTime": "2025-02-19T20:26:19",
+        "records_since_previous": 58,
+        "time_since_previous": "0:35:11"
+    },
+    {
+        "slidepoint": 5589.33,
+        "startTime": "2025-02-19T19:51:08",
+        "records_since_previous": 1176,
+        "time_since_previous": "11:51:12"
+    },
+    {
+        "slidepoint": 307.91,
+        "startTime": "2025-02-19T07:59:56",
+        "records_since_previous": 45,
+        "time_since_previous": "0:27:08"
+    },
+    {
+        "slidepoint": 320.36,
+        "startTime": "2025-02-19T07:32:48",
+        "records_since_previous": 106,
+        "time_since_previous": "1:04:00"
+    },
+    {
+        "slidepoint": 2942.28,
+        "startTime": "2025-02-19T06:28:48",
+        "records_since_previous": 321,
+        "time_since_previous": "3:14:18"
+    },
+    {
+        "slidepoint": 626.21,
+        "startTime": "2025-02-19T03:14:30",
+        "records_since_previous": 528,
+        "time_since_previous": "5:19:21"
+    },
+    {
+        "slidepoint": 309.91,
+        "startTime": "2025-02-18T21:55:09",
+        "records_since_previous": 63,
+        "time_since_previous": "0:38:06"
+    },
+    {
+        "slidepoint": 300.4,
+        "startTime": "2025-02-18T21:17:03",
+        "records_since_previous": 204,
+        "time_since_previous": "2:03:26"
+    },
+    {
+        "slidepoint": 319.99,
+        "startTime": "2025-02-18T19:13:37",
+        "records_since_previous": 716,
+        "time_since_previous": "7:13:02"
+    },
+    {
+        "slidepoint": 789.96,
+        "startTime": "2025-02-18T12:00:35",
+        "records_since_previous": 15,
+        "time_since_previous": "0:09:04"
+    },
+    {
+        "slidepoint": 328.46,
+        "startTime": "2025-02-18T11:51:31",
+        "records_since_previous": 58,
+        "time_since_previous": "0:35:04"
+    },
+    {
+        "slidepoint": 637.28,
+        "startTime": "2025-02-18T11:16:27",
+        "records_since_previous": 8,
+        "time_since_previous": "0:04:50"
+    },
+    {
+        "slidepoint": 1365.95,
+        "startTime": "2025-02-18T11:11:37",
+        "records_since_previous": 171,
+        "time_since_previous": "1:43:17"
+    },
+    {
+        "slidepoint": 390.35,
+        "startTime": "2025-02-18T09:28:20",
+        "records_since_previous": 104,
+        "time_since_previous": "1:02:49"
+    },
+    {
+        "slidepoint": 6135.65,
+        "startTime": "2025-02-18T08:25:31",
+        "records_since_previous": 514,
+        "time_since_previous": "5:10:28"
+    },
+    {
+        "slidepoint": 464.67,
+        "startTime": "2025-02-18T03:15:03",
+        "records_since_previous": 16,
+        "time_since_previous": "0:09:40"
+    },
+    {
+        "slidepoint": 376.31,
+        "startTime": "2025-02-18T03:05:23",
+        "records_since_previous": 332,
+        "time_since_previous": "3:20:43"
+    },
+    {
+        "slidepoint": 327.24,
+        "startTime": "2025-02-17T23:44:40",
+        "records_since_previous": 757,
+        "time_since_previous": "7:38:40"
+    },
+    {
+        "slidepoint": 535.9,
+        "startTime": "2025-02-17T16:06:00",
+        "records_since_previous": 177,
+        "time_since_previous": "1:47:07"
+    },
+    {
+        "slidepoint": 322.12,
+        "startTime": "2025-02-17T14:18:53",
+        "records_since_previous": 167,
+        "time_since_previous": "1:40:57"
+    },
+    {
+        "slidepoint": 1684.41,
+        "startTime": "2025-02-17T12:37:56",
+        "records_since_previous": 302,
+        "time_since_previous": "3:02:30"
+    },
+    {
+        "slidepoint": 715.16,
+        "startTime": "2025-02-17T09:35:26",
+        "records_since_previous": 9,
+        "time_since_previous": "0:05:26"
+    },
+    {
+        "slidepoint": 1484.46,
+        "startTime": "2025-02-17T09:30:00",
+        "records_since_previous": 961,
+        "time_since_previous": "9:40:42"
+    },
+    {
+        "slidepoint": 313.42,
+        "startTime": "2025-02-16T23:49:18",
+        "records_since_previous": 144,
+        "time_since_previous": "1:27:07"
+    },
+    {
+        "slidepoint": 330.39,
+        "startTime": "2025-02-16T22:22:11",
+        "records_since_previous": 206,
+        "time_since_previous": "2:04:43"
+    },
+    {
+        "slidepoint": 543.93,
+        "startTime": "2025-02-16T20:17:28",
+        "records_since_previous": 2,
+        "time_since_previous": "0:01:12"
+    },
+    {
+        "slidepoint": 436.57,
+        "startTime": "2025-02-16T20:16:16",
+        "records_since_previous": 35,
+        "time_since_previous": "0:21:11"
+    },
+    {
+        "slidepoint": 3263.56,
+        "startTime": "2025-02-16T19:55:05",
+        "records_since_previous": 79,
+        "time_since_previous": "0:47:53"
+    },
+    {
+        "slidepoint": 326.58,
+        "startTime": "2025-02-16T19:07:12",
+        "records_since_previous": 89,
+        "time_since_previous": "0:53:55"
+    },
+    {
+        "slidepoint": 467.07,
+        "startTime": "2025-02-16T18:13:17",
+        "records_since_previous": 225,
+        "time_since_previous": "2:16:16"
+    },
+    {
+        "slidepoint": 308.0,
+        "startTime": "2025-02-16T15:57:01",
+        "records_since_previous": 130,
+        "time_since_previous": "1:18:40"
+    },
+    {
+        "slidepoint": 1546.94,
+        "startTime": "2025-02-16T14:38:21",
+        "records_since_previous": 306,
+        "time_since_previous": "3:05:03"
+    },
+    {
+        "slidepoint": 311.02,
+        "startTime": "2025-02-16T11:33:18",
+        "records_since_previous": 788,
+        "time_since_previous": "7:56:09"
+    },
+    {
+        "slidepoint": 449.8,
+        "startTime": "2025-02-16T03:37:09",
+        "records_since_previous": 563,
+        "time_since_previous": "5:40:42"
+    },
+    {
+        "slidepoint": 734.36,
+        "startTime": "2025-02-15T21:56:27",
+        "records_since_previous": 215,
+        "time_since_previous": "2:10:12"
+    },
+    {
+        "slidepoint": 393.77,
+        "startTime": "2025-02-15T19:46:15",
+        "records_since_previous": 28,
+        "time_since_previous": "0:16:57"
+    },
+    {
+        "slidepoint": 37929.78,
+        "startTime": "2025-02-15T19:29:18",
+        "records_since_previous": 60,
+        "time_since_previous": "0:36:17"
+    },
+    {
+        "slidepoint": 414.96,
+        "startTime": "2025-02-15T18:53:01",
+        "records_since_previous": 169,
+        "time_since_previous": "1:42:14"
+    },
+    {
+        "slidepoint": 1009.67,
+        "startTime": "2025-02-15T17:10:47",
+        "records_since_previous": 62,
+        "time_since_previous": "0:37:32"
+    },
+    {
+        "slidepoint": 2443.1,
+        "startTime": "2025-02-15T16:33:15",
+        "records_since_previous": 137,
+        "time_since_previous": "1:22:53"
+    },
+    {
+        "slidepoint": 876.54,
+        "startTime": "2025-02-15T15:10:22",
+        "records_since_previous": 338,
+        "time_since_previous": "3:24:25"
+    },
+    {
+        "slidepoint": 687.78,
+        "startTime": "2025-02-15T11:45:57",
+        "records_since_previous": 98,
+        "time_since_previous": "0:59:18"
+    },
+    {
+        "slidepoint": 541.62,
+        "startTime": "2025-02-15T10:46:39",
+        "records_since_previous": 411,
+        "time_since_previous": "4:08:37"
+    },
+    {
+        "slidepoint": 349.37,
+        "startTime": "2025-02-15T06:38:02",
+        "records_since_previous": 273,
+        "time_since_previous": "2:45:11"
+    },
+    {
+        "slidepoint": 381.29,
+        "startTime": "2025-02-15T03:52:51",
+        "records_since_previous": 72,
+        "time_since_previous": "0:43:34"
+    },
+    {
+        "slidepoint": 1214.95,
+        "startTime": "2025-02-15T03:09:17",
+        "records_since_previous": 272,
+        "time_since_previous": "2:44:37"
+    },
+    {
+        "slidepoint": 1542.39,
+        "startTime": "2025-02-15T00:24:40",
+        "records_since_previous": 120,
+        "time_since_previous": "1:12:39"
+    },
+    {
+        "slidepoint": 769.67,
+        "startTime": "2025-02-14T23:12:01",
+        "records_since_previous": 713,
+        "time_since_previous": "7:11:25"
+    },
+    {
+        "slidepoint": 4892.94,
+        "startTime": "2025-02-14T16:00:36",
+        "records_since_previous": 708,
+        "time_since_previous": "2 days, 14:45:05"
+    },
+    {
+        "slidepoint": 303.89,
+        "startTime": "2025-02-12T01:15:31",
+        "records_since_previous": 95,
+        "time_since_previous": "0:57:27"
+    },
+    {
+        "slidepoint": 679.5,
+        "startTime": "2025-02-12T00:18:04",
+        "records_since_previous": 2,
+        "time_since_previous": "0:01:12"
+    },
+    {
+        "slidepoint": 477.78,
+        "startTime": "2025-02-12T00:16:52",
+        "records_since_previous": 305,
+        "time_since_previous": "3:05:04"
+    },
+    {
+        "slidepoint": 984.81,
+        "startTime": "2025-02-11T21:11:48",
+        "records_since_previous": 214,
+        "time_since_previous": "2:09:30"
+    },
+    {
+        "slidepoint": 2233.56,
+        "startTime": "2025-02-11T19:02:18",
+        "records_since_previous": 209,
+        "time_since_previous": "2:06:36"
+    },
+    {
+        "slidepoint": 1732.76,
+        "startTime": "2025-02-11T16:55:42",
+        "records_since_previous": 229,
+        "time_since_previous": "2:18:38"
+    },
+    {
+        "slidepoint": 441.0,
+        "startTime": "2025-02-11T14:37:04",
+        "records_since_previous": 65,
+        "time_since_previous": "0:39:23"
+    },
+    {
+        "slidepoint": 324.06,
+        "startTime": "2025-02-11T13:57:41",
+        "records_since_previous": 666,
+        "time_since_previous": "6:42:31"
+    },
+    {
+        "slidepoint": 323.85,
+        "startTime": "2025-02-11T07:15:10",
+        "records_since_previous": 12,
+        "time_since_previous": "0:07:14"
+    },
+    {
+        "slidepoint": 463.05,
+        "startTime": "2025-02-11T07:07:56",
+        "records_since_previous": 39,
+        "time_since_previous": "0:23:31"
+    },
+    {
+        "slidepoint": 734.02,
+        "startTime": "2025-02-11T06:44:25",
+        "records_since_previous": 381,
+        "time_since_previous": "3:50:10"
+    },
+    {
+        "slidepoint": 444.06,
+        "startTime": "2025-02-11T02:54:15",
+        "records_since_previous": 694,
+        "time_since_previous": "7:00:33"
+    },
+    {
+        "slidepoint": 530.89,
+        "startTime": "2025-02-10T19:53:42",
+        "records_since_previous": 360,
+        "time_since_previous": "3:38:15"
+    },
+    {
+        "slidepoint": 307.84,
+        "startTime": "2025-02-10T16:15:27",
+        "records_since_previous": 966,
+        "time_since_previous": "9:43:42"
+    },
+    {
+        "slidepoint": 595.64,
+        "startTime": "2025-02-10T06:31:45",
+        "records_since_previous": 205,
+        "time_since_previous": "2:03:40"
+    },
+    {
+        "slidepoint": 718.68,
+        "startTime": "2025-02-10T04:28:05",
+        "records_since_previous": 61,
+        "time_since_previous": "0:36:51"
+    },
+    {
+        "slidepoint": 7128.87,
+        "startTime": "2025-02-10T03:51:14",
+        "records_since_previous": 1557,
+        "time_since_previous": "15:42:16"
+    },
+    {
+        "slidepoint": 299.04,
+        "startTime": "2025-02-09T12:08:58",
+        "records_since_previous": 16,
+        "time_since_previous": "0:09:40"
+    },
+    {
+        "slidepoint": 399.67,
+        "startTime": "2025-02-09T11:59:18",
+        "records_since_previous": 1240,
+        "time_since_previous": "12:29:19"
+    },
+    {
+        "slidepoint": 559.24,
+        "startTime": "2025-02-08T23:29:59",
+        "records_since_previous": 152,
+        "time_since_previous": "1:32:06"
+    },
+    {
+        "slidepoint": 446.53,
+        "startTime": "2025-02-08T21:57:53",
+        "records_since_previous": 78,
+        "time_since_previous": "0:47:14"
+    },
+    {
+        "slidepoint": 914.01,
+        "startTime": "2025-02-08T21:10:39",
+        "records_since_previous": 412,
+        "time_since_previous": "4:09:16"
+    },
+    {
+        "slidepoint": 208710.66,
+        "startTime": "2025-02-08T17:01:23",
+        "records_since_previous": 210,
+        "time_since_previous": "2:07:04"
+    },
+    {
+        "slidepoint": 822.71,
+        "startTime": "2025-02-08T14:54:19",
+        "records_since_previous": 864,
+        "time_since_previous": "8:42:07"
+    },
+    {
+        "slidepoint": 11299.39,
+        "startTime": "2025-02-08T06:12:12",
+        "records_since_previous": 48,
+        "time_since_previous": "0:28:57"
+    },
+    {
+        "slidepoint": 439.3,
+        "startTime": "2025-02-08T05:43:15",
+        "records_since_previous": 635,
+        "time_since_previous": "6:24:06"
+    },
+    {
+        "slidepoint": 378.77,
+        "startTime": "2025-02-07T23:19:09",
+        "records_since_previous": 563,
+        "time_since_previous": "5:40:28"
+    },
+    {
+        "slidepoint": 324.04,
+        "startTime": "2025-02-07T17:38:41",
+        "records_since_previous": 91,
+        "time_since_previous": "0:55:00"
+    },
+    {
+        "slidepoint": 736.91,
+        "startTime": "2025-02-07T16:43:41",
+        "records_since_previous": 220,
+        "time_since_previous": "2:12:52"
+    },
+    {
+        "slidepoint": 2516.78,
+        "startTime": "2025-02-07T14:30:49",
+        "records_since_previous": 191,
+        "time_since_previous": "1:55:23"
+    },
+    {
+        "slidepoint": 302.46,
+        "startTime": "2025-02-07T12:35:26",
+        "records_since_previous": 103,
+        "time_since_previous": "1:02:14"
+    },
+    {
+        "slidepoint": 945.97,
+        "startTime": "2025-02-07T11:33:12",
+        "records_since_previous": 135,
+        "time_since_previous": "1:21:31"
+    },
+    {
+        "slidepoint": 374.18,
+        "startTime": "2025-02-07T10:11:41",
+        "records_since_previous": 392,
+        "time_since_previous": "3:56:28"
+    },
+    {
+        "slidepoint": 317.93,
+        "startTime": "2025-02-07T06:15:13",
+        "records_since_previous": 106,
+        "time_since_previous": "1:03:59"
+    },
+    {
+        "slidepoint": 561.97,
+        "startTime": "2025-02-07T05:11:14",
+        "records_since_previous": 102,
+        "time_since_previous": "1:01:34"
+    },
+    {
+        "slidepoint": 28186.54,
+        "startTime": "2025-02-07T04:09:40",
+        "records_since_previous": 220,
+        "time_since_previous": "2:13:01"
+    },
+    {
+        "slidepoint": 352.31,
+        "startTime": "2025-02-07T01:56:39",
+        "records_since_previous": 410,
+        "time_since_previous": "4:07:52"
+    },
+    {
+        "slidepoint": 3502.58,
+        "startTime": "2025-02-06T21:48:47",
+        "records_since_previous": 71,
+        "time_since_previous": "0:42:58"
+    },
+    {
+        "slidepoint": 824.07,
+        "startTime": "2025-02-06T21:05:49",
+        "records_since_previous": 189,
+        "time_since_previous": "1:54:29"
+    },
+    {
+        "slidepoint": 862.83,
+        "startTime": "2025-02-06T19:11:20",
+        "records_since_previous": 1674,
+        "time_since_previous": "16:51:38"
+    },
+    {
+        "slidepoint": 677.45,
+        "startTime": "2025-02-06T02:19:42",
+        "records_since_previous": 47,
+        "time_since_previous": "0:28:25"
+    },
+    {
+        "slidepoint": 1824.5,
+        "startTime": "2025-02-06T01:51:17",
+        "records_since_previous": 230,
+        "time_since_previous": "2:19:18"
+    },
+    {
+        "slidepoint": 2673.61,
+        "startTime": "2025-02-05T23:31:59",
+        "records_since_previous": 387,
+        "time_since_previous": "3:55:12"
+    },
+    {
+        "slidepoint": 1264.67,
+        "startTime": "2025-02-05T19:36:47",
+        "records_since_previous": 213,
+        "time_since_previous": "2:08:50"
+    },
+    {
+        "slidepoint": 457.55,
+        "startTime": "2025-02-05T17:27:57",
+        "records_since_previous": 558,
+        "time_since_previous": "5:37:40"
+    },
+    {
+        "slidepoint": 2699.28,
+        "startTime": "2025-02-05T11:50:17",
+        "records_since_previous": 366,
+        "time_since_previous": "3:40:53"
+    },
+    {
+        "slidepoint": 1742.47,
+        "startTime": "2025-02-05T08:09:24",
+        "records_since_previous": 273,
+        "time_since_previous": "2:44:46"
+    },
+    {
+        "slidepoint": 369.87,
+        "startTime": "2025-02-05T05:24:38",
+        "records_since_previous": 738,
+        "time_since_previous": "7:26:53"
+    },
+    {
+        "slidepoint": 426.1,
+        "startTime": "2025-02-04T21:57:45",
+        "records_since_previous": 122,
+        "time_since_previous": "1:14:02"
+    },
+    {
+        "slidepoint": 2007.73,
+        "startTime": "2025-02-04T20:43:43",
+        "records_since_previous": 474,
+        "time_since_previous": "4:47:27"
+    },
+    {
+        "slidepoint": 541.65,
+        "startTime": "2025-02-04T15:56:16",
+        "records_since_previous": 194,
+        "time_since_previous": "1:57:24"
+    },
+    {
+        "slidepoint": 1414.62,
+        "startTime": "2025-02-04T13:58:52",
+        "records_since_previous": 122,
+        "time_since_previous": "1:13:47"
+    },
+    {
+        "slidepoint": 1212.21,
+        "startTime": "2025-02-04T12:45:05",
+        "records_since_previous": 597,
+        "time_since_previous": "6:01:01"
+    },
+    {
+        "slidepoint": 561.95,
+        "startTime": "2025-02-04T06:44:04",
+        "records_since_previous": 510,
+        "time_since_previous": "5:08:21"
+    },
+    {
+        "slidepoint": 1627.98,
+        "startTime": "2025-02-04T01:35:43",
+        "records_since_previous": 948,
+        "time_since_previous": "9:35:23"
+    },
+    {
+        "slidepoint": 348.51,
+        "startTime": "2025-02-03T16:00:20",
+        "records_since_previous": 429,
+        "time_since_previous": "4:19:29"
+    },
+    {
+        "slidepoint": 417.43,
+        "startTime": "2025-02-03T11:40:51",
+        "records_since_previous": 116,
+        "time_since_previous": "1:10:03"
+    },
+    {
+        "slidepoint": 911.95,
+        "startTime": "2025-02-03T10:30:48",
+        "records_since_previous": 215,
+        "time_since_previous": "2:09:49"
+    },
+    {
+        "slidepoint": 367.94,
+        "startTime": "2025-02-03T08:20:59",
+        "records_since_previous": 212,
+        "time_since_previous": "2:08:02"
+    },
+    {
+        "slidepoint": 42799.88,
+        "startTime": "2025-02-03T06:12:57",
+        "records_since_previous": 340,
+        "time_since_previous": "3:25:34"
+    },
+    {
+        "slidepoint": 587.48,
+        "startTime": "2025-02-03T02:47:23",
+        "records_since_previous": 636,
+        "time_since_previous": "6:26:31"
+    },
+    {
+        "slidepoint": 6465.35,
+        "startTime": "2025-02-02T20:20:52",
+        "records_since_previous": 101,
+        "time_since_previous": "1:01:12"
+    },
+    {
+        "slidepoint": 1798.53,
+        "startTime": "2025-02-02T19:19:40",
+        "records_since_previous": 272,
+        "time_since_previous": "2:44:37"
+    },
+    {
+        "slidepoint": 7935.47,
+        "startTime": "2025-02-02T16:35:03",
+        "records_since_previous": 67,
+        "time_since_previous": "0:40:32"
+    },
+    {
+        "slidepoint": 5699.78,
+        "startTime": "2025-02-02T15:54:31",
+        "records_since_previous": 402,
+        "time_since_previous": "4:03:13"
+    },
+    {
+        "slidepoint": 391.84,
+        "startTime": "2025-02-02T11:51:18",
+        "records_since_previous": 574,
+        "time_since_previous": "5:46:35"
+    },
+    {
+        "slidepoint": 1296.02,
+        "startTime": "2025-02-02T06:04:43",
+        "records_since_previous": 8,
+        "time_since_previous": "0:04:50"
+    },
+    {
+        "slidepoint": 559.11,
+        "startTime": "2025-02-02T05:59:53",
+        "records_since_previous": 144,
+        "time_since_previous": "1:26:56"
+    },
+    {
+        "slidepoint": 350.94,
+        "startTime": "2025-02-02T04:32:57",
+        "records_since_previous": 514,
+        "time_since_previous": "5:10:53"
+    },
+    {
+        "slidepoint": 214431.1,
+        "startTime": "2025-02-01T23:22:04",
+        "records_since_previous": 102,
+        "time_since_previous": "1:01:51"
+    },
+    {
+        "slidepoint": 325.48,
+        "startTime": "2025-02-01T22:20:13",
+        "records_since_previous": 534,
+        "time_since_previous": "5:23:30"
+    },
+    {
+        "slidepoint": 314.81,
+        "startTime": "2025-02-01T16:56:43",
+        "records_since_previous": 68,
+        "time_since_previous": "0:41:13"
+    },
+    {
+        "slidepoint": 4610.97,
+        "startTime": "2025-02-01T16:15:30",
+        "records_since_previous": 316,
+        "time_since_previous": "3:11:23"
+    },
+    {
+        "slidepoint": 2211.65,
+        "startTime": "2025-02-01T13:04:07",
+        "records_since_previous": 121,
+        "time_since_previous": "1:13:14"
+    },
+    {
+        "slidepoint": 954.82,
+        "startTime": "2025-02-01T11:50:53",
+        "records_since_previous": 383,
+        "time_since_previous": "3:51:38"
+    },
+    {
+        "slidepoint": 1512.29,
+        "startTime": "2025-02-01T07:59:15",
+        "records_since_previous": 528,
+        "time_since_previous": "5:19:08"
+    },
+    {
+        "slidepoint": 1559.44,
+        "startTime": "2025-02-01T02:40:07",
+        "records_since_previous": 494,
+        "time_since_previous": "4:59:26"
+    },
+    {
+        "slidepoint": 3563.22,
+        "startTime": "2025-01-31T21:40:41",
+        "records_since_previous": 278,
+        "time_since_previous": "2:48:31"
+    },
+    {
+        "slidepoint": 2167.4,
+        "startTime": "2025-01-31T18:52:10",
+        "records_since_previous": 7,
+        "time_since_previous": "0:04:15"
+    },
+    {
+        "slidepoint": 1197.86,
+        "startTime": "2025-01-31T18:47:55",
+        "records_since_previous": 346,
+        "time_since_previous": "3:29:35"
+    },
+    {
+        "slidepoint": 484.98,
+        "startTime": "2025-01-31T15:18:20",
+        "records_since_previous": 531,
+        "time_since_previous": "5:21:17"
+    },
+    {
+        "slidepoint": 592.03,
+        "startTime": "2025-01-31T09:57:03",
+        "records_since_previous": 95,
+        "time_since_previous": "0:57:28"
+    },
+    {
+        "slidepoint": 331.17,
+        "startTime": "2025-01-31T08:59:35",
+        "records_since_previous": 545,
+        "time_since_previous": "5:29:11"
+    },
+    {
+        "slidepoint": 462.79,
+        "startTime": "2025-01-31T03:30:24",
+        "records_since_previous": 901,
+        "time_since_previous": "9:05:39"
+    },
+    {
+        "slidepoint": 888.69,
+        "startTime": "2025-01-30T18:24:45",
+        "records_since_previous": 80,
+        "time_since_previous": "0:48:32"
+    },
+    {
+        "slidepoint": 418.53,
+        "startTime": "2025-01-30T17:36:13",
+        "records_since_previous": 150,
+        "time_since_previous": "1:30:51"
+    },
+    {
+        "slidepoint": 1144.98,
+        "startTime": "2025-01-30T16:05:22",
+        "records_since_previous": 67,
+        "time_since_previous": "0:40:31"
+    },
+    {
+        "slidepoint": 605.17,
+        "startTime": "2025-01-30T15:24:51",
+        "records_since_previous": 28,
+        "time_since_previous": "0:16:56"
+    },
+    {
+        "slidepoint": 431.95,
+        "startTime": "2025-01-30T15:07:55",
+        "records_since_previous": 905,
+        "time_since_previous": "9:07:07"
+    },
+    {
+        "slidepoint": 398.76,
+        "startTime": "2025-01-30T06:00:48",
+        "records_since_previous": 132,
+        "time_since_previous": "1:19:45"
+    },
+    {
+        "slidepoint": 358.09,
+        "startTime": "2025-01-30T04:41:03",
+        "records_since_previous": 802,
+        "time_since_previous": "8:06:02"
+    },
+    {
+        "slidepoint": 489.25,
+        "startTime": "2025-01-29T20:35:01",
+        "records_since_previous": 75,
+        "time_since_previous": "0:45:44"
+    },
+    {
+        "slidepoint": 1303.4,
+        "startTime": "2025-01-29T19:49:17",
+        "records_since_previous": 309,
+        "time_since_previous": "3:07:42"
+    },
+    {
+        "slidepoint": 806.69,
+        "startTime": "2025-01-29T16:41:35",
+        "records_since_previous": 143,
+        "time_since_previous": "1:26:29"
+    },
+    {
+        "slidepoint": 371.27,
+        "startTime": "2025-01-29T15:15:06",
+        "records_since_previous": 397,
+        "time_since_previous": "4:00:05"
+    },
+    {
+        "slidepoint": 397.72,
+        "startTime": "2025-01-29T11:15:01",
+        "records_since_previous": 471,
+        "time_since_previous": "4:44:26"
+    },
+    {
+        "slidepoint": 595.01,
+        "startTime": "2025-01-29T06:30:35",
+        "records_since_previous": 282,
+        "time_since_previous": "2:50:14"
+    },
+    {
+        "slidepoint": 1857.0,
+        "startTime": "2025-01-29T03:40:21",
+        "records_since_previous": 542,
+        "time_since_previous": "5:27:55"
+    },
+    {
+        "slidepoint": 22895.53,
+        "startTime": "2025-01-28T22:12:26",
+        "records_since_previous": 101,
+        "time_since_previous": "1:01:15"
+    },
+    {
+        "slidepoint": 1731.48,
+        "startTime": "2025-01-28T21:11:11",
+        "records_since_previous": 397,
+        "time_since_previous": "4:01:42"
+    },
+    {
+        "slidepoint": 490.58,
+        "startTime": "2025-01-28T17:09:29",
+        "records_since_previous": 98,
+        "time_since_previous": "0:59:14"
+    },
+    {
+        "slidepoint": 735.65,
+        "startTime": "2025-01-28T16:10:15",
+        "records_since_previous": 63,
+        "time_since_previous": "0:38:14"
+    },
+    {
+        "slidepoint": 1003.28,
+        "startTime": "2025-01-28T15:32:01",
+        "records_since_previous": 4,
+        "time_since_previous": "0:02:26"
+    },
+    {
+        "slidepoint": 545.05,
+        "startTime": "2025-01-28T15:29:35",
+        "records_since_previous": 9,
+        "time_since_previous": "0:05:27"
+    },
+    {
+        "slidepoint": 1248.91,
+        "startTime": "2025-01-28T15:24:08",
+        "records_since_previous": 371,
+        "time_since_previous": "3:44:13"
+    },
+    {
+        "slidepoint": 768.04,
+        "startTime": "2025-01-28T11:39:55",
+        "records_since_previous": 19,
+        "time_since_previous": "0:11:28"
+    },
+    {
+        "slidepoint": 4783.03,
+        "startTime": "2025-01-28T11:28:27",
+        "records_since_previous": 999,
+        "time_since_previous": "10:03:42"
+    },
+    {
+        "slidepoint": 460.38,
+        "startTime": "2025-01-28T01:24:45",
+        "records_since_previous": 234,
+        "time_since_previous": "2:21:36"
+    },
+    {
+        "slidepoint": 311.91,
+        "startTime": "2025-01-27T23:03:09",
+        "records_since_previous": 330,
+        "time_since_previous": "3:19:49"
+    },
+    {
+        "slidepoint": 497.61,
+        "startTime": "2025-01-27T19:43:20",
+        "records_since_previous": 407,
+        "time_since_previous": "4:06:05"
+    },
+    {
+        "slidepoint": 466.43,
+        "startTime": "2025-01-27T15:37:15",
+        "records_since_previous": 94,
+        "time_since_previous": "0:56:50"
+    },
+    {
+        "slidepoint": 477.35,
+        "startTime": "2025-01-27T14:40:25",
+        "records_since_previous": 78,
+        "time_since_previous": "0:47:09"
+    },
+    {
+        "slidepoint": 1119.47,
+        "startTime": "2025-01-27T13:53:16",
+        "records_since_previous": 37,
+        "time_since_previous": "0:22:21"
+    },
+    {
+        "slidepoint": 1230.04,
+        "startTime": "2025-01-27T13:30:55",
+        "records_since_previous": 53,
+        "time_since_previous": "0:32:02"
+    },
+    {
+        "slidepoint": 730.3,
+        "startTime": "2025-01-27T12:58:53",
+        "records_since_previous": 481,
+        "time_since_previous": "4:50:35"
+    },
+    {
+        "slidepoint": 618.65,
+        "startTime": "2025-01-27T08:08:18",
+        "records_since_previous": 54,
+        "time_since_previous": "0:32:35"
+    },
+    {
+        "slidepoint": 360.41,
+        "startTime": "2025-01-27T07:35:43",
+        "records_since_previous": 972,
+        "time_since_previous": "9:47:18"
+    },
+    {
+        "slidepoint": 381.13,
+        "startTime": "2025-01-26T21:48:25",
+        "records_since_previous": 282,
+        "time_since_previous": "2:50:43"
+    },
+    {
+        "slidepoint": 648.11,
+        "startTime": "2025-01-26T18:57:42",
+        "records_since_previous": 218,
+        "time_since_previous": "2:12:07"
+    },
+    {
+        "slidepoint": 315.12,
+        "startTime": "2025-01-26T16:45:35",
+        "records_since_previous": 38,
+        "time_since_previous": "0:23:02"
+    },
+    {
+        "slidepoint": 1064.29,
+        "startTime": "2025-01-26T16:22:33",
+        "records_since_previous": 221,
+        "time_since_previous": "2:13:41"
+    },
+    {
+        "slidepoint": 511.24,
+        "startTime": "2025-01-26T14:08:52",
+        "records_since_previous": 28,
+        "time_since_previous": "0:16:54"
+    },
+    {
+        "slidepoint": 1330.82,
+        "startTime": "2025-01-26T13:51:58",
+        "records_since_previous": 212,
+        "time_since_previous": "2:08:15"
+    },
+    {
+        "slidepoint": 352.07,
+        "startTime": "2025-01-26T11:43:43",
+        "records_since_previous": 557,
+        "time_since_previous": "5:36:13"
+    },
+    {
+        "slidepoint": 1585.82,
+        "startTime": "2025-01-26T06:07:30",
+        "records_since_previous": 86,
+        "time_since_previous": "0:51:57"
+    },
+    {
+        "slidepoint": 2642.81,
+        "startTime": "2025-01-26T05:15:33",
+        "records_since_previous": 823,
+        "time_since_previous": "8:17:50"
+    },
+    {
+        "slidepoint": 424.55,
+        "startTime": "2025-01-25T20:57:43",
+        "records_since_previous": 244,
+        "time_since_previous": "2:27:42"
+    },
+    {
+        "slidepoint": 353.96,
+        "startTime": "2025-01-25T18:30:01",
+        "records_since_previous": 74,
+        "time_since_previous": "0:44:45"
+    },
+    {
+        "slidepoint": 1765.94,
+        "startTime": "2025-01-25T17:45:16",
+        "records_since_previous": 421,
+        "time_since_previous": "4:14:40"
+    },
+    {
+        "slidepoint": 463.61,
+        "startTime": "2025-01-25T13:30:36",
+        "records_since_previous": 21,
+        "time_since_previous": "0:12:41"
+    },
+    {
+        "slidepoint": 1438.49,
+        "startTime": "2025-01-25T13:17:55",
+        "records_since_previous": 162,
+        "time_since_previous": "1:38:02"
+    },
+    {
+        "slidepoint": 438.58,
+        "startTime": "2025-01-25T11:39:53",
+        "records_since_previous": 641,
+        "time_since_previous": "6:27:17"
+    },
+    {
+        "slidepoint": 370.34,
+        "startTime": "2025-01-25T05:12:36",
+        "records_since_previous": 94,
+        "time_since_previous": "0:56:47"
+    },
+    {
+        "slidepoint": 13935.65,
+        "startTime": "2025-01-25T04:15:49",
+        "records_since_previous": 215,
+        "time_since_previous": "2:10:01"
+    },
+    {
+        "slidepoint": 355.73,
+        "startTime": "2025-01-25T02:05:48",
+        "records_since_previous": 32,
+        "time_since_previous": "0:19:24"
+    },
+    {
+        "slidepoint": 407.56,
+        "startTime": "2025-01-25T01:46:24",
+        "records_since_previous": 264,
+        "time_since_previous": "2:39:38"
+    },
+    {
+        "slidepoint": 1089.18,
+        "startTime": "2025-01-24T23:06:46",
+        "records_since_previous": 451,
+        "time_since_previous": "4:33:05"
+    },
+    {
+        "slidepoint": 322.16,
+        "startTime": "2025-01-24T18:33:41",
+        "records_since_previous": 130,
+        "time_since_previous": "1:18:35"
+    },
+    {
+        "slidepoint": 712.54,
+        "startTime": "2025-01-24T17:15:06",
+        "records_since_previous": 43,
+        "time_since_previous": "0:26:01"
+    },
+    {
+        "slidepoint": 741.14,
+        "startTime": "2025-01-24T16:49:05",
+        "records_since_previous": 318,
+        "time_since_previous": "3:12:11"
+    },
+    {
+        "slidepoint": 413.72,
+        "startTime": "2025-01-24T13:36:54",
+        "records_since_previous": 517,
+        "time_since_previous": "5:12:20"
+    },
+    {
+        "slidepoint": 4861.98,
+        "startTime": "2025-01-24T08:24:34",
+        "records_since_previous": 417,
+        "time_since_previous": "4:11:58"
+    },
+    {
+        "slidepoint": 362.79,
+        "startTime": "2025-01-24T04:12:36",
+        "records_since_previous": 20,
+        "time_since_previous": "0:12:05"
+    },
+    {
+        "slidepoint": 421.6,
+        "startTime": "2025-01-24T04:00:31",
+        "records_since_previous": 65,
+        "time_since_previous": "0:39:17"
+    },
+    {
+        "slidepoint": 403.65,
+        "startTime": "2025-01-24T03:21:14",
+        "records_since_previous": 224,
+        "time_since_previous": "2:15:25"
+    },
+    {
+        "slidepoint": 17333.54,
+        "startTime": "2025-01-24T01:05:49",
+        "records_since_previous": 264,
+        "time_since_previous": "2:39:59"
+    },
+    {
+        "slidepoint": 3168.11,
+        "startTime": "2025-01-23T22:25:50",
+        "records_since_previous": 23,
+        "time_since_previous": "0:13:56"
+    },
+    {
+        "slidepoint": 919.32,
+        "startTime": "2025-01-23T22:11:54",
+        "records_since_previous": 468,
+        "time_since_previous": "4:43:19"
+    },
+    {
+        "slidepoint": 303.62,
+        "startTime": "2025-01-23T17:28:35",
+        "records_since_previous": 231,
+        "time_since_previous": "2:19:51"
+    },
+    {
+        "slidepoint": 788.56,
+        "startTime": "2025-01-23T15:08:44",
+        "records_since_previous": 391,
+        "time_since_previous": "3:56:47"
+    },
+    {
+        "slidepoint": 430.14,
+        "startTime": "2025-01-23T11:11:57",
+        "records_since_previous": 79,
+        "time_since_previous": "0:47:45"
+    },
+    {
+        "slidepoint": 669.53,
+        "startTime": "2025-01-23T10:24:12",
+        "records_since_previous": 81,
+        "time_since_previous": "0:48:56"
+    },
+    {
+        "slidepoint": 13875.74,
+        "startTime": "2025-01-23T09:35:16",
+        "records_since_previous": 160,
+        "time_since_previous": "1:36:29"
+    },
+    {
+        "slidepoint": 343.48,
+        "startTime": "2025-01-23T07:58:47",
+        "records_since_previous": 219,
+        "time_since_previous": "2:12:23"
+    },
+    {
+        "slidepoint": 368.14,
+        "startTime": "2025-01-23T05:46:24",
+        "records_since_previous": 205,
+        "time_since_previous": "2:03:55"
+    },
+    {
+        "slidepoint": 474.62,
+        "startTime": "2025-01-23T03:42:29",
+        "records_since_previous": 857,
+        "time_since_previous": "8:41:09"
+    },
+    {
+        "slidepoint": 472.44,
+        "startTime": "2025-01-22T19:01:20",
+        "records_since_previous": 267,
+        "time_since_previous": "2:41:48"
+    },
+    {
+        "slidepoint": 841.99,
+        "startTime": "2025-01-22T16:19:32",
+        "records_since_previous": 92,
+        "time_since_previous": "0:55:36"
+    },
+    {
+        "slidepoint": 3294.83,
+        "startTime": "2025-01-22T15:23:56",
+        "records_since_previous": 20,
+        "time_since_previous": "0:12:07"
+    },
+    {
+        "slidepoint": 2631.32,
+        "startTime": "2025-01-22T15:11:49",
+        "records_since_previous": 37,
+        "time_since_previous": "0:22:26"
+    },
+    {
+        "slidepoint": 325.27,
+        "startTime": "2025-01-22T14:49:23",
+        "records_since_previous": 1224,
+        "time_since_previous": "12:19:48"
+    },
+    {
+        "slidepoint": 725.18,
+        "startTime": "2025-01-22T02:29:35",
+        "records_since_previous": 415,
+        "time_since_previous": "4:12:11"
+    },
+    {
+        "slidepoint": 301.22,
+        "startTime": "2025-01-21T22:17:24",
+        "records_since_previous": 1147,
+        "time_since_previous": "11:35:18"
+    },
+    {
+        "slidepoint": 420.92,
+        "startTime": "2025-01-21T10:42:06",
+        "records_since_previous": 155,
+        "time_since_previous": "1:33:42"
+    },
+    {
+        "slidepoint": 356.11,
+        "startTime": "2025-01-21T09:08:24",
+        "records_since_previous": 577,
+        "time_since_previous": "5:48:50"
+    },
+    {
+        "slidepoint": 425.33,
+        "startTime": "2025-01-21T03:19:34",
+        "records_since_previous": 185,
+        "time_since_previous": "1:52:22"
+    },
+    {
+        "slidepoint": 916.38,
+        "startTime": "2025-01-21T01:27:12",
+        "records_since_previous": 16,
+        "time_since_previous": "0:09:46"
+    },
+    {
+        "slidepoint": 882.13,
+        "startTime": "2025-01-21T01:17:26",
+        "records_since_previous": 51,
+        "time_since_previous": "0:30:53"
+    },
+    {
+        "slidepoint": 1090.31,
+        "startTime": "2025-01-21T00:46:33",
+        "records_since_previous": 1,
+        "time_since_previous": "0:00:36"
+    },
+    {
+        "slidepoint": 479.69,
+        "startTime": "2025-01-21T00:45:57",
+        "records_since_previous": 915,
+        "time_since_previous": "9:14:54"
+    },
+    {
+        "slidepoint": 696.06,
+        "startTime": "2025-01-20T15:31:03",
+        "records_since_previous": 362,
+        "time_since_previous": "3:38:59"
+    },
+    {
+        "slidepoint": 934.89,
+        "startTime": "2025-01-20T11:52:04",
+        "records_since_previous": 105,
+        "time_since_previous": "1:03:27"
+    },
+    {
+        "slidepoint": 2182.95,
+        "startTime": "2025-01-20T10:48:37",
+        "records_since_previous": 102,
+        "time_since_previous": "1:01:38"
+    },
+    {
+        "slidepoint": 2880.72,
+        "startTime": "2025-01-20T09:46:59",
+        "records_since_previous": 561,
+        "time_since_previous": "5:39:31"
+    },
+    {
+        "slidepoint": 2130.29,
+        "startTime": "2025-01-20T04:07:28",
+        "records_since_previous": 103,
+        "time_since_previous": "1:02:18"
+    },
+    {
+        "slidepoint": 5887.78,
+        "startTime": "2025-01-20T03:05:10",
+        "records_since_previous": 396,
+        "time_since_previous": "3:59:47"
+    },
+    {
+        "slidepoint": 344.55,
+        "startTime": "2025-01-19T23:05:23",
+        "records_since_previous": 1079,
+        "time_since_previous": "10:54:07"
+    },
+    {
+        "slidepoint": 549.58,
+        "startTime": "2025-01-19T12:11:16",
+        "records_since_previous": 42,
+        "time_since_previous": "0:25:23"
+    },
+    {
+        "slidepoint": 691.7,
+        "startTime": "2025-01-19T11:45:53",
+        "records_since_previous": 174,
+        "time_since_previous": "1:45:09"
+    },
+    {
+        "slidepoint": 445.02,
+        "startTime": "2025-01-19T10:00:44",
+        "records_since_previous": 49,
+        "time_since_previous": "0:29:33"
+    },
+    {
+        "slidepoint": 330.05,
+        "startTime": "2025-01-19T09:31:11",
+        "records_since_previous": 529,
+        "time_since_previous": "5:19:49"
+    },
+    {
+        "slidepoint": 2329.95,
+        "startTime": "2025-01-19T04:11:22",
+        "records_since_previous": 45,
+        "time_since_previous": "0:27:15"
+    },
+    {
+        "slidepoint": 522.48,
+        "startTime": "2025-01-19T03:44:07",
+        "records_since_previous": 59,
+        "time_since_previous": "0:35:41"
+    },
+    {
+        "slidepoint": 551.34,
+        "startTime": "2025-01-19T03:08:26",
+        "records_since_previous": 378,
+        "time_since_previous": "3:48:56"
+    },
+    {
+        "slidepoint": 2199.74,
+        "startTime": "2025-01-18T23:19:30",
+        "records_since_previous": 258,
+        "time_since_previous": "2:36:28"
+    },
+    {
+        "slidepoint": 358.77,
+        "startTime": "2025-01-18T20:43:02",
+        "records_since_previous": 294,
+        "time_since_previous": "2:58:10"
+    },
+    {
+        "slidepoint": 329.72,
+        "startTime": "2025-01-18T17:44:52",
+        "records_since_previous": 297,
+        "time_since_previous": "2:59:52"
+    },
+    {
+        "slidepoint": 1236.99,
+        "startTime": "2025-01-18T14:45:00",
+        "records_since_previous": 35,
+        "time_since_previous": "0:21:10"
+    },
+    {
+        "slidepoint": 321.27,
+        "startTime": "2025-01-18T14:23:50",
+        "records_since_previous": 417,
+        "time_since_previous": "4:12:28"
+    },
+    {
+        "slidepoint": 600.18,
+        "startTime": "2025-01-18T10:11:22",
+        "records_since_previous": 740,
+        "time_since_previous": "7:27:26"
+    },
+    {
+        "slidepoint": 424.91,
+        "startTime": "2025-01-18T02:43:56",
+        "records_since_previous": 63,
+        "time_since_previous": "0:38:12"
+    },
+    {
+        "slidepoint": 48238.7,
+        "startTime": "2025-01-18T02:05:44",
+        "records_since_previous": 195,
+        "time_since_previous": "1:58:12"
+    },
+    {
+        "slidepoint": 2953.2,
+        "startTime": "2025-01-18T00:07:32",
+        "records_since_previous": 377,
+        "time_since_previous": "3:48:31"
+    },
+    {
+        "slidepoint": 344.07,
+        "startTime": "2025-01-17T20:19:01",
+        "records_since_previous": 12,
+        "time_since_previous": "0:07:16"
+    },
+    {
+        "slidepoint": 854.92,
+        "startTime": "2025-01-17T20:11:45",
+        "records_since_previous": 62,
+        "time_since_previous": "0:37:33"
+    },
+    {
+        "slidepoint": 334.99,
+        "startTime": "2025-01-17T19:34:12",
+        "records_since_previous": 861,
+        "time_since_previous": "8:41:19"
+    },
+    {
+        "slidepoint": 312.24,
+        "startTime": "2025-01-17T10:52:53",
+        "records_since_previous": 1216,
+        "time_since_previous": "12:15:53"
+    },
+    {
+        "slidepoint": 397.39,
+        "startTime": "2025-01-16T22:37:00",
+        "records_since_previous": 340,
+        "time_since_previous": "3:26:05"
+    },
+    {
+        "slidepoint": 580.07,
+        "startTime": "2025-01-16T19:10:55",
+        "records_since_previous": 30,
+        "time_since_previous": "0:18:09"
+    },
+    {
+        "slidepoint": 472.86,
+        "startTime": "2025-01-16T18:52:46",
+        "records_since_previous": 196,
+        "time_since_previous": "1:58:38"
+    },
+    {
+        "slidepoint": 348.94,
+        "startTime": "2025-01-16T16:54:08",
+        "records_since_previous": 191,
+        "time_since_previous": "1:55:33"
+    },
+    {
+        "slidepoint": 588.62,
+        "startTime": "2025-01-16T14:58:35",
+        "records_since_previous": 187,
+        "time_since_previous": "1:53:08"
+    },
+    {
+        "slidepoint": 335.65,
+        "startTime": "2025-01-16T13:05:27",
+        "records_since_previous": 12,
+        "time_since_previous": "0:07:15"
+    },
+    {
+        "slidepoint": 3188.51,
+        "startTime": "2025-01-16T12:58:12",
+        "records_since_previous": 255,
+        "time_since_previous": "2:34:22"
+    },
+    {
+        "slidepoint": 362.76,
+        "startTime": "2025-01-16T10:23:50",
+        "records_since_previous": 249,
+        "time_since_previous": "2:30:33"
+    },
+    {
+        "slidepoint": 2552.64,
+        "startTime": "2025-01-16T07:53:17",
+        "records_since_previous": 134,
+        "time_since_previous": "1:21:01"
+    },
+    {
+        "slidepoint": 1080.83,
+        "startTime": "2025-01-16T06:32:16",
+        "records_since_previous": 235,
+        "time_since_previous": "2:22:03"
+    },
+    {
+        "slidepoint": 360.22,
+        "startTime": "2025-01-16T04:10:13",
+        "records_since_previous": 223,
+        "time_since_previous": "2:15:02"
+    },
+    {
+        "slidepoint": 377.02,
+        "startTime": "2025-01-16T01:55:11",
+        "records_since_previous": 79,
+        "time_since_previous": "0:47:51"
+    },
+    {
+        "slidepoint": 327.74,
+        "startTime": "2025-01-16T01:07:20",
+        "records_since_previous": 169,
+        "time_since_previous": "1:42:32"
+    },
+    {
+        "slidepoint": 558.78,
+        "startTime": "2025-01-15T23:24:48",
+        "records_since_previous": 894,
+        "time_since_previous": "9:02:09"
+    }
+]

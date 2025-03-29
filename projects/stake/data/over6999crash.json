@@ -1,0 +1,482 @@
+[
+    {
+        "crashpoint": 14070.54,
+        "startTime": "2025-03-23T20:07:30",
+        "records_since_previous": 7226,
+        "time_since_previous": "2 days, 8:35:29"
+    },
+    {
+        "crashpoint": 22247.9,
+        "startTime": "2025-03-21T11:32:01",
+        "records_since_previous": 14594,
+        "time_since_previous": "4 days, 18:02:06"
+    },
+    {
+        "crashpoint": 11361.16,
+        "startTime": "2025-03-16T17:29:55",
+        "records_since_previous": 5391,
+        "time_since_previous": "1 day, 18:23:43"
+    },
+    {
+        "crashpoint": 8370.69,
+        "startTime": "2025-03-14T23:06:12",
+        "records_since_previous": 1609,
+        "time_since_previous": "12:38:26"
+    },
+    {
+        "crashpoint": 10901.74,
+        "startTime": "2025-03-14T10:27:46",
+        "records_since_previous": 2524,
+        "time_since_previous": "19:50:43"
+    },
+    {
+        "crashpoint": 21300.67,
+        "startTime": "2025-03-13T14:37:03",
+        "records_since_previous": 6214,
+        "time_since_previous": "2 days, 0:38:24"
+    },
+    {
+        "crashpoint": 8394.84,
+        "startTime": "2025-03-11T13:58:39",
+        "records_since_previous": 17007,
+        "time_since_previous": "5 days, 13:53:55"
+    },
+    {
+        "crashpoint": 15643.69,
+        "startTime": "2025-03-06T00:04:44",
+        "records_since_previous": 19887,
+        "time_since_previous": "6 days, 10:42:03"
+    },
+    {
+        "crashpoint": 30569.82,
+        "startTime": "2025-02-27T13:22:41",
+        "records_since_previous": 805,
+        "time_since_previous": "6:21:23"
+    },
+    {
+        "crashpoint": 10009.81,
+        "startTime": "2025-02-27T07:01:18",
+        "records_since_previous": 11127,
+        "time_since_previous": "3 days, 15:16:06"
+    },
+    {
+        "crashpoint": 9490.75,
+        "startTime": "2025-02-23T15:45:12",
+        "records_since_previous": 2581,
+        "time_since_previous": "20:09:12"
+    },
+    {
+        "crashpoint": 8708.23,
+        "startTime": "2025-02-22T19:36:00",
+        "records_since_previous": 2627,
+        "time_since_previous": "20:45:50"
+    },
+    {
+        "crashpoint": 31936.2,
+        "startTime": "2025-02-21T22:50:10",
+        "records_since_previous": 2814,
+        "time_since_previous": "21:55:13"
+    },
+    {
+        "crashpoint": 32729.23,
+        "startTime": "2025-02-21T00:54:57",
+        "records_since_previous": 145,
+        "time_since_previous": "1:12:19"
+    },
+    {
+        "crashpoint": 15432.59,
+        "startTime": "2025-02-20T23:42:38",
+        "records_since_previous": 8905,
+        "time_since_previous": "2 days, 21:36:18"
+    },
+    {
+        "crashpoint": 13597.49,
+        "startTime": "2025-02-18T02:06:20",
+        "records_since_previous": 2734,
+        "time_since_previous": "21:13:55"
+    },
+    {
+        "crashpoint": 34486.26,
+        "startTime": "2025-02-17T04:52:25",
+        "records_since_previous": 6055,
+        "time_since_previous": "1 day, 23:00:16"
+    },
+    {
+        "crashpoint": 8912.03,
+        "startTime": "2025-02-15T05:52:09",
+        "records_since_previous": 4553,
+        "time_since_previous": "3 days, 20:12:29"
+    },
+    {
+        "crashpoint": 128615.17,
+        "startTime": "2025-02-11T09:39:40",
+        "records_since_previous": 9129,
+        "time_since_previous": "2 days, 22:51:02"
+    },
+    {
+        "crashpoint": 7076.21,
+        "startTime": "2025-02-08T10:48:38",
+        "records_since_previous": 983,
+        "time_since_previous": "7:45:33"
+    },
+    {
+        "crashpoint": 7198.03,
+        "startTime": "2025-02-08T03:03:05",
+        "records_since_previous": 3893,
+        "time_since_previous": "1 day, 6:26:36"
+    },
+    {
+        "crashpoint": 34484.02,
+        "startTime": "2025-02-06T20:36:29",
+        "records_since_previous": 25788,
+        "time_since_previous": "8 days, 8:48:23"
+    },
+    {
+        "crashpoint": 9115.21,
+        "startTime": "2025-01-29T11:48:06",
+        "records_since_previous": 3781,
+        "time_since_previous": "1 day, 5:18:40"
+    },
+    {
+        "crashpoint": 50079.71,
+        "startTime": "2025-01-28T06:29:26",
+        "records_since_previous": 5534,
+        "time_since_previous": "1 day, 19:15:42"
+    },
+    {
+        "crashpoint": 9189.28,
+        "startTime": "2025-01-26T11:13:44",
+        "records_since_previous": 7975,
+        "time_since_previous": "2 days, 14:00:43"
+    },
+    {
+        "crashpoint": 36532.5,
+        "startTime": "2025-01-23T21:13:01",
+        "records_since_previous": 4,
+        "time_since_previous": "0:04:24"
+    },
+    {
+        "crashpoint": 164138.88,
+        "startTime": "2025-01-23T21:08:37",
+        "records_since_previous": 10777,
+        "time_since_previous": "3 days, 12:11:35"
+    },
+    {
+        "crashpoint": 36751.0,
+        "startTime": "2025-01-20T08:57:02",
+        "records_since_previous": 4352,
+        "time_since_previous": "1 day, 10:15:57"
+    },
+    {
+        "crashpoint": 47562.25,
+        "startTime": "2025-01-18T22:41:05",
+        "records_since_previous": 363,
+        "time_since_previous": "2:42:35"
+    },
+    {
+        "crashpoint": 8192.19,
+        "startTime": "2025-01-18T19:58:30",
+        "records_since_previous": 1179,
+        "time_since_previous": "9:28:49"
+    },
+    {
+        "crashpoint": 7848.31,
+        "startTime": "2025-01-18T10:29:41",
+        "records_since_previous": 3168,
+        "time_since_previous": "1 day, 0:42:40"
+    },
+    {
+        "crashpoint": 7679.57,
+        "startTime": "2025-01-17T09:47:01",
+        "records_since_previous": 8023,
+        "time_since_previous": "2 days, 14:38:45"
+    },
+    {
+        "crashpoint": 50915.05,
+        "startTime": "2025-01-14T19:08:16",
+        "records_since_previous": 7656,
+        "time_since_previous": "2 days, 10:58:47"
+    },
+    {
+        "crashpoint": 7084.18,
+        "startTime": "2025-01-12T08:09:29",
+        "records_since_previous": 1566,
+        "time_since_previous": "12:04:23"
+    },
+    {
+        "crashpoint": 8087.6,
+        "startTime": "2025-01-11T20:05:06",
+        "records_since_previous": 14550,
+        "time_since_previous": "4 days, 17:28:55"
+    },
+    {
+        "crashpoint": 33414.15,
+        "startTime": "2025-01-07T02:36:11",
+        "records_since_previous": 5589,
+        "time_since_previous": "1 day, 19:48:17"
+    },
+    {
+        "crashpoint": 23683.9,
+        "startTime": "2025-01-05T06:47:54",
+        "records_since_previous": 8516,
+        "time_since_previous": "2 days, 18:05:08"
+    },
+    {
+        "crashpoint": 11046.04,
+        "startTime": "2025-01-02T12:42:46",
+        "records_since_previous": 16206,
+        "time_since_previous": "5 days, 22:58:41"
+    },
+    {
+        "crashpoint": 19774.99,
+        "startTime": "2024-12-27T13:44:05",
+        "records_since_previous": 7410,
+        "time_since_previous": "2 days, 9:40:01"
+    },
+    {
+        "crashpoint": 33966.41,
+        "startTime": "2024-12-25T04:04:04",
+        "records_since_previous": 4738,
+        "time_since_previous": "1 day, 12:58:01"
+    },
+    {
+        "crashpoint": 16378.1,
+        "startTime": "2024-12-23T15:06:03",
+        "records_since_previous": 11398,
+        "time_since_previous": "3 days, 16:28:41"
+    },
+    {
+        "crashpoint": 22746.09,
+        "startTime": "2024-12-19T22:37:22",
+        "records_since_previous": 894,
+        "time_since_previous": "7:11:23"
+    },
+    {
+        "crashpoint": 7434.83,
+        "startTime": "2024-12-19T15:25:59",
+        "records_since_previous": 1191,
+        "time_since_previous": "9:35:03"
+    },
+    {
+        "crashpoint": 12491.97,
+        "startTime": "2024-12-19T05:50:56",
+        "records_since_previous": 1865,
+        "time_since_previous": "15:01:34"
+    },
+    {
+        "crashpoint": 9350.38,
+        "startTime": "2024-12-18T14:49:22",
+        "records_since_previous": 7183,
+        "time_since_previous": "2 days, 8:06:05"
+    },
+    {
+        "crashpoint": 9430.86,
+        "startTime": "2024-12-16T06:43:17",
+        "records_since_previous": 2444,
+        "time_since_previous": "19:12:27"
+    },
+    {
+        "crashpoint": 39847.22,
+        "startTime": "2024-12-15T11:30:50",
+        "records_since_previous": 7435,
+        "time_since_previous": "2 days, 9:24:06"
+    },
+    {
+        "crashpoint": 8795.39,
+        "startTime": "2024-12-13T02:06:44",
+        "records_since_previous": 1738,
+        "time_since_previous": "13:39:21"
+    },
+    {
+        "crashpoint": 45877.49,
+        "startTime": "2024-12-12T12:27:23",
+        "records_since_previous": 5008,
+        "time_since_previous": "1 day, 15:00:10"
+    },
+    {
+        "crashpoint": 19877.88,
+        "startTime": "2024-12-10T21:27:13",
+        "records_since_previous": 23493,
+        "time_since_previous": "7 days, 14:55:55"
+    },
+    {
+        "crashpoint": 10057.66,
+        "startTime": "2024-12-03T06:31:18",
+        "records_since_previous": 1717,
+        "time_since_previous": "13:38:38"
+    },
+    {
+        "crashpoint": 11191.94,
+        "startTime": "2024-12-02T16:52:40",
+        "records_since_previous": 35657,
+        "time_since_previous": "11 days, 13:45:36"
+    },
+    {
+        "crashpoint": 22398.37,
+        "startTime": "2024-11-21T03:07:04",
+        "records_since_previous": 18059,
+        "time_since_previous": "5 days, 20:02:01"
+    },
+    {
+        "crashpoint": 11619.41,
+        "startTime": "2024-11-15T07:05:03",
+        "records_since_previous": 8446,
+        "time_since_previous": "2 days, 18:06:20"
+    },
+    {
+        "crashpoint": 13644.92,
+        "startTime": "2024-11-12T12:58:43",
+        "records_since_previous": 2273,
+        "time_since_previous": "18:01:03"
+    },
+    {
+        "crashpoint": 16897.76,
+        "startTime": "2024-11-11T18:57:40",
+        "records_since_previous": 1774,
+        "time_since_previous": "13:56:39"
+    },
+    {
+        "crashpoint": 28064.64,
+        "startTime": "2024-11-11T05:01:01",
+        "records_since_previous": 3348,
+        "time_since_previous": "1 day, 2:01:49"
+    },
+    {
+        "crashpoint": 154996.45,
+        "startTime": "2024-11-10T02:59:12",
+        "records_since_previous": 3479,
+        "time_since_previous": "1 day, 3:37:58"
+    },
+    {
+        "crashpoint": 13267.94,
+        "startTime": "2024-11-08T23:21:14",
+        "records_since_previous": 14132,
+        "time_since_previous": "4 days, 12:33:06"
+    },
+    {
+        "crashpoint": 20921.68,
+        "startTime": "2024-11-04T10:48:08",
+        "records_since_previous": 14096,
+        "time_since_previous": "4 days, 13:55:49"
+    },
+    {
+        "crashpoint": 11833.35,
+        "startTime": "2024-10-30T20:52:19",
+        "records_since_previous": 15975,
+        "time_since_previous": "5 days, 4:37:52"
+    },
+    {
+        "crashpoint": 13316.44,
+        "startTime": "2024-10-25T16:14:27",
+        "records_since_previous": 19914,
+        "time_since_previous": "6 days, 11:10:25"
+    },
+    {
+        "crashpoint": 8424.27,
+        "startTime": "2024-10-19T05:04:02",
+        "records_since_previous": 1867,
+        "time_since_previous": "14:31:08"
+    },
+    {
+        "crashpoint": 7170.56,
+        "startTime": "2024-10-18T14:32:54",
+        "records_since_previous": 4203,
+        "time_since_previous": "1 day, 8:27:22"
+    },
+    {
+        "crashpoint": 10569.35,
+        "startTime": "2024-10-17T06:05:32",
+        "records_since_previous": 1968,
+        "time_since_previous": "15:16:25"
+    },
+    {
+        "crashpoint": 15254.81,
+        "startTime": "2024-10-16T14:49:07",
+        "records_since_previous": 3488,
+        "time_since_previous": "1 day, 3:17:36"
+    },
+    {
+        "crashpoint": 43270.05,
+        "startTime": "2024-10-15T11:31:31",
+        "records_since_previous": 22414,
+        "time_since_previous": "7 days, 7:25:09"
+    },
+    {
+        "crashpoint": 15091.19,
+        "startTime": "2024-10-08T04:06:22",
+        "records_since_previous": 8203,
+        "time_since_previous": "2 days, 17:14:23"
+    },
+    {
+        "crashpoint": 10814.32,
+        "startTime": "2024-10-05T10:51:59",
+        "records_since_previous": 3636,
+        "time_since_previous": "1 day, 4:09:40"
+    },
+    {
+        "crashpoint": 7787.78,
+        "startTime": "2024-10-04T06:42:19",
+        "records_since_previous": 3074,
+        "time_since_previous": "23:55:13"
+    },
+    {
+        "crashpoint": 8961.54,
+        "startTime": "2024-10-03T06:47:06",
+        "records_since_previous": 6626,
+        "time_since_previous": "2 days, 4:01:49"
+    },
+    {
+        "crashpoint": 55567.4,
+        "startTime": "2024-10-01T02:45:17",
+        "records_since_previous": 5034,
+        "time_since_previous": "1 day, 14:56:13"
+    },
+    {
+        "crashpoint": 9762.88,
+        "startTime": "2024-09-29T11:49:04",
+        "records_since_previous": 4069,
+        "time_since_previous": "1 day, 8:02:11"
+    },
+    {
+        "crashpoint": 33537.76,
+        "startTime": "2024-09-28T03:46:53",
+        "records_since_previous": 14985,
+        "time_since_previous": "4 days, 21:14:09"
+    },
+    {
+        "crashpoint": 8455.97,
+        "startTime": "2024-09-23T06:32:44",
+        "records_since_previous": 10840,
+        "time_since_previous": "3 days, 12:38:42"
+    },
+    {
+        "crashpoint": 15309.4,
+        "startTime": "2024-09-19T17:54:02",
+        "records_since_previous": 649,
+        "time_since_previous": "4:59:17"
+    },
+    {
+        "crashpoint": 11462.08,
+        "startTime": "2024-09-19T12:54:45",
+        "records_since_previous": 14653,
+        "time_since_previous": "4 days, 18:51:45"
+    },
+    {
+        "crashpoint": 36239.2,
+        "startTime": "2024-09-14T18:03:00",
+        "records_since_previous": 5538,
+        "time_since_previous": "1 day, 18:39:17"
+    },
+    {
+        "crashpoint": 7124.97,
+        "startTime": "2024-09-12T23:23:43",
+        "records_since_previous": 13238,
+        "time_since_previous": "4 days, 6:36:23"
+    },
+    {
+        "crashpoint": 7228.18,
+        "startTime": "2024-09-08T16:47:20",
+        "records_since_previous": 0,
+        "time_since_previous": "4 days, 6:36:23"
+    }
+]

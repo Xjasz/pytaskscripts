@@ -1,0 +1,13 @@
+{
+  "btc_task": {
+    "mode": "KEY",
+    "pass_type": "WORD",
+    "process_amount": 1000000
+  },
+  "stake_task": {
+    "mode": "CRASH"
+  },
+  "crypto_monitor": {
+    "mode": "MAIN"
+  }
+}

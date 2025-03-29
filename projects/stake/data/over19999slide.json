@@ -1,0 +1,98 @@
+[
+    {
+        "slidepoint": 25559.85,
+        "startTime": "2025-03-09T13:14:07",
+        "records_since_previous": 11577,
+        "time_since_previous": "4 days, 21:49:39"
+    },
+    {
+        "slidepoint": 185880.05,
+        "startTime": "2025-03-04T15:24:28",
+        "records_since_previous": 18840,
+        "time_since_previous": "7 days, 21:55:17"
+    },
+    {
+        "slidepoint": 28070.18,
+        "startTime": "2025-02-24T17:29:11",
+        "records_since_previous": 11515,
+        "time_since_previous": "4 days, 20:07:11"
+    },
+    {
+        "slidepoint": 40434.87,
+        "startTime": "2025-02-19T21:22:00",
+        "records_since_previous": 9710,
+        "time_since_previous": "4 days, 1:52:42"
+    },
+    {
+        "slidepoint": 37929.78,
+        "startTime": "2025-02-15T19:29:18",
+        "records_since_previous": 11391,
+        "time_since_previous": "7 days, 2:27:55"
+    },
+    {
+        "slidepoint": 208710.66,
+        "startTime": "2025-02-08T17:01:23",
+        "records_since_previous": 3660,
+        "time_since_previous": "1 day, 12:51:43"
+    },
+    {
+        "slidepoint": 28186.54,
+        "startTime": "2025-02-07T04:09:40",
+        "records_since_previous": 9315,
+        "time_since_previous": "3 days, 21:56:43"
+    },
+    {
+        "slidepoint": 42799.88,
+        "startTime": "2025-02-03T06:12:57",
+        "records_since_previous": 3058,
+        "time_since_previous": "1 day, 6:50:53"
+    },
+    {
+        "slidepoint": 214431.1,
+        "startTime": "2025-02-01T23:22:04",
+        "records_since_previous": 9632,
+        "time_since_previous": "4 days, 1:09:38"
+    },
+    {
+        "slidepoint": 22895.53,
+        "startTime": "2025-01-28T22:12:26",
+        "records_since_previous": 25787,
+        "time_since_previous": "10 days, 20:06:42"
+    },
+    {
+        "slidepoint": 48238.7,
+        "startTime": "2025-01-18T02:05:44",
+        "records_since_previous": 35712,
+        "time_since_previous": "14 days, 23:49:11"
+    },
+    {
+        "slidepoint": 38296.29,
+        "startTime": "2025-01-03T02:16:33",
+        "records_since_previous": 46065,
+        "time_since_previous": "19 days, 7:57:56"
+    },
+    {
+        "slidepoint": 75444.84,
+        "startTime": "2024-12-14T18:18:37",
+        "records_since_previous": 13314,
+        "time_since_previous": "5 days, 14:06:09"
+    },
+    {
+        "slidepoint": 69554.13,
+        "startTime": "2024-12-09T04:12:28",
+        "records_since_previous": 83760,
+        "time_since_previous": "35 days, 1:18:42"
+    },
+    {
+        "slidepoint": 64288.06,
+        "startTime": "2024-11-04T02:53:46",
+        "records_since_previous": 23168,
+        "time_since_previous": "9 days, 17:12:20"
+    },
+    {
+        "slidepoint": 39462.48,
+        "startTime": "2024-10-25T09:41:26",
+        "records_since_previous": 0,
+        "time_since_previous": "9 days, 17:12:20"
+    }
+]
