@@ -7,6 +7,8 @@ processed.txt
 *.pyc
 __pycache__/
 
+projects/btc/data/dupes.txt
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]

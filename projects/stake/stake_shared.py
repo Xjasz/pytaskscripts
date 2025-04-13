@@ -17,7 +17,7 @@ BASE_DIR = os.path.dirname(os.path.abspath(__file__))
 DATA_DIR = os.path.join(BASE_DIR, 'data')
 
 thresholds = [9, 19, 29, 59, 99, 199, 299, 499, 799, 999, 1299, 1499, 1999, 2499, 2999, 3999, 4999, 6999, 9999, 12999, 14999, 19999, 22999, 24999, 29999,
-              34999, 39999, 49999, 59999, 69999, 79999, 99999, 119999, 149999, 199999, 249999, 299999]
+              34999, 39999, 49999, 59999, 69999, 79999, 99999, 119999, 149999, 199999, 249999, 299999, 399999, 499999, 699999, 999999]
 
 BROWSER_PROFILE_DIR = os.getenv('BROWSER_PROFILE_DIR', '')
 BROWSER_EXE_LOC = os.getenv('BROWSER_EXE_LOC', '')
@@ -79,7 +79,9 @@ def load_existing_data(game_type, point_label):
     logger.info("load_existing_data...")
     data = {}
     file_path = os.path.join(DATA_DIR, f'{game_type}_data.csv')
-    if os.path.exists(file_path):
+    attempts = 0
+    while attempts < 3:
+        attempts += 1
         try:
             with open(file_path, 'r') as file:
                 csv_reader = csv.reader(file)
@@ -90,27 +92,85 @@ def load_existing_data(game_type, point_label):
                         point_label: float(point),
                         'startTime': start_time
                     }
+            break
         except Exception as e:
-            logger.error(f"Error loading CSV: {e}. Retrying after sleep.")
+            logger.error(f"Error loading CSV: {e}. Retrying ({attempts}) after sleep.")
             time.sleep(10)
-            return load_existing_data(game_type, point_label)
     return data
 
-def get_latested_from_mysql(game_type):
+def get_latest_from_mysql(game_type):
     global logger
+    query = f"SELECT start_time FROM stake_{game_type} ORDER BY start_time DESC LIMIT 1"
     try:
-        connection = mysql.connector.connect(**db_config)
-        cursor = connection.cursor()
-        query = f"SELECT start_time FROM stake_{game_type} ORDER BY start_time DESC LIMIT 1"
-        cursor.execute(query)
-        result = cursor.fetchone()
-        return result[0] if result else None
+        with mysql.connector.connect(**db_config) as connection:
+            with connection.cursor() as cursor:
+                cursor.execute(query)
+                result = cursor.fetchone()
+                return result[0] if result else None
     except mysql.connector.Error as err:
-        logger.error(f"Error fetching most recent hash: {err}")
-    finally:
-        if connection.is_connected():
-            cursor.close()
-            connection.close()
+        logger.error(f"Error fetching most recent start_time from MySQL: {err}")
+        return None
+
+def ensure_table_exists(game_type, point_label):
+    table_name = f"stake_{game_type}"
+    create_stmt = f"""
+        CREATE TABLE IF NOT EXISTS `{table_name}` (
+            `identity_id` int(11) NOT NULL AUTO_INCREMENT,
+            `hash_id` varchar(36) COLLATE utf8_unicode_ci NOT NULL,
+            `{point_label}` decimal(15,2) NOT NULL,
+            `start_time` datetime NOT NULL,
+            `created_date` datetime DEFAULT CURRENT_TIMESTAMP,
+            PRIMARY KEY (`identity_id`),
+            UNIQUE KEY `unique_hash_id` (`hash_id`)
+        ) ENGINE=InnoDB DEFAULT CHARSET=utf8 COLLATE=utf8_unicode_ci;
+    """
+    try:
+        with mysql.connector.connect(**db_config) as connection:
+            with connection.cursor() as cursor:
+                cursor.execute(create_stmt)
+                connection.commit()
+    except mysql.connector.Error as err:
+        logger.error(f"Error creating table {table_name}: {err}")
+
+def insert_latest_mysql(game_type, point_label, records):
+    global logger
+    insert_query = f"""
+        INSERT INTO stake_{game_type} (hash_id, {point_label}, start_time)
+        VALUES (%s, %s, %s)
+    """
+    try:
+        with mysql.connector.connect(**db_config) as connection:
+            with connection.cursor() as cursor:
+                for record_id, record in records.items():
+                    hash_id = record['id']
+                    point = record[point_label]
+                    start_time = datetime.strptime(record['startTime'], '%m/%d/%Y %H:%M:%S')
+                    cursor.execute(insert_query, (hash_id, point, start_time))
+                connection.commit()
+        logger.info(f"Inserted {len(records)} new records into the database")
+    except mysql.connector.Error as err:
+        logger.error(f"Error inserting data into MySQL: {err}")
+
+def export_mysql_to_csv(game_type, point_label):
+    global logger
+    output_file = os.path.join(DATA_DIR, f'{game_type}_data.csv')
+    logger.info(f'export_mysql_to_csv {output_file}')
+    try:
+        with mysql.connector.connect(**db_config) as connection:
+            with connection.cursor() as cursor:
+                select_query = f"SELECT {point_label}, start_time FROM stake_{game_type} ORDER BY start_time ASC"
+                cursor.execute(select_query)
+                rows = cursor.fetchall()
+        with open(output_file, 'w', newline='') as csvfile:
+            csv_writer = csv.writer(csvfile)
+            csv_writer.writerow([point_label, 'startTime'])
+            for row in rows:
+                point, start_time = row
+                formatted_time = start_time.strftime('%Y-%m-%dT%H:%M:%S')
+                csv_writer.writerow([point, formatted_time])
+        logger.info(f"Data exported successfully to {output_file}")
+    except mysql.connector.Error as err:
+        logger.error(f"MySQL export error: {err}")
 
 def get_latested_from_csv(game_type):
     global logger
@@ -131,29 +191,6 @@ def get_latested_from_csv(game_type):
         logger.error(f"Error reading most recent time from CSV: {e}")
         return None
 
-def insert_latest_mysql(game_type, point_label, records):
-    global logger
-    try:
-        connection = mysql.connector.connect(**db_config)
-        cursor = connection.cursor()
-        insert_query = f"""
-            INSERT INTO stake_{game_type} (hash_id, {point_label}, start_time)
-            VALUES (%s, %s, %s)
-        """
-        for record_id, record in records.items():
-            hash_id = record['id']
-            point = record[point_label]
-            start_time = datetime.strptime(record['startTime'], '%m/%d/%Y %H:%M:%S')
-            cursor.execute(insert_query, (hash_id, point, start_time))
-        connection.commit()
-        logger.info(f"Inserted {len(records)} new records into the database")
-    except mysql.connector.Error as err:
-        logger.error(f"Error inserting data: {err}")
-    finally:
-        if connection.is_connected():
-            cursor.close()
-            connection.close()
-
 def insert_latest_csv(game_type, point_label, records):
     global logger
     logger.info("insert_latest_csv...")
@@ -170,31 +207,6 @@ def insert_latest_csv(game_type, point_label, records):
             logger.info(f"Appended {len(records)} new records to {csv_file}")
         except Exception as e:
             logger.error(f"Failed to append new data to CSV: {e}")
-
-def export_mysql_to_csv(game_type, point_label):
-    global logger
-    output_file = os.path.join(DATA_DIR, f'{game_type}_data.csv')
-    logger.info(f'export_mysql_to_csv {output_file}')
-    try:
-        connection = mysql.connector.connect(**db_config)
-        cursor = connection.cursor()
-        select_query = f"SELECT {point_label}, start_time FROM stake_{game_type} ORDER BY start_time ASC"
-        cursor.execute(select_query)
-        rows = cursor.fetchall()
-        with open(output_file, 'w', newline='') as csvfile:
-            csv_writer = csv.writer(csvfile)
-            csv_writer.writerow([point_label, 'startTime'])
-            for row in rows:
-                point, start_time = row
-                formatted_time = start_time.strftime('%Y-%m-%dT%H:%M:%S')
-                csv_writer.writerow([point, formatted_time])
-        logger.info(f"Data exported successfully to {output_file}")
-    except mysql.connector.Error as err:
-        logger.info(f"Error: {err}")
-    finally:
-        if connection.is_connected():
-            cursor.close()
-            connection.close()
 
 def analyze_high_points(game_type, point_label, threshold, all_data):
     global logger
@@ -258,6 +270,7 @@ def is_dst(dt):
 def run_stake_game(mode="CRASH",log=None):
     global logger
     logger = log
+    mode = mode.lower()
     logger.info(f'Starting {mode} process...')
     point_label = "crashpoint" if mode == "crash" else "slidepoint"
     point_label_alt = "crashpoint" if mode == "crash" else "multiplier"
@@ -266,10 +279,18 @@ def run_stake_game(mode="CRASH",log=None):
     browser_driver = setup_browser()
     driver_service = browser_driver.service
     new_data = {}
+    csv_latest = get_latested_from_csv(mode)
     if USE_DATABASE:
-        latest_starttime = get_latested_from_mysql(mode)
+        ensure_table_exists(mode, point_label)
+        db_latest = get_latest_from_mysql(mode)
+        csv_path = os.path.join(DATA_DIR, f'{mode}_data.csv')
+        if not os.path.exists(csv_path) and db_latest:
+            export_mysql_to_csv(mode, point_label)
+        latest_starttime = csv_latest if csv_latest and (db_latest is None or csv_latest >= db_latest) else db_latest or csv_latest
     else:
-        latest_starttime = get_latested_from_csv(mode)
+        latest_starttime = csv_latest
+    if latest_starttime is None:
+        latest_starttime = datetime(1970, 1, 1)
     latest_starttime = latest_starttime.strftime('%m/%d/%Y %H:%M:%S')
     logger.info(f"Most recent StartTime in database: {latest_starttime}")
     try:
@@ -360,13 +381,9 @@ def run_stake_game(mode="CRASH",log=None):
             except Exception as e:
                 logger.error(f"Error while stopping Selenium service: {e}")
     if new_data:
+        insert_latest_csv(mode, point_label, new_data)
         if USE_DATABASE:
             insert_latest_mysql(mode, point_label, new_data)
-            filepath = os.path.join(DATA_DIR, f'{mode}_data.csv')
-            if not os.path.exists(filepath):
-                export_mysql_to_csv(mode, point_label)
-                new_data = None
-    insert_latest_csv(mode, point_label, new_data)
     all_data = load_existing_data(mode, point_label)
     for threshold in thresholds:
         analyze_high_points(mode, point_label, threshold, all_data)

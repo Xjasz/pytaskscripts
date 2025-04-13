@@ -127,6 +127,21 @@ def random_datetime(start_year, end_year):
 def total_password_length(password_parts):
     return sum(len(part) for part in password_parts)
 
+def generate_existing_files():
+    global logger, processed_file, dupes_file, invalids_file
+    if not os.path.exists(dupes_file):
+        with open(dupes_file, 'w') as file:
+            file.write("")
+        logger.info(f"File '{dupes_file}' created successfully.")
+    if not os.path.exists(processed_file):
+        with open(processed_file, 'w') as file:
+            file.write("")
+        logger.info(f"File '{processed_file}' created successfully.")
+    if not os.path.exists(invalids_file):
+        with open(invalids_file, 'w') as file:
+            file.write("")
+        logger.info(f"File '{invalids_file}' created successfully.")
+
 def process_cleanup():
     global logger, valid_chars, processed_file, dupes_file, invalids_file
     logger.info("process_cleanup...")
@@ -162,12 +177,12 @@ def process_cleanup():
         file.write('\n'.join(invalid_words))
     logger.info(f"invalids_file written to {invalids_file}")
 
-
 def run_passgen(pass_type='WORD', process_amount=1000000, log=None):
     global logger
     logger = log
     global  processed_count, total_generated, total_characters, special_char_types, words_file, cities_file, lastnames_file, firstnames_file, special_char_weights
     logger.info(f"Starting BTC passgen task for pass_type: ({pass_type})  process_amount: ({process_amount}) ")
+    generate_existing_files()
     if pass_type == 'SEED':
         logger.info(f"Running seeds...")
         with open(processed_file, 'a') as file:
