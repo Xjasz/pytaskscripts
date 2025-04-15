@@ -4,6 +4,9 @@
 
 Whether you're scraping websites, generating keys, automating browser tasks, or building crypto tools — this repo lets you keep everything centralized and scalable.
 
+Stake Referral Link: [https://stake.us/?c=KGW4Lep4](https://stake.us/?c=KGW4Lep4)
+
+
 ---
 
 ## 🚀 Current Tasks
