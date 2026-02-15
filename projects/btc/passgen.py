@@ -13,6 +13,7 @@ BASE_DIR = os.path.dirname(os.path.abspath(__file__))
 DATA_DIR = os.path.join(BASE_DIR, 'data')
 
 processed_file = os.path.join(DATA_DIR, 'processed.txt')
+others_file = r'./data/us_others.txt'
 words_file = os.path.join(DATA_DIR, 'us_words.txt')
 cities_file = os.path.join(DATA_DIR, 'us_cities.txt')
 firstnames_file = os.path.join(DATA_DIR, 'firstnames.txt')
@@ -20,7 +21,7 @@ lastnames_file = os.path.join(DATA_DIR, 'lastnames.txt')
 dupes_file = os.path.join(DATA_DIR, 'dupes.txt')
 invalids_file = os.path.join(DATA_DIR, 'invalids.txt')
 
-special_char_types = r"""!@#$%&*^?_~"()[]{}|\/`<>:;,+-./='"""
+special_char_types = r"""!@#$%&*^?_~"()[]{}|\/`<>:;,+-./=' """
 special_char_weights = [50, 40, 30, 20, 10, 8, 6, 5, 4, 3] + [2] * (len(special_char_types) - 10)
 valid_chars = (string.ascii_lowercase + string.ascii_uppercase + string.digits + special_char_types)
 processed_count = 0
@@ -177,11 +178,19 @@ def process_cleanup():
         file.write('\n'.join(invalid_words))
     logger.info(f"invalids_file written to {invalids_file}")
 
+def reset_output_files():
+    logger.info(f"reset_output_files...")
+    for f in (dupes_file, invalids_file):
+        with open(f, "w", encoding="utf-8"):
+            pass
+
+
 def run_passgen(pass_type='WORD', process_amount=1000000, log=None):
     global logger
     logger = log
     global  processed_count, total_generated, total_characters, special_char_types, words_file, cities_file, lastnames_file, firstnames_file, special_char_weights
     logger.info(f"Starting BTC passgen task for pass_type: ({pass_type})  process_amount: ({process_amount}) ")
+    reset_output_files()
     generate_existing_files()
     if pass_type == 'SEED':
         logger.info(f"Running seeds...")
@@ -241,7 +250,8 @@ def run_passgen(pass_type='WORD', process_amount=1000000, log=None):
         last_names = load_file(lastnames_file)
         cities = load_file(cities_file)
         words = load_file(words_file)
-        with open(processed_file, 'a') as file:
+        others = load_file(others_file)
+        with open(processed_file, 'a', encoding='utf-8', errors='replace', newline='\n') as file:
             while True:
                 if processed_count >= process_amount:
                     break
@@ -253,15 +263,15 @@ def run_passgen(pass_type='WORD', process_amount=1000000, log=None):
                     lambda: apply_random_case_and_swap(random.choice(last_names)),
                     lambda: apply_random_case_and_swap(random.choice(words)),
                     lambda: apply_random_case_and_swap(random.choice(cities)),
+                    lambda: apply_random_case_and_swap(random.choice(others))
                 ]
                 password_min_size = 15
                 password_stop_size = 17
                 password_max_size = 24
-                password_part_min = 3
                 digit_part_max = 2
                 digit_part_chance = 0.40
                 word_part_chance = 0.17
-                while len(password_parts) < password_part_min or total_password_length(password_parts) <= password_min_size:
+                while total_password_length(password_parts) <= password_min_size:
                     shuffled_part_generators = random.choices(part_generators, weights=[1, 1, 2, 0.5], k=len(part_generators))
                     random.shuffle(shuffled_part_generators)
                     if (non_digit_added and digit_part_count < digit_part_max) or len(password_parts) == 0:
@@ -269,7 +279,7 @@ def run_passgen(pass_type='WORD', process_amount=1000000, log=None):
                             num_digits = random.choices([1, 2, 3, 4], weights=[4, 3, 2, 1])[0]
                             password_parts.append(''.join(random.choices('0123456789', k=num_digits)))
                             digit_part_count += 1
-                    if len(password_parts) >= password_part_min and total_password_length(password_parts) >= password_stop_size:
+                    if total_password_length(password_parts) >= password_stop_size:
                         break
                     for generator in shuffled_part_generators:
                         if random.random() < word_part_chance:
@@ -278,9 +288,9 @@ def run_passgen(pass_type='WORD', process_amount=1000000, log=None):
                             if current_length + len(new_part) < password_max_size:
                                 password_parts.append(new_part)
                                 non_digit_added = True
-                        if len(password_parts) >= password_part_min and total_password_length(password_parts) >= password_stop_size:
+                        if total_password_length(password_parts) >= password_stop_size:
                             break
-                    if len(password_parts) >= password_part_min and total_password_length(password_parts) >= password_stop_size:
+                    if total_password_length(password_parts) >= password_stop_size:
                         break
                 all_permutations = list(itertools.permutations(password_parts))
                 permutated_passwords = []
