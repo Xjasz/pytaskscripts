@@ -1,0 +1,2 @@
+$filename = "test-" + [char]0x202E + "nls.scr"
+New-Item $filename

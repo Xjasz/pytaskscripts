@@ -1,0 +1,39 @@
+[core]
+    editor = "C:/Program Files/Notepad++/notepad++.exe"
+
+[alias]
+    co = checkout
+    st = status -sb
+    bigstatus = status -b -v -v
+    comp = difftool -t bc4 --no-prompt
+    fpull = !"git fetch && git pull"
+    fp = fpull
+
+    lazy = !"git add . && git commit -m \"$*\" && git push"
+    qcommit = !"git add . && git commit -m \"$*\""
+    qpush = !"msg=${1:-wip}; git add -A && git commit -m \"$msg\" || true; git push"
+
+    ccmfp = !"git checkout main && git fetch && git pull"
+    ccdfp = !"git checkout dev && git fetch && git pull"
+    ffp = !"git checkout \"$1\" && git fetch && git pull"
+    newbranch = !"git checkout -b \"$1\" && git push -u origin \"$1\""
+    nb = newbranch
+
+    mergedev = !"git checkout development && git fetch && git pull && git checkout \"$1\" && git merge development"
+    fastMerge = !"git checkout \"$2\" && git fetch && git pull && git checkout \"$1\" && git merge \"$2\""
+
+    pushall = push --recurse-submodules=on-demand
+    lazyall = !"git add . && git commit -m \"$*\" && git push --recurse-submodules=on-demand"
+    subfetch = !"git fetch && git submodule foreach 'git fetch'"
+    sst = !"git status -sb && git submodule foreach 'git status -sb'"
+
+    sublazy = !"git submodule foreach \"git add . && git commit -m '$*'\" && git add . && git commit -m \"$*\" && git push --recurse-submodules=on-demand"
+    subco = !"git submodule foreach \"git checkout '$1' && git fetch && git pull\" && git checkout \"$1\" && git fetch && git pull"
+    subnb = !"git submodule foreach \"git checkout -b '$1' && git push -u origin '$1'\" && git checkout -b \"$1\" && git push -u origin \"$1\""
+
+    submerged = !"git checkout development && git fetch && git pull && git checkout \"$1\" && git merge development && git submodule foreach \"git checkout development && git fetch && git pull && git checkout '$1' && git merge development\""
+    submerge = !"git checkout \"$2\" && git fetch && git pull && git checkout \"$1\" && git merge \"$2\" && git submodule foreach \"git checkout '$2' && git fetch && git pull && git checkout '$1' && git merge '$2'\""
+
+    fmerge = !"git merge development -X ours && git add . && git commit -m \"merged development\" && git push \"$1\""
+
+    lg = log --graph --abbrev-commit --decorate --pretty=format:'%C(auto)%h %d %s %C(black)%C(bold)%cr' --all
