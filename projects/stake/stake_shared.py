@@ -50,7 +50,9 @@ def setup_browser():
         options.set_preference("webdriver.log.file", "NUL" if os.name == "nt" else "/dev/null")
         options.set_preference('dom.webnotifications.enabled', False)
         options.set_preference('media.peerconnection.enabled', True)
-        options.set_preference("profile", BROWSER_PROFILE_DIR)
+        if BROWSER_PROFILE_DIR:
+            options.add_argument("-profile")
+            options.add_argument(BROWSER_PROFILE_DIR)
         # Comment to view
         # options.add_argument('--headless')
         # options.add_argument("--window-size=0,0")
@@ -135,19 +137,21 @@ def ensure_table_exists(game_type, point_label):
 def insert_latest_mysql(game_type, point_label, records):
     global logger
     insert_query = f"""
-        INSERT INTO stake_{game_type} (hash_id, {point_label}, start_time)
+        INSERT IGNORE INTO stake_{game_type} (hash_id, {point_label}, start_time)
         VALUES (%s, %s, %s)
     """
     try:
         with mysql.connector.connect(**db_config) as connection:
             with connection.cursor() as cursor:
+                inserted = 0
                 for record_id, record in records.items():
                     hash_id = record['id']
                     point = record[point_label]
                     start_time = datetime.strptime(record['startTime'], '%m/%d/%Y %H:%M:%S')
                     cursor.execute(insert_query, (hash_id, point, start_time))
+                    inserted += cursor.rowcount
                 connection.commit()
-        logger.info(f"Inserted {len(records)} new records into the database")
+        logger.info(f"Inserted {inserted} of {len(records)} fetched records into the database")
     except mysql.connector.Error as err:
         logger.error(f"Error inserting data into MySQL: {err}")
 
@@ -178,8 +182,10 @@ def get_latested_from_csv(game_type):
     if not os.path.exists(filepath):
         return None
     try:
-        with open(filepath, 'r') as f:
-            lines = f.readlines()
+        with open(filepath, 'rb') as f:
+            f.seek(0, os.SEEK_END)
+            f.seek(max(0, f.tell() - 200))
+            lines = f.read().decode().splitlines()
             if len(lines) < 2:
                 return None
             last_line = lines[-1].strip()
@@ -263,8 +269,8 @@ def adjust_time(gmt_time_str):
 
 def is_dst(dt):
     year = dt.year
-    dst_start = datetime(year, 3, 8, 2) + timedelta(days=(6 - datetime(year, 3, 8).weekday()))
-    dst_end = datetime(year, 11, 1, 2) + timedelta(days=(6 - datetime(year, 11, 1).weekday()))
+    dst_start = datetime(year, 3, 8, 7) + timedelta(days=(6 - datetime(year, 3, 8).weekday()))
+    dst_end = datetime(year, 11, 1, 6) + timedelta(days=(6 - datetime(year, 11, 1).weekday()))
     return dst_start <= dt.replace(tzinfo=None) < dst_end
 
 def run_stake_game(mode="CRASH",log=None):
@@ -277,6 +283,9 @@ def run_stake_game(mode="CRASH",log=None):
     query_outer_name = "crashGameList" if mode == "crash" else "slideList"
     query_name = "crashGameList" if mode == "crash" else "slideGameList"
     browser_driver = setup_browser()
+    if browser_driver is None:
+        logger.error("No browser started, set BROWSER_TYPE to FIREFOX or CHROME")
+        return
     driver_service = browser_driver.service
     new_data = {}
     csv_latest = get_latested_from_csv(mode)
@@ -299,9 +308,6 @@ def run_stake_game(mode="CRASH",log=None):
             time.sleep(5)
             if DEBUG_ENABLED:
                 logger.info(f"Checking {mode} data...")
-            cookies = browser_driver.get_cookies()
-            cookie_str = '; '.join([f"{cookie['name']}={cookie['value']}" for cookie in cookies])
-            escaped_cookie_str = cookie_str.replace('"', '\\"')
             offset = 0
             limit = 50
             while offset < 900:
@@ -325,8 +331,7 @@ def run_stake_game(mode="CRASH",log=None):
                         method: "POST",
                         headers: {{
                             "Content-Type": "application/json",
-                            "Accept": "application/graphql+json, application/json",
-                            "Cookie": "{escaped_cookie_str}"
+                            "Accept": "application/graphql+json, application/json"
                         }},
                         body: JSON.stringify({{
                             query: `{query}`,

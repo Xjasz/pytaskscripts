@@ -10,7 +10,7 @@ Monitors posts on **Twitter (X)** and **Truth Social** in real-time for crypto-r
 - Searches each post for a list of predefined **crypto keywords** (e.g., BTC, ETH, XRP, DOGE, etc.).
 - Prevents duplicate alerts by maintaining a history of already-flagged content in `found_posts.txt`.
 - Sends **email** and/or **SMS** alerts if any crypto-related term is detected.
-- Logs all activity and matches in `crypto_monitor_log.txt`.
+- Logs all activity and matches in `logs/crypto_monitor.log`.
 - Can optionally check your phone's **SMS/MMS carrier gateway** to determine where alerts can be delivered.
 
 ---
@@ -53,6 +53,7 @@ Optional but recommended:
 Set the following environment variables before running the script:
 
 ```bash
+export BROWSER_TYPE="FIREFOX"
 export GECKO_EXE_LOC="/path/to/geckodriver"
 export BROWSER_EXE_LOC="/path/to/firefox"
 export BROWSER_PROFILE_DIR="/your/firefox/profile"
@@ -64,6 +65,7 @@ export EMAIL_SERVER="smtp.yourprovider.com"
 For Windows:
 
 ```bat
+set BROWSER_TYPE=FIREFOX
 set GECKO_EXE_LOC=C:\path\to\geckodriver.exe
 set BROWSER_EXE_LOC=C:\Program Files\Mozilla Firefox\firefox.exe
 set BROWSER_PROFILE_DIR=C:\Users\YourUser\AppData\Roaming\Mozilla\Firefox\Profiles\xyz.default-release
@@ -82,14 +84,14 @@ You can customize:
 - `EMAIL_RECIPIENTS` → Email alert destinations
 - `PHONE_NUMBERS` → SMS/MMS alert destinations
 
-Edit these directly in `crypto_monitor.py`.
+Edit these directly in `projects/crypto/monitor.py`.
 
 ---
 
 ### 3. Run the Monitor
 
 ```bash
-python crypto_monitor.py
+python main.py crypto_monitor
 ```
 
 The script will log activity, trigger alerts on matches, and rotate through the accounts you’ve specified.
@@ -110,7 +112,7 @@ Then run the script once. It will attempt to send messages to all known U.S. car
 
 ## 📁 Output
 
-- ✅ **`crypto_monitor_log.txt`** – Full execution log
+- ✅ **`logs/crypto_monitor.log`** – Full execution log
 - ✅ **`found_posts.txt`** – Prevents redundant alerts
 - ✅ **Email/SMS** – Instant keyword detection alerts
 

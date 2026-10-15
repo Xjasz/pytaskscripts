@@ -1,12 +1,13 @@
 import argparse
 import json
+import os
 from projects.btc.keygen import run_keygen
 from projects.btc.passgen import run_passgen
 from projects.crypto.monitor import run_monitor
 from projects.stake.stake_shared import run_stake_game
 from utils.logger import get_logger
 
-with open("config.json") as f:
+with open(os.path.join(os.path.dirname(os.path.abspath(__file__)), "config.json")) as f:
     config = json.load(f)
 
 def dispatch(task, log_mode):

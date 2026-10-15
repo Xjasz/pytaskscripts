@@ -73,7 +73,9 @@ def setup_browser():
         options.add_argument("--disable-dev-shm-usage")
         options.set_preference("browser.console.logLevel", "fatal")
         options.set_preference("webdriver.log.file", "NUL" if os.name == "nt" else "/dev/null")
-        options.set_preference("profile", BROWSER_PROFILE_DIR)
+        if BROWSER_PROFILE_DIR:
+            options.add_argument("-profile")
+            options.add_argument(BROWSER_PROFILE_DIR)
         # Comment to view
         # options.add_argument('--headless')
         # options.add_argument("--window-size=0,0")
@@ -191,13 +193,23 @@ def alert_event(item, found_keywords, post_text, url_link):
     logger.info(f"Post text: {post_text}")
     logger.info("~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~")
     subject = f"Crypto Account: {item[0]} found ({', '.join(found_keywords)})"
+    sent_ok = True
     if EMAIL_ENABLED and item[1]:
         email_body = f"LINK: {url_link}\nNew post from {item[0]}:\n\n{post_text}"
-        send_email(subject, email_body)
+        try:
+            send_email(subject, email_body)
+        except (smtplib.SMTPException, OSError) as ex:
+            logger.error(f"send_email failed: {ex}")
+            sent_ok = False
     if SMS_ENABLED and item[1]:
         sms_message = subject + " - " + url_link
-        send_sms(sms_message)
-    save_found_post(post_text)
+        try:
+            send_sms(sms_message)
+        except (smtplib.SMTPException, OSError) as ex:
+            logger.error(f"send_sms failed: {ex}")
+            sent_ok = False
+    if sent_ok:
+        save_found_post(post_text)
 
 def scroll_down(driver, scrolls=5, scroll_height=500, wait_time=1):
     for _ in range(scrolls):
@@ -216,12 +228,12 @@ def send_email(subject, body):
             msg["Subject"] = subject
             msg.attach(MIMEText(body, "plain"))
             server.sendmail(EMAIL_SENDER, email_address, msg.as_string())
-            logging.info(f"Sent Email to {email_address}")
+            logger.info(f"Sent Email to {email_address}")
             time.sleep(1)
 
 def send_sms(url_message):
     global logger
-    logging.info("send_sms...")
+    logger.info("send_sms...")
     with smtplib.SMTP_SSL(EMAIL_SERVER, 465) as server:
         server.login(EMAIL_SENDER, EMAIL_PASSWORD)
         for phone_number in PHONE_NUMBERS:
@@ -230,12 +242,12 @@ def send_sms(url_message):
             msg["To"] = phone_number
             msg.attach(MIMEText(url_message, "plain"))
             server.sendmail(EMAIL_SENDER, phone_number, msg.as_string())
-            logging.info(f"Sent SMS to {phone_number}")
+            logger.info(f"Sent SMS to {phone_number}")
             time.sleep(1)
 
 def check_carrier():
     global logger
-    logging.info("check_carrier...")
+    logger.info("check_carrier...")
     with smtplib.SMTP_SSL(EMAIL_SERVER, 465) as server:
         server.login(EMAIL_SENDER, EMAIL_PASSWORD)
         for phone_number in CHECK_CARRIER_NUMBERS:
@@ -259,7 +271,7 @@ def check_carrier():
                 msg["To"] = email
                 msg.attach(MIMEText(f"Carrier: {carrier}\nPhoneNumber: {email}", "plain"))
                 server.sendmail(EMAIL_SENDER, email, msg.as_string())
-                logging.info(f"Checking SMS Carrier for {email}")
+                logger.info(f"Checking SMS Carrier for {email}")
                 time.sleep(1)
 
 def load_found_posts():
@@ -273,14 +285,15 @@ def load_found_posts():
     return LOADED_POSTS
 
 def save_found_post(post_text):
-    global FOUND_POSTS_FILE, logger
+    global FOUND_POSTS_FILE, LOADED_POSTS, logger
     logger.info("save_found_post...")
+    LOADED_POSTS.add(post_text)
     with open(FOUND_POSTS_FILE, "a", encoding="utf-8") as f:
         f.write(post_text + "\n")
     f.close()
 
 def normalize_text(text):
-    text = text.replace('\n', ' ').strip()
+    text = text.replace('\r', ' ').replace('\n', ' ').strip()
     return text
 
 def run_monitor(mode="MAIN", log=None):
@@ -296,6 +309,9 @@ def run_monitor(mode="MAIN", log=None):
     service = None
     try:
         driver = setup_browser()
+        if driver is None:
+            logger.error("No browser started, set BROWSER_TYPE to FIREFOX or CHROME")
+            return
         service = driver.service
         for item in TRUTH_SOCIAL_ACCOUNTS:
             check_truth_social_account(driver, item)

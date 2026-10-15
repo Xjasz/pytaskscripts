@@ -56,9 +56,10 @@ Scrapes and analyzes **Crash** and **Slide** game data from Stake.us.
 
 ```bash
 # General syntax
-python main.py <task> --log_mode [append|overwrite]
+python main.py <task> --log_mode [append|write]
 
 # Examples
 python main.py stake_task --log_mode append
-python main.py btc_task --log_mode overwrite
+python main.py btc_task --log_mode write
 python main.py crypto_monitor --log_mode append
+```
