@@ -9,7 +9,7 @@ def get_logger(task_name="default", mode="append"):
     logger = logging.getLogger(task_name)
     logger.setLevel(logging.INFO)
     if not logger.handlers:
-        file_handler = logging.FileHandler(log_path, mode=file_mode)
+        file_handler = logging.FileHandler(log_path, mode=file_mode, encoding="utf-8")
         file_handler.setFormatter(logging.Formatter('%(asctime)s [%(levelname)s] %(message)s'))
         logger.addHandler(file_handler)
         console_handler = logging.StreamHandler()

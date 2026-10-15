@@ -143,13 +143,15 @@ def insert_latest_mysql(game_type, point_label, records):
     try:
         with mysql.connector.connect(**db_config) as connection:
             with connection.cursor() as cursor:
+                inserted = 0
                 for record_id, record in records.items():
                     hash_id = record['id']
                     point = record[point_label]
                     start_time = datetime.strptime(record['startTime'], '%m/%d/%Y %H:%M:%S')
                     cursor.execute(insert_query, (hash_id, point, start_time))
+                    inserted += cursor.rowcount
                 connection.commit()
-        logger.info(f"Inserted {len(records)} new records into the database")
+        logger.info(f"Inserted {inserted} of {len(records)} fetched records into the database")
     except mysql.connector.Error as err:
         logger.error(f"Error inserting data into MySQL: {err}")
 
@@ -180,8 +182,10 @@ def get_latested_from_csv(game_type):
     if not os.path.exists(filepath):
         return None
     try:
-        with open(filepath, 'r') as f:
-            lines = f.readlines()
+        with open(filepath, 'rb') as f:
+            f.seek(0, os.SEEK_END)
+            f.seek(max(0, f.tell() - 200))
+            lines = f.read().decode().splitlines()
             if len(lines) < 2:
                 return None
             last_line = lines[-1].strip()
@@ -265,8 +269,8 @@ def adjust_time(gmt_time_str):
 
 def is_dst(dt):
     year = dt.year
-    dst_start = datetime(year, 3, 8, 2) + timedelta(days=(6 - datetime(year, 3, 8).weekday()))
-    dst_end = datetime(year, 11, 1, 2) + timedelta(days=(6 - datetime(year, 11, 1).weekday()))
+    dst_start = datetime(year, 3, 8, 7) + timedelta(days=(6 - datetime(year, 3, 8).weekday()))
+    dst_end = datetime(year, 11, 1, 6) + timedelta(days=(6 - datetime(year, 11, 1).weekday()))
     return dst_start <= dt.replace(tzinfo=None) < dst_end
 
 def run_stake_game(mode="CRASH",log=None):
@@ -304,9 +308,6 @@ def run_stake_game(mode="CRASH",log=None):
             time.sleep(5)
             if DEBUG_ENABLED:
                 logger.info(f"Checking {mode} data...")
-            cookies = browser_driver.get_cookies()
-            cookie_str = '; '.join([f"{cookie['name']}={cookie['value']}" for cookie in cookies])
-            escaped_cookie_str = cookie_str.replace('"', '\\"')
             offset = 0
             limit = 50
             while offset < 900:
@@ -330,8 +331,7 @@ def run_stake_game(mode="CRASH",log=None):
                         method: "POST",
                         headers: {{
                             "Content-Type": "application/json",
-                            "Accept": "application/graphql+json, application/json",
-                            "Cookie": "{escaped_cookie_str}"
+                            "Accept": "application/graphql+json, application/json"
                         }},
                         body: JSON.stringify({{
                             query: `{query}`,

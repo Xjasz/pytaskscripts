@@ -193,19 +193,23 @@ def alert_event(item, found_keywords, post_text, url_link):
     logger.info(f"Post text: {post_text}")
     logger.info("~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~")
     subject = f"Crypto Account: {item[0]} found ({', '.join(found_keywords)})"
-    save_found_post(post_text)
+    sent_ok = True
     if EMAIL_ENABLED and item[1]:
         email_body = f"LINK: {url_link}\nNew post from {item[0]}:\n\n{post_text}"
         try:
             send_email(subject, email_body)
         except (smtplib.SMTPException, OSError) as ex:
             logger.error(f"send_email failed: {ex}")
+            sent_ok = False
     if SMS_ENABLED and item[1]:
         sms_message = subject + " - " + url_link
         try:
             send_sms(sms_message)
         except (smtplib.SMTPException, OSError) as ex:
             logger.error(f"send_sms failed: {ex}")
+            sent_ok = False
+    if sent_ok:
+        save_found_post(post_text)
 
 def scroll_down(driver, scrolls=5, scroll_height=500, wait_time=1):
     for _ in range(scrolls):
@@ -289,7 +293,7 @@ def save_found_post(post_text):
     f.close()
 
 def normalize_text(text):
-    text = text.replace('\n', ' ').strip()
+    text = text.replace('\r', ' ').replace('\n', ' ').strip()
     return text
 
 def run_monitor(mode="MAIN", log=None):
