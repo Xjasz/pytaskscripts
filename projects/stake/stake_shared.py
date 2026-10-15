@@ -50,7 +50,9 @@ def setup_browser():
         options.set_preference("webdriver.log.file", "NUL" if os.name == "nt" else "/dev/null")
         options.set_preference('dom.webnotifications.enabled', False)
         options.set_preference('media.peerconnection.enabled', True)
-        options.set_preference("profile", BROWSER_PROFILE_DIR)
+        if BROWSER_PROFILE_DIR:
+            options.add_argument("-profile")
+            options.add_argument(BROWSER_PROFILE_DIR)
         # Comment to view
         # options.add_argument('--headless')
         # options.add_argument("--window-size=0,0")
@@ -135,7 +137,7 @@ def ensure_table_exists(game_type, point_label):
 def insert_latest_mysql(game_type, point_label, records):
     global logger
     insert_query = f"""
-        INSERT INTO stake_{game_type} (hash_id, {point_label}, start_time)
+        INSERT IGNORE INTO stake_{game_type} (hash_id, {point_label}, start_time)
         VALUES (%s, %s, %s)
     """
     try:
@@ -277,6 +279,9 @@ def run_stake_game(mode="CRASH",log=None):
     query_outer_name = "crashGameList" if mode == "crash" else "slideList"
     query_name = "crashGameList" if mode == "crash" else "slideGameList"
     browser_driver = setup_browser()
+    if browser_driver is None:
+        logger.error("No browser started, set BROWSER_TYPE to FIREFOX or CHROME")
+        return
     driver_service = browser_driver.service
     new_data = {}
     csv_latest = get_latested_from_csv(mode)

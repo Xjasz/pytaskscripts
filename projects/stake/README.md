@@ -59,9 +59,7 @@ pip install --upgrade --force-reinstall --no-cache-dir -r requirements.txt
 ## 🚀 Usage
 
 ```bash
-python main.py --mode crash     # Scrape and analyze Crash data
-python main.py --mode slide     # Scrape and analyze Slide data
-python main.py --mode both      # Run both Crash and Slide
+python main.py stake_task       # the game comes from stake_task.mode in config.json (CRASH or SLIDE)
 ```
 
 ---
